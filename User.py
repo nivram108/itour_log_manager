@@ -32,7 +32,28 @@ class User():
             self.collected_checkin.append(LogDatum(checkin_id, location, False, timestamp))
         elif tag == LOG_REPORT_CHECKIN:
             self.report_checkin.append(LogDatum(checkin_id, location, True, timestamp))
-        elif tag == LOG_REPORT_ANYWHERE
+        elif tag == LOG_REPORT_ANYWHERE:
             self.report_anywhere.append(LogDatum(location, location, True, timestamp))
     def write_data():
-        
+        for log in self.report_anywhere:
+            is_togo_result = self.is_togo(log)
+            is_viewed_from_notification_result = self.is_viewed_from_notification(log)
+            is_viewed_from_notification_result = self.is_viewed_from_notification(log)
+            is_viewed_from_checkin_result = self.is_viewed_from_checkin(log)
+            liked_result = self.liked(log)
+            saved_result = self.saved(log)
+            type_result = self.type(log)
+    def is_togo(log):
+        result = False
+        for togo_data in self.togo_list:
+            if log.location == togo_data.location and log.timestamp > togo_data.timestamp:
+                result = togo_data.flag
+        return result
+    def is_viewed_from_notification(log):
+        return True
+    def is_viewed_from_checkin(log):
+        return True
+    def liked(log):
+        return True
+    def saved(log):
+        return True

@@ -1,5 +1,6 @@
 class Checkin():
-    def __init__(location, lat, lng):
+    def __init__(checkin_key, location, lat, lng):
+        self.checkin_key = checkin_key
         self.location = location
         self.lat = lat
         self.lng = lng
