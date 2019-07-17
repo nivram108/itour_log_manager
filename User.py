@@ -2,9 +2,10 @@ from LogDatum import *
 from LogTag import *
 
 class User():
-    def __init__(self, uid, name):
+    def __init__(self, uid, name, checkin_location_dict):
         self.uid = uid
         self.name = name
+        self.checkin_location_dict = checkin_location_dict
         self.togo_list = []
         self.viewed_notification = []
         self.viewed_checkin = []
@@ -12,7 +13,6 @@ class User():
         self.collected_checkin = []
         self.report_anywhere = []
         self.report_checkin = []
-        pass
     def read_log(tag, checkin, location, timestamp):
         if tag == LOG_TOGO_ADD:
             self.togo_list.append(LogDatum(location, location, True, timestamp))
