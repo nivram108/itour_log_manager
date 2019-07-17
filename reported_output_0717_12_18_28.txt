@@ -1,0 +1,10 @@
+UPb7YJ0R7wdHKp9gd4mEBw0HqhF3,Charles,金色水岸自行車道,False,False,False,False,False,report anywhere
+UPb7YJ0R7wdHKp9gd4mEBw0HqhF3,Charles,曾記阿給,False,False,False,False,False,report anywhere
+UPb7YJ0R7wdHKp9gd4mEBw0HqhF3,Charles,無論如何獨立書店,False,False,False,False,False,report anywhere
+UPb7YJ0R7wdHKp9gd4mEBw0HqhF3,Charles,馬偕銅像,False,False,False,False,False,report anywhere
+UPb7YJ0R7wdHKp9gd4mEBw0HqhF3,Charles,晴光紅豆餅,False,False,False,False,False,report anywhere
+UPb7YJ0R7wdHKp9gd4mEBw0HqhF3,Charles,Mr. Brown,False,False,False,False,False,report anywhere
+UPb7YJ0R7wdHKp9gd4mEBw0HqhF3,Charles,coco,False,False,False,False,False,report anywhere
+UPb7YJ0R7wdHKp9gd4mEBw0HqhF3,Charles,mr. brown,False,False,True,True,True,report saved
+UPb7YJ0R7wdHKp9gd4mEBw0HqhF3,Charles,金色水岸,True,False,False,False,False,report togo
+UPb7YJ0R7wdHKp9gd4mEBw0HqhF3,Charles,淡水老街,True,False,False,False,False,report togo
