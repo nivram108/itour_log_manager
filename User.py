@@ -123,21 +123,21 @@ class User():
     def get_result_by_location(self, log, log_data_list):
         result = False
         for log_data in log_data_list:
-            if log.location == log_data.location and log.timestamp > log_data.timestamp:
+            if log.location == log_data.location and log.timestamp >= log_data.timestamp:
                 #print(log.location + " > " + str(log.timestamp) + ", " + str(log_data.timestamp))
                 result = log_data.flag
         return str(result)
     def get_result_by_checkin_id(self, log, log_data_list):
         result = False
         for log_data in log_data_list:
-            if log.checkin_id == log_data.checkin_id and log.timestamp > log_data.timestamp:
+            if log.checkin_id == log_data.checkin_id and log.timestamp >= log_data.timestamp:
                 result = log_data.flag
         return str(result)
     def unvisited(self, log):
         result = True
         flag = True
         for log_data in self.togo_list:
-            if log.location == log_data.location and log.timestamp > log_data.timestamp:
+            if log.location == log_data.location and log.timestamp >= log_data.timestamp:
                 #print(log.location + " > " + str(log.timestamp) + ", " + str(log_data.timestamp))
                 flag = log_data.flag
         if flag == False:

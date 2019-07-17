@@ -3,7 +3,7 @@ from time import gmtime, strftime
 import json
 import collections
 
-output_file_name = "output_" + strftime("%m%d_%H_%M_%S", gmtime()) + ".txt"
+output_file_name = "output_" + strftime("%m%d_%H_%M_%S", gmtime()) + ".csv"
 checkin_location_dict = {}
 reported_file = open("reported_" + output_file_name, "a")
 unvisited_file = open("unvisited_" + output_file_name, "a")
