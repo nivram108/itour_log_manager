@@ -5,8 +5,14 @@ import collections
 
 output_file_name = "output_" + strftime("%m%d_%H_%M_%S", gmtime()) + ".txt"
 checkin_location_dict = {}
+reported_file = open("reported_" + output_file_name, "a")
+unvisited_file = open("unvisited_" + output_file_name, "a")
 
 def main():
+    reported_file.write("uid,name,location,togo,notification,checkin,liked,saved,type\n")
+    reported_file.close()
+    unvisited_file.write("uid,name,location,togo,notification,checkin,liked,saved\n")
+    unvisited_file.close()
     set_checkin_location_dict()
     read_log()
 def set_checkin_location_dict():

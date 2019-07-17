@@ -1,3 +1,4 @@
+uid,name,location,togo,notification,checkin,liked,saved,type
 UPb7YJ0R7wdHKp9gd4mEBw0HqhF3,Charles,金色水岸自行車道,False,False,False,False,False,report anywhere
 UPb7YJ0R7wdHKp9gd4mEBw0HqhF3,Charles,曾記阿給,False,False,False,False,False,report anywhere
 UPb7YJ0R7wdHKp9gd4mEBw0HqhF3,Charles,無論如何獨立書店,False,False,False,False,False,report anywhere

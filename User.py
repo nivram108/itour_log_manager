@@ -118,7 +118,7 @@ class User():
                 is_viewed_from_checkin_result = self.get_result_by_checkin_id(log, self.viewed_checkin)
                 liked_result = self.get_result_by_checkin_id(log, self.liked_checkin)
                 saved_result = self.get_result_by_checkin_id(log, self.collected_checkin)
-                self.write_unvisited(uid + "," + name + "," + location + "," + is_togo_result + "," + is_viewed_from_notification_result + "," + is_viewed_from_checkin_result + "," + liked_result + "," + saved_result + "," + "report togo")
+                self.write_unvisited(uid + "," + name + "," + location + "," + is_togo_result + "," + is_viewed_from_notification_result + "," + is_viewed_from_checkin_result + "," + liked_result + "," + saved_result)
 
     def get_result_by_location(self, log, log_data_list):
         result = False
