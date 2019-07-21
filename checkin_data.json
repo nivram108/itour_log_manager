@@ -731,6 +731,9 @@
     "description" : "裡面有一股古味",
     "fakeFlag" : false,
     "lat" : "25.16941",
+    "like" : {
+      "ZcCpHQO1waZo2DeNHZGdyDt0Xjx2" : true
+    },
     "likeNum" : 0,
     "lng" : "121.44048",
     "location" : "三協成博物館",
@@ -767,6 +770,10 @@
     "description" : "阿給+包子",
     "fakeFlag" : false,
     "lat" : "25.17381",
+    "like" : {
+      "ZcCpHQO1waZo2DeNHZGdyDt0Xjx2" : true,
+      "oFs9h34Kj4ah5YQEYdwJ4PE5iXp2" : true
+    },
     "likeNum" : 0,
     "lng" : "121.43742",
     "location" : "文化阿給",
@@ -785,6 +792,9 @@
     "description" : "台灣第一台印刷機",
     "fakeFlag" : false,
     "lat" : "25.171816",
+    "like" : {
+      "oFs9h34Kj4ah5YQEYdwJ4PE5iXp2" : true
+    },
     "likeNum" : 0,
     "lng" : "121.438515",
     "location" : "",
@@ -796,5 +806,250 @@
     "timestamp" : 1563689546,
     "uid" : "URRbpmf81mawZ0FXIavt1r9gZim2",
     "username" : "money"
+  },
+  "-LkI9mvirdAaRwMXgwB7" : {
+    "category" : "宗教",
+    "collectNum" : 0,
+    "description" : ",,🥰",
+    "fakeFlag" : false,
+    "lat" : "25.171883",
+    "likeNum" : 0,
+    "lng" : "121.43844",
+    "location" : "",
+    "photo" : "-LkI9mvirdAaRwMXgwB7.jpg",
+    "popularTargetUid" : {
+      "all" : false
+    },
+    "targetUid" : "all",
+    "timestamp" : 1563689690,
+    "uid" : "URRbpmf81mawZ0FXIavt1r9gZim2",
+    "username" : "money"
+  },
+  "-LkIAS1SZ3eB5dEPJ9c1" : {
+    "category" : "宗教",
+    "checkinComment" : {
+      "-LkIBQFhf9rPFB4B6I_X" : {
+        "msg" : "好壯觀呀！",
+        "timestamp" : 1563690119,
+        "uid" : "oFs9h34Kj4ah5YQEYdwJ4PE5iXp2",
+        "username" : "Ann"
+      }
+    },
+    "collectNum" : 0,
+    "description" : "今天很熱(圖文不符",
+    "fakeFlag" : false,
+    "lat" : "25.17185",
+    "likeNum" : 0,
+    "lng" : "121.43839",
+    "location" : "",
+    "photo" : "-LkIAS1SZ3eB5dEPJ9c1.jpg",
+    "popularTargetUid" : {
+      "all" : false
+    },
+    "targetUid" : "all",
+    "timestamp" : 1563689862,
+    "uid" : "URRbpmf81mawZ0FXIavt1r9gZim2",
+    "username" : "money"
+  },
+  "-LkIBEEZbmU52hZuYRXd" : {
+    "category" : "其他",
+    "checkinComment" : {
+      "-LkIBNHyDFIBDuHl1hKW" : {
+        "msg" : "好拍嗎？",
+        "timestamp" : 1563690107,
+        "uid" : "oFs9h34Kj4ah5YQEYdwJ4PE5iXp2",
+        "username" : "Ann"
+      }
+    },
+    "collectNum" : 0,
+    "description" : "網美打卡點",
+    "fakeFlag" : false,
+    "lat" : "25.17053",
+    "like" : {
+      "oFs9h34Kj4ah5YQEYdwJ4PE5iXp2" : true
+    },
+    "likeNum" : 0,
+    "lng" : "121.43987",
+    "location" : "3D意象彩繪階梯",
+    "photo" : "-LkIBEEZbmU52hZuYRXd.jpg",
+    "popularTargetUid" : {
+      "all" : false
+    },
+    "targetUid" : "all",
+    "timestamp" : 1563690070,
+    "uid" : "4TE26xtwsONQwPBFRCgLj3Sg2rB3",
+    "username" : "I-Ju"
+  },
+  "-LkIBbm64hKK_8l1oSXN" : {
+    "category" : "其他",
+    "collectNum" : 0,
+    "description" : "不同方向，不同畫",
+    "fakeFlag" : false,
+    "lat" : "25.17053",
+    "likeNum" : 0,
+    "lng" : "121.43987",
+    "location" : "3D意象彩繪階梯",
+    "photo" : "-LkIBbm64hKK_8l1oSXN.jpg",
+    "popularTargetUid" : {
+      "all" : false
+    },
+    "targetUid" : "all",
+    "timestamp" : 1563690170,
+    "uid" : "4TE26xtwsONQwPBFRCgLj3Sg2rB3",
+    "username" : "I-Ju"
+  },
+  "-LkIBv83za4VCcSmVs81" : {
+    "category" : "其他",
+    "collectNum" : 0,
+    "description" : "等等在博朗咖啡三樓靠海的地方集合",
+    "fakeFlag" : false,
+    "lat" : "25.169758",
+    "like" : {
+      "oFs9h34Kj4ah5YQEYdwJ4PE5iXp2" : true
+    },
+    "likeNum" : 0,
+    "lng" : "121.4398",
+    "location" : "伯朗咖啡",
+    "photo" : "-LkIBv83za4VCcSmVs81.jpg",
+    "popularTargetUid" : {
+      "all" : false
+    },
+    "targetUid" : "all",
+    "timestamp" : 1563690250,
+    "uid" : "ZcCpHQO1waZo2DeNHZGdyDt0Xjx2",
+    "username" : "Emily Lin"
+  },
+  "-LkIC4CTr1PUgTJKVazk" : {
+    "category" : "其他",
+    "checkinComment" : {
+      "-LkICMpG5FvzeCwn4YYE" : {
+        "msg" : "好可愛喔~~",
+        "timestamp" : 1563690367,
+        "uid" : "oFs9h34Kj4ah5YQEYdwJ4PE5iXp2",
+        "username" : "Ann"
+      }
+    },
+    "collectNum" : 0,
+    "description" : "淡水輕旅 行",
+    "fakeFlag" : false,
+    "lat" : "25.171873",
+    "like" : {
+      "oFs9h34Kj4ah5YQEYdwJ4PE5iXp2" : true
+    },
+    "likeNum" : 0,
+    "lng" : "121.438354",
+    "location" : "",
+    "photo" : "-LkIC4CTr1PUgTJKVazk.jpg",
+    "popularTargetUid" : {
+      "all" : false
+    },
+    "targetUid" : "all",
+    "timestamp" : 1563690289,
+    "uid" : "URRbpmf81mawZ0FXIavt1r9gZim2",
+    "username" : "money"
+  },
+  "-LkICFnmlfYrfODpqpol" : {
+    "category" : "其他",
+    "collectNum" : 0,
+    "description" : "美到不敢走",
+    "fakeFlag" : false,
+    "lat" : "25.170612",
+    "like" : {
+      "oFs9h34Kj4ah5YQEYdwJ4PE5iXp2" : true
+    },
+    "likeNum" : 0,
+    "lng" : "121.44029",
+    "location" : "",
+    "photo" : "-LkICFnmlfYrfODpqpol.jpg",
+    "popularTargetUid" : {
+      "all" : false
+    },
+    "targetUid" : "all",
+    "timestamp" : 1563690338,
+    "uid" : "4TE26xtwsONQwPBFRCgLj3Sg2rB3",
+    "username" : "I-Ju"
+  },
+  "-LkICnEIEiFAr9MGfEfr" : {
+    "category" : "宗教",
+    "checkinComment" : {
+      "-LkIDhcHlh9eIs-K1SPb" : {
+        "msg" : "QQQ",
+        "timestamp" : 1563690719,
+        "uid" : "oFs9h34Kj4ah5YQEYdwJ4PE5iXp2",
+        "username" : "Ann"
+      }
+    },
+    "collectNum" : 0,
+    "description" : "真的在整修",
+    "fakeFlag" : false,
+    "lat" : "25.17018",
+    "likeNum" : 0,
+    "lng" : "121.43994",
+    "location" : "福佑宮",
+    "photo" : "-LkICnEIEiFAr9MGfEfr.jpg",
+    "popularTargetUid" : {
+      "all" : false
+    },
+    "targetUid" : "all",
+    "timestamp" : 1563690479,
+    "uid" : "4TE26xtwsONQwPBFRCgLj3Sg2rB3",
+    "username" : "I-Ju"
+  },
+  "-LkIF0hsbEmP17rTlqha" : {
+    "category" : "交通",
+    "collectNum" : 0,
+    "description" : "船",
+    "fakeFlag" : false,
+    "lat" : "25.169832",
+    "like" : {
+      "oFs9h34Kj4ah5YQEYdwJ4PE5iXp2" : true
+    },
+    "likeNum" : 0,
+    "lng" : "121.43871",
+    "location" : "淡水渡船頭",
+    "photo" : "-LkIF0hsbEmP17rTlqha.jpg",
+    "popularTargetUid" : {
+      "all" : false
+    },
+    "targetUid" : "all",
+    "timestamp" : 1563691063,
+    "uid" : "ObT83xbHaLhzH8lVsHpM7uP9qGn1",
+    "username" : "chcchung"
+  },
+  "-LkIFkxc2SaBA4VY-8NT" : {
+    "category" : "美食",
+    "collectNum" : 0,
+    "description" : "結束後來這裡訪談唷！",
+    "fakeFlag" : false,
+    "lat" : "25.169724",
+    "likeNum" : 0,
+    "lng" : "121.43984",
+    "location" : "伯朗咖啡館",
+    "photo" : "-LkIFkxc2SaBA4VY-8NT.jpg",
+    "popularTargetUid" : {
+      "all" : false
+    },
+    "targetUid" : "all",
+    "timestamp" : 1563691256,
+    "uid" : "oFs9h34Kj4ah5YQEYdwJ4PE5iXp2",
+    "username" : "Ann"
+  },
+  "-LkIFzFxIvswSd4dssRM" : {
+    "category" : "歷史",
+    "collectNum" : 0,
+    "description" : "",
+    "fakeFlag" : false,
+    "lat" : "25.17201",
+    "likeNum" : 0,
+    "lng" : "121.43844",
+    "location" : "淡水禮拜堂",
+    "photo" : "-LkIFzFxIvswSd4dssRM.jpg",
+    "popularTargetUid" : {
+      "all" : false
+    },
+    "targetUid" : "all",
+    "timestamp" : 1563691315,
+    "uid" : "4TE26xtwsONQwPBFRCgLj3Sg2rB3",
+    "username" : "I-Ju"
   }
 }

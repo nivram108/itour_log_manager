@@ -1430,6 +1430,146 @@
         "tag" : "Checkin Add",
         "timestamp" : 1563689222,
         "uid" : "4TE26xtwsONQwPBFRCgLj3Sg2rB3"
+      },
+      "-LkIBEEa75JJwirbT_Y6" : {
+        "lat" : "25.170713",
+        "lng" : "121.439964",
+        "msg" : "-LkIBEEZbmU52hZuYRXd",
+        "name" : "I-Ju",
+        "note" : "",
+        "tag" : "Checkin Add",
+        "timestamp" : 1563690070,
+        "uid" : "4TE26xtwsONQwPBFRCgLj3Sg2rB3"
+      },
+      "-LkIBbm76j-v91AV6ozJ" : {
+        "lat" : "25.170717",
+        "lng" : "121.43995",
+        "msg" : "-LkIBbm64hKK_8l1oSXN",
+        "name" : "I-Ju",
+        "note" : "",
+        "tag" : "Checkin Add",
+        "timestamp" : 1563690170,
+        "uid" : "4TE26xtwsONQwPBFRCgLj3Sg2rB3"
+      },
+      "-LkICFnoMRaZzMvVyvTT" : {
+        "lat" : "25.170593",
+        "lng" : "121.44027",
+        "msg" : "-LkICFnmlfYrfODpqpol",
+        "name" : "I-Ju",
+        "note" : "",
+        "tag" : "Checkin Add",
+        "timestamp" : 1563690338,
+        "uid" : "4TE26xtwsONQwPBFRCgLj3Sg2rB3"
+      },
+      "-LkICLV02Ys6wRiAEtti" : {
+        "lat" : "25.1705",
+        "lng" : "121.44024",
+        "msg" : "-LkI8-Q1U0i4c330zcrO",
+        "name" : "I-Ju",
+        "note" : " Is Collected Checkin",
+        "tag" : "News Clicked Like",
+        "timestamp" : 1563690361,
+        "uid" : "4TE26xtwsONQwPBFRCgLj3Sg2rB3"
+      },
+      "-LkICLVg_BIvZ6ktqZ4k" : {
+        "lat" : "25.1705",
+        "lng" : "121.44024",
+        "msg" : "-LkI8-Q1U0i4c330zcrO",
+        "name" : "I-Ju",
+        "note" : "NewsFragment",
+        "tag" : "Checkin Open",
+        "timestamp" : 1563690361,
+        "uid" : "4TE26xtwsONQwPBFRCgLj3Sg2rB3"
+      },
+      "-LkICPhzMlRcEhM6TCLI" : {
+        "lat" : "25.170454",
+        "lng" : "121.44015",
+        "msg" : "-LkI8-Q1U0i4c330zcrO",
+        "name" : "I-Ju",
+        "note" : "",
+        "tag" : "Checkin Close",
+        "timestamp" : 1563690379,
+        "uid" : "4TE26xtwsONQwPBFRCgLj3Sg2rB3"
+      },
+      "-LkICQ87XcSj4tKD42n3" : {
+        "lat" : "25.170448",
+        "lng" : "121.440155",
+        "msg" : "-LkICFnmlfYrfODpqpol",
+        "name" : "I-Ju",
+        "note" : " Is Collected Checkin",
+        "tag" : "News Clicked Like",
+        "timestamp" : 1563690380,
+        "uid" : "4TE26xtwsONQwPBFRCgLj3Sg2rB3"
+      },
+      "-LkICQ8vxcbSk5pcn5eC" : {
+        "lat" : "25.170448",
+        "lng" : "121.440155",
+        "msg" : "-LkICFnmlfYrfODpqpol",
+        "name" : "I-Ju",
+        "note" : "NewsFragment",
+        "tag" : "Checkin Open",
+        "timestamp" : 1563690381,
+        "uid" : "4TE26xtwsONQwPBFRCgLj3Sg2rB3"
+      },
+      "-LkICVGxzngUFMF5_6-i" : {
+        "lat" : "25.170265",
+        "lng" : "121.44014",
+        "msg" : "-LkICFnmlfYrfODpqpol",
+        "name" : "I-Ju",
+        "note" : "",
+        "tag" : "Checkin Close",
+        "timestamp" : 1563690402,
+        "uid" : "4TE26xtwsONQwPBFRCgLj3Sg2rB3"
+      },
+      "-LkICVTFp9PbSjWNSs6W" : {
+        "lat" : "25.170244",
+        "lng" : "121.44013",
+        "msg" : "-LkIBEEZbmU52hZuYRXd",
+        "name" : "I-Ju",
+        "note" : " Is Collected Checkin",
+        "tag" : "News Clicked Like",
+        "timestamp" : 1563690402,
+        "uid" : "4TE26xtwsONQwPBFRCgLj3Sg2rB3"
+      },
+      "-LkICVVsEiIOJjqwhYW6" : {
+        "lat" : "25.170244",
+        "lng" : "121.44013",
+        "msg" : "-LkIBEEZbmU52hZuYRXd",
+        "name" : "I-Ju",
+        "note" : "NewsFragment",
+        "tag" : "Checkin Open",
+        "timestamp" : 1563690402,
+        "uid" : "4TE26xtwsONQwPBFRCgLj3Sg2rB3"
+      },
+      "-LkIC_3XF9DASZtwauV_" : {
+        "lat" : "25.170088",
+        "lng" : "121.44",
+        "msg" : "-LkIBEEZbmU52hZuYRXd",
+        "name" : "I-Ju",
+        "note" : "",
+        "tag" : "Checkin Close",
+        "timestamp" : 1563690421,
+        "uid" : "4TE26xtwsONQwPBFRCgLj3Sg2rB3"
+      },
+      "-LkICnEJr48VflkDlkj4" : {
+        "lat" : "25.17022",
+        "lng" : "121.43975",
+        "msg" : "-LkICnEIEiFAr9MGfEfr",
+        "name" : "I-Ju",
+        "note" : "",
+        "tag" : "Checkin Add",
+        "timestamp" : 1563690479,
+        "uid" : "4TE26xtwsONQwPBFRCgLj3Sg2rB3"
+      },
+      "-LkIFzFz0b5tiLjUtZXY" : {
+        "lat" : "25.171942",
+        "lng" : "121.43829",
+        "msg" : "-LkIFzFxIvswSd4dssRM",
+        "name" : "I-Ju",
+        "note" : "",
+        "tag" : "Checkin Add",
+        "timestamp" : 1563691315,
+        "uid" : "4TE26xtwsONQwPBFRCgLj3Sg2rB3"
       }
     }
   },
@@ -1803,6 +1943,46 @@
         "note" : "",
         "tag" : "Checkin Add",
         "timestamp" : 1563689456,
+        "uid" : "ObT83xbHaLhzH8lVsHpM7uP9qGn1"
+      },
+      "-LkIDQYFGiT_TREx3BOu" : {
+        "lat" : "25.17107",
+        "lng" : "121.43871",
+        "msg" : "-LkI8tIC-wBSzCBOiMI0",
+        "name" : "chcchung",
+        "note" : " Is Collected Checkin",
+        "tag" : "News Clicked Like",
+        "timestamp" : 1563690645,
+        "uid" : "ObT83xbHaLhzH8lVsHpM7uP9qGn1"
+      },
+      "-LkIDQZKauwF9M2KQ-ii" : {
+        "lat" : "25.17107",
+        "lng" : "121.43871",
+        "msg" : "-LkI8tIC-wBSzCBOiMI0",
+        "name" : "chcchung",
+        "note" : "NewsFragment",
+        "tag" : "Checkin Open",
+        "timestamp" : 1563690645,
+        "uid" : "ObT83xbHaLhzH8lVsHpM7uP9qGn1"
+      },
+      "-LkIDRZCA2Q-Tmlb52nd" : {
+        "lat" : "25.17107",
+        "lng" : "121.43871",
+        "msg" : "-LkI8tIC-wBSzCBOiMI0",
+        "name" : "chcchung",
+        "note" : "",
+        "tag" : "Checkin Close",
+        "timestamp" : 1563690649,
+        "uid" : "ObT83xbHaLhzH8lVsHpM7uP9qGn1"
+      },
+      "-LkIF0huAS2nkQfnylkA" : {
+        "lat" : "25.17107",
+        "lng" : "121.43871",
+        "msg" : "-LkIF0hsbEmP17rTlqha",
+        "name" : "chcchung",
+        "note" : "",
+        "tag" : "Checkin Add",
+        "timestamp" : 1563691063,
         "uid" : "ObT83xbHaLhzH8lVsHpM7uP9qGn1"
       }
     }
@@ -3558,6 +3738,406 @@
         "tag" : "Checkin Add",
         "timestamp" : 1563689862,
         "uid" : "URRbpmf81mawZ0FXIavt1r9gZim2"
+      },
+      "-LkIC4CUl1ZCISmJnPnD" : {
+        "lat" : "25.171875",
+        "lng" : "121.438354",
+        "msg" : "-LkIC4CTr1PUgTJKVazk",
+        "name" : "money",
+        "note" : "",
+        "tag" : "Checkin Add",
+        "timestamp" : 1563690289,
+        "uid" : "URRbpmf81mawZ0FXIavt1r9gZim2"
+      },
+      "-LkIEilWhxYVF7EKOApt" : {
+        "lat" : "25.169731",
+        "lng" : "121.43982",
+        "msg" : "-LkI8MxkmquIPFus36ca",
+        "name" : "money",
+        "note" : "PostedCheckinFragment",
+        "tag" : "Checkin Open",
+        "timestamp" : 1563690984,
+        "uid" : "URRbpmf81mawZ0FXIavt1r9gZim2"
+      },
+      "-LkIEkCoo4MrLT0MZlLK" : {
+        "lat" : "25.169733",
+        "lng" : "121.439835",
+        "msg" : "-LkI8MxkmquIPFus36ca",
+        "name" : "money",
+        "note" : "",
+        "tag" : "Checkin Close",
+        "timestamp" : 1563690989,
+        "uid" : "URRbpmf81mawZ0FXIavt1r9gZim2"
+      },
+      "-LkIEqZVvHHjRD0JqBL0" : {
+        "lat" : "25.169733",
+        "lng" : "121.439835",
+        "msg" : "-LkI7OqjBpJkXGYNsarH",
+        "name" : "money",
+        "note" : "PostedCheckinFragment",
+        "tag" : "Checkin Open",
+        "timestamp" : 1563691015,
+        "uid" : "URRbpmf81mawZ0FXIavt1r9gZim2"
+      },
+      "-LkIEqq1b2_8dtV3v2AC" : {
+        "lat" : "25.169733",
+        "lng" : "121.439835",
+        "msg" : "-LkI7OqjBpJkXGYNsarH",
+        "name" : "money",
+        "note" : "",
+        "tag" : "Checkin Close",
+        "timestamp" : 1563691017,
+        "uid" : "URRbpmf81mawZ0FXIavt1r9gZim2"
+      },
+      "-LkIEtVUENbEa9lAJFXl" : {
+        "lat" : "25.169731",
+        "lng" : "121.439835",
+        "msg" : "-LkI7OqjBpJkXGYNsarH",
+        "name" : "money",
+        "note" : "PostedCheckinFragment",
+        "tag" : "Checkin Open",
+        "timestamp" : 1563691027,
+        "uid" : "URRbpmf81mawZ0FXIavt1r9gZim2"
+      },
+      "-LkIEu87-x83sdtOUhlf" : {
+        "lat" : "25.169731",
+        "lng" : "121.439835",
+        "msg" : "-LkI7OqjBpJkXGYNsarH",
+        "name" : "money",
+        "note" : "",
+        "tag" : "Checkin Close",
+        "timestamp" : 1563691030,
+        "uid" : "URRbpmf81mawZ0FXIavt1r9gZim2"
+      },
+      "-LkIF1QdnfPsuuDhpQBW" : {
+        "lat" : "25.169739",
+        "lng" : "121.43982",
+        "msg" : "-LkIC4CTr1PUgTJKVazk",
+        "name" : "money",
+        "note" : "PostedCheckinFragment",
+        "tag" : "Checkin Open",
+        "timestamp" : 1563691064,
+        "uid" : "URRbpmf81mawZ0FXIavt1r9gZim2"
+      },
+      "-LkIF24fXeRMu3DK6EKb" : {
+        "lat" : "25.169737",
+        "lng" : "121.43982",
+        "msg" : "-LkIC4CTr1PUgTJKVazk",
+        "name" : "money",
+        "note" : "",
+        "tag" : "Checkin Close",
+        "timestamp" : 1563691067,
+        "uid" : "URRbpmf81mawZ0FXIavt1r9gZim2"
+      },
+      "-LkIFl6zcVrrejjbk5gg" : {
+        "lat" : "25.169752",
+        "lng" : "121.43983",
+        "msg" : "-LkI7OqjBpJkXGYNsarH",
+        "name" : "money",
+        "note" : "MapFragment",
+        "tag" : "Checkin Open",
+        "timestamp" : 1563691255,
+        "uid" : "URRbpmf81mawZ0FXIavt1r9gZim2"
+      },
+      "-LkIFlwEgaNHG7RfmsKk" : {
+        "lat" : "25.169752",
+        "lng" : "121.43983",
+        "msg" : "-LkI7OqjBpJkXGYNsarH",
+        "name" : "money",
+        "note" : "",
+        "tag" : "Checkin Close",
+        "timestamp" : 1563691259,
+        "uid" : "URRbpmf81mawZ0FXIavt1r9gZim2"
+      },
+      "-LkIFn43m77fJ75wmQBU" : {
+        "lat" : "25.169752",
+        "lng" : "121.43983",
+        "msg" : "-LkIC4CTr1PUgTJKVazk",
+        "name" : "money",
+        "note" : "MapFragment",
+        "tag" : "Checkin Open",
+        "timestamp" : 1563691263,
+        "uid" : "URRbpmf81mawZ0FXIavt1r9gZim2"
+      },
+      "-LkIFnLNHQVrfT74Z5wB" : {
+        "lat" : "25.169752",
+        "lng" : "121.43983",
+        "msg" : "-LkIC4CTr1PUgTJKVazk",
+        "name" : "money",
+        "note" : "",
+        "tag" : "Checkin Close",
+        "timestamp" : 1563691264,
+        "uid" : "URRbpmf81mawZ0FXIavt1r9gZim2"
+      },
+      "-LkIFoL5hRDAyt6kilKN" : {
+        "lat" : "25.16975",
+        "lng" : "121.439835",
+        "msg" : "-LkI7OqjBpJkXGYNsarH",
+        "name" : "money",
+        "note" : "MapFragment",
+        "tag" : "Checkin Open",
+        "timestamp" : 1563691268,
+        "uid" : "URRbpmf81mawZ0FXIavt1r9gZim2"
+      },
+      "-LkIFoX_eaBO3-OZgZqx" : {
+        "lat" : "25.169748",
+        "lng" : "121.43984",
+        "msg" : "-LkI7OqjBpJkXGYNsarH",
+        "name" : "money",
+        "note" : "",
+        "tag" : "Checkin Close",
+        "timestamp" : 1563691269,
+        "uid" : "URRbpmf81mawZ0FXIavt1r9gZim2"
+      },
+      "-LkIFqHmbFCl99Uw56JH" : {
+        "lat" : "25.16974",
+        "lng" : "121.43984",
+        "msg" : "-LkIC4CTr1PUgTJKVazk",
+        "name" : "money",
+        "note" : "MapFragment",
+        "tag" : "Checkin Open",
+        "timestamp" : 1563691276,
+        "uid" : "URRbpmf81mawZ0FXIavt1r9gZim2"
+      },
+      "-LkIFqVt3HIOUXPy5CRd" : {
+        "lat" : "25.169739",
+        "lng" : "121.43985",
+        "msg" : "-LkIC4CTr1PUgTJKVazk",
+        "name" : "money",
+        "note" : "",
+        "tag" : "Checkin Close",
+        "timestamp" : 1563691277,
+        "uid" : "URRbpmf81mawZ0FXIavt1r9gZim2"
+      },
+      "-LkIFrR3blvK5F9QkqXX" : {
+        "lat" : "25.169737",
+        "lng" : "121.43985",
+        "msg" : "-LkI53aom22r6GRqbLUA",
+        "name" : "money",
+        "note" : "MapFragment",
+        "tag" : "Checkin Open",
+        "timestamp" : 1563691281,
+        "uid" : "URRbpmf81mawZ0FXIavt1r9gZim2"
+      },
+      "-LkIFrsSRkuuY5dImUup" : {
+        "lat" : "25.169735",
+        "lng" : "121.43985",
+        "msg" : "-LkI53aom22r6GRqbLUA",
+        "name" : "money",
+        "note" : "",
+        "tag" : "Checkin Close",
+        "timestamp" : 1563691283,
+        "uid" : "URRbpmf81mawZ0FXIavt1r9gZim2"
+      },
+      "-LkIFsw8445kEqAXUZ7P" : {
+        "lat" : "25.169735",
+        "lng" : "121.439835",
+        "msg" : "-LkI0mEK6P20FSHWDh4X",
+        "name" : "money",
+        "note" : "MapFragment",
+        "tag" : "Checkin Open",
+        "timestamp" : 1563691287,
+        "uid" : "URRbpmf81mawZ0FXIavt1r9gZim2"
+      },
+      "-LkIFtAhjQpsZAvUL_C7" : {
+        "lat" : "25.169735",
+        "lng" : "121.439835",
+        "msg" : "-LkI0mEK6P20FSHWDh4X",
+        "name" : "money",
+        "note" : "",
+        "tag" : "Checkin Close",
+        "timestamp" : 1563691288,
+        "uid" : "URRbpmf81mawZ0FXIavt1r9gZim2"
+      },
+      "-LkIG3_2sO2kesrS1An8" : {
+        "lat" : "25.169716",
+        "lng" : "121.4398",
+        "msg" : "淡水文化園區-殼牌倉庫",
+        "name" : "money",
+        "note" : "",
+        "tag" : "Search Location",
+        "timestamp" : 1563691335,
+        "uid" : "URRbpmf81mawZ0FXIavt1r9gZim2"
+      },
+      "-LkIG6KL1iXURWFP28wz" : {
+        "lat" : "25.169708",
+        "lng" : "121.43979",
+        "msg" : "-LkIFzFxIvswSd4dssRM",
+        "name" : "money",
+        "note" : "ListFragment",
+        "tag" : "Checkin Open",
+        "timestamp" : 1563691346,
+        "uid" : "URRbpmf81mawZ0FXIavt1r9gZim2"
+      },
+      "-LkIG6_QcgT8XGahpnaB" : {
+        "lat" : "25.169708",
+        "lng" : "121.43978",
+        "msg" : "-LkIFzFxIvswSd4dssRM",
+        "name" : "money",
+        "note" : "",
+        "tag" : "Checkin Close",
+        "timestamp" : 1563691347,
+        "uid" : "URRbpmf81mawZ0FXIavt1r9gZim2"
+      },
+      "-LkIG83RS7pUh9e6dOS_" : {
+        "lat" : "25.1697",
+        "lng" : "121.43979",
+        "msg" : "-LkI3EK4pZhcD71XzcIK",
+        "name" : "money",
+        "note" : "PostedCheckinFragment",
+        "tag" : "Checkin Open",
+        "timestamp" : 1563691353,
+        "uid" : "URRbpmf81mawZ0FXIavt1r9gZim2"
+      },
+      "-LkIG8MseC-OJdNAJ6cv" : {
+        "lat" : "25.1697",
+        "lng" : "121.43979",
+        "msg" : "-LkI3EK4pZhcD71XzcIK",
+        "name" : "money",
+        "note" : "",
+        "tag" : "Checkin Close",
+        "timestamp" : 1563691355,
+        "uid" : "URRbpmf81mawZ0FXIavt1r9gZim2"
+      },
+      "-LkIG8reekKWQDbm5OwH" : {
+        "lat" : "25.1697",
+        "lng" : "121.43979",
+        "msg" : "淡水禮拜堂",
+        "name" : "money",
+        "note" : "TogoFragment",
+        "tag" : "Togo Open",
+        "timestamp" : 1563691357,
+        "uid" : "URRbpmf81mawZ0FXIavt1r9gZim2"
+      },
+      "-LkIG9y-jeUIJ0RLtdBR" : {
+        "lat" : "25.1697",
+        "lng" : "121.43979",
+        "msg" : "阿媽的酸梅湯",
+        "name" : "money",
+        "note" : "TogoFragment",
+        "tag" : "Togo Open",
+        "timestamp" : 1563691361,
+        "uid" : "URRbpmf81mawZ0FXIavt1r9gZim2"
+      },
+      "-LkIGAORDEFBAYEUo9kT" : {
+        "lat" : "25.1697",
+        "lng" : "121.43979",
+        "msg" : "小白宮",
+        "name" : "money",
+        "note" : "TogoFragment",
+        "tag" : "Togo Open",
+        "timestamp" : 1563691363,
+        "uid" : "URRbpmf81mawZ0FXIavt1r9gZim2"
+      },
+      "-LkIGBzc1n1_3fwtIjAF" : {
+        "lat" : "25.169699",
+        "lng" : "121.43979",
+        "msg" : "阿媽的酸梅湯",
+        "name" : "money",
+        "note" : "TogoFragment",
+        "tag" : "Togo Open",
+        "timestamp" : 1563691369,
+        "uid" : "URRbpmf81mawZ0FXIavt1r9gZim2"
+      },
+      "-LkIGCiRXf1IWM-5znmN" : {
+        "lat" : "25.169699",
+        "lng" : "121.43979",
+        "msg" : "淡水禮拜堂",
+        "name" : "money",
+        "note" : "TogoFragment",
+        "tag" : "Togo Open",
+        "timestamp" : 1563691372,
+        "uid" : "URRbpmf81mawZ0FXIavt1r9gZim2"
+      },
+      "-LkIGDeJINLO_27zWfah" : {
+        "lat" : "25.169699",
+        "lng" : "121.43979",
+        "msg" : "淡水禮拜堂",
+        "name" : "money",
+        "note" : "TogoFragment",
+        "tag" : "Togo Open",
+        "timestamp" : 1563691376,
+        "uid" : "URRbpmf81mawZ0FXIavt1r9gZim2"
+      },
+      "-LkIGEYpH00ZiFzBzyCt" : {
+        "lat" : "25.169699",
+        "lng" : "121.43979",
+        "msg" : "小白宮",
+        "name" : "money",
+        "note" : "TogoFragment",
+        "tag" : "Togo Open",
+        "timestamp" : 1563691380,
+        "uid" : "URRbpmf81mawZ0FXIavt1r9gZim2"
+      },
+      "-LkIGG_E-E8uLITrAbCi" : {
+        "lat" : "25.169695",
+        "lng" : "121.43979",
+        "msg" : "小白宮",
+        "name" : "money",
+        "note" : "TogoFragment",
+        "tag" : "Togo Open",
+        "timestamp" : 1563691388,
+        "uid" : "URRbpmf81mawZ0FXIavt1r9gZim2"
+      },
+      "-LkIGHQA85kB7WJzRvKN" : {
+        "lat" : "25.16969",
+        "lng" : "121.43978",
+        "msg" : "阿媽的酸梅湯",
+        "name" : "money",
+        "note" : "TogoFragment",
+        "tag" : "Togo Open",
+        "timestamp" : 1563691392,
+        "uid" : "URRbpmf81mawZ0FXIavt1r9gZim2"
+      },
+      "-LkIGQJTkeNyyYC_DXor" : {
+        "lat" : "25.169685",
+        "lng" : "121.43978",
+        "msg" : "-LkHwFUUBevgf1JoTXDN",
+        "name" : "money",
+        "note" : "CollectedCheckinFragment",
+        "tag" : "Checkin Open",
+        "timestamp" : 1563691428,
+        "uid" : "URRbpmf81mawZ0FXIavt1r9gZim2"
+      },
+      "-LkIGQ_O6loQcxxyu4lC" : {
+        "lat" : "25.169685",
+        "lng" : "121.43978",
+        "msg" : "-LkHwFUUBevgf1JoTXDN",
+        "name" : "money",
+        "note" : "",
+        "tag" : "Checkin Close",
+        "timestamp" : 1563691429,
+        "uid" : "URRbpmf81mawZ0FXIavt1r9gZim2"
+      },
+      "-LkIGb0cTepbre6qF-hd" : {
+        "lat" : "25.169674",
+        "lng" : "121.43975",
+        "msg" : "-LkI7OqjBpJkXGYNsarH",
+        "name" : "money",
+        "note" : " Is Collected Checkin",
+        "tag" : "News Clicked Like",
+        "timestamp" : 1563691476,
+        "uid" : "URRbpmf81mawZ0FXIavt1r9gZim2"
+      },
+      "-LkIGb0wX2X0JfYsfP8K" : {
+        "lat" : "25.169674",
+        "lng" : "121.43975",
+        "msg" : "-LkI7OqjBpJkXGYNsarH",
+        "name" : "money",
+        "note" : "NewsFragment",
+        "tag" : "Checkin Open",
+        "timestamp" : 1563691476,
+        "uid" : "URRbpmf81mawZ0FXIavt1r9gZim2"
+      },
+      "-LkIGbpiEDWqTLFCD5zK" : {
+        "lat" : "25.169674",
+        "lng" : "121.439766",
+        "msg" : "-LkI7OqjBpJkXGYNsarH",
+        "name" : "money",
+        "note" : "",
+        "tag" : "Checkin Close",
+        "timestamp" : 1563691479,
+        "uid" : "URRbpmf81mawZ0FXIavt1r9gZim2"
       }
     }
   },
@@ -4082,6 +4662,46 @@
         "tag" : "Togo Open",
         "timestamp" : 1563688390,
         "uid" : "VIhkuWyGi1MS9yPuVVbj5tRi0AG2"
+      },
+      "-LkIBgrqtJOHwMEOynTR" : {
+        "lat" : "25.169752",
+        "lng" : "121.43992",
+        "msg" : "阿婆鐵蛋",
+        "name" : "Stanley",
+        "note" : "TogoFragment",
+        "tag" : "Togo Open",
+        "timestamp" : 1563690191,
+        "uid" : "VIhkuWyGi1MS9yPuVVbj5tRi0AG2"
+      },
+      "-LkIBhA6Pv-j2-YoOvAG" : {
+        "lat" : "25.169752",
+        "lng" : "121.43992",
+        "msg" : "阿婆鐵蛋",
+        "name" : "Stanley",
+        "note" : " Is Collected Togo",
+        "tag" : "Togo Locate",
+        "timestamp" : 1563690192,
+        "uid" : "VIhkuWyGi1MS9yPuVVbj5tRi0AG2"
+      },
+      "-LkIBk9eEruPf2aZwMgd" : {
+        "lat" : "25.169758",
+        "lng" : "121.4399",
+        "msg" : "阿婆鐵蛋",
+        "name" : "Stanley",
+        "note" : "PersonalMapFragment",
+        "tag" : "Togo Open",
+        "timestamp" : 1563690205,
+        "uid" : "VIhkuWyGi1MS9yPuVVbj5tRi0AG2"
+      },
+      "-LkIBkjxSw0pqjU-l2Ix" : {
+        "lat" : "25.169764",
+        "lng" : "121.43991",
+        "msg" : "阿婆鐵蛋",
+        "name" : "Stanley",
+        "note" : " Is Collected Togo",
+        "tag" : "Togo Locate",
+        "timestamp" : 1563690207,
+        "uid" : "VIhkuWyGi1MS9yPuVVbj5tRi0AG2"
       }
     }
   },
@@ -4366,6 +4986,136 @@
         "tag" : "Checkin Close",
         "timestamp" : 1563689854,
         "uid" : "ZcCpHQO1waZo2DeNHZGdyDt0Xjx2"
+      },
+      "-LkIBi4FzLP4AOsuf4VY" : {
+        "lat" : "25.169758",
+        "lng" : "121.4398",
+        "msg" : "-LkIBi4Dv2ZR-q-uDC4o",
+        "name" : "Emily Lin",
+        "note" : "",
+        "tag" : "Checkin Add",
+        "timestamp" : 1563690197,
+        "uid" : "ZcCpHQO1waZo2DeNHZGdyDt0Xjx2"
+      },
+      "-LkIBv85tfoHU6U-mEYB" : {
+        "lat" : "25.169758",
+        "lng" : "121.4398",
+        "msg" : "-LkIBv83za4VCcSmVs81",
+        "name" : "Emily Lin",
+        "note" : "",
+        "tag" : "Checkin Add",
+        "timestamp" : 1563690250,
+        "uid" : "ZcCpHQO1waZo2DeNHZGdyDt0Xjx2"
+      },
+      "-LkIBxx2qu1HvFWicfkm" : {
+        "lat" : "25.169758",
+        "lng" : "121.4398",
+        "msg" : "-LkIBv83za4VCcSmVs81",
+        "name" : "Emily Lin",
+        "note" : "ListFragment",
+        "tag" : "Checkin Open",
+        "timestamp" : 1563690261,
+        "uid" : "ZcCpHQO1waZo2DeNHZGdyDt0Xjx2"
+      },
+      "-LkIBzNzPbOIm_wC_UxW" : {
+        "lat" : "25.169758",
+        "lng" : "121.4398",
+        "msg" : "-LkIBv83za4VCcSmVs81",
+        "name" : "Emily Lin",
+        "note" : "",
+        "tag" : "Checkin Close",
+        "timestamp" : 1563690267,
+        "uid" : "ZcCpHQO1waZo2DeNHZGdyDt0Xjx2"
+      },
+      "-LkICnCo1t5f2sNfL9iP" : {
+        "lat" : "25.169758",
+        "lng" : "121.4398",
+        "msg" : "-LkI8tIC-wBSzCBOiMI0",
+        "name" : "Emily Lin",
+        "note" : "ListFragment",
+        "tag" : "Checkin Open",
+        "timestamp" : 1563690479,
+        "uid" : "ZcCpHQO1waZo2DeNHZGdyDt0Xjx2"
+      },
+      "-LkICnkBcjNez8w3oFjC" : {
+        "lat" : "25.169758",
+        "lng" : "121.4398",
+        "msg" : "-LkI8tIC-wBSzCBOiMI0",
+        "name" : "Emily Lin",
+        "note" : " Is Other Checkin",
+        "tag" : "Checkin Like",
+        "timestamp" : 1563690482,
+        "uid" : "ZcCpHQO1waZo2DeNHZGdyDt0Xjx2"
+      },
+      "-LkICnvkC2U7bliZU_OY" : {
+        "lat" : "25.169758",
+        "lng" : "121.4398",
+        "msg" : "-LkI8tIC-wBSzCBOiMI0",
+        "name" : "Emily Lin",
+        "note" : "",
+        "tag" : "Checkin Close",
+        "timestamp" : 1563690482,
+        "uid" : "ZcCpHQO1waZo2DeNHZGdyDt0Xjx2"
+      },
+      "-LkID0rE7CgkDIcGBvDv" : {
+        "lat" : "25.169758",
+        "lng" : "121.4398",
+        "msg" : "-LkICnEIEiFAr9MGfEfr",
+        "name" : "Emily Lin",
+        "note" : "ListFragment",
+        "tag" : "Checkin Open",
+        "timestamp" : 1563690539,
+        "uid" : "ZcCpHQO1waZo2DeNHZGdyDt0Xjx2"
+      },
+      "-LkID1cjVMwE5NY-7Fbw" : {
+        "lat" : "25.169758",
+        "lng" : "121.4398",
+        "msg" : "-LkICnEIEiFAr9MGfEfr",
+        "name" : "Emily Lin",
+        "note" : "",
+        "tag" : "Checkin Close",
+        "timestamp" : 1563690543,
+        "uid" : "ZcCpHQO1waZo2DeNHZGdyDt0Xjx2"
+      },
+      "-LkID2_tcIreIjyuwFLw" : {
+        "lat" : "25.169758",
+        "lng" : "121.4398",
+        "msg" : "-LkIC4CTr1PUgTJKVazk",
+        "name" : "Emily Lin",
+        "note" : "ListFragment",
+        "tag" : "Checkin Open",
+        "timestamp" : 1563690547,
+        "uid" : "ZcCpHQO1waZo2DeNHZGdyDt0Xjx2"
+      },
+      "-LkID2yNytLtykfxrHd3" : {
+        "lat" : "25.169758",
+        "lng" : "121.4398",
+        "msg" : "-LkIC4CTr1PUgTJKVazk",
+        "name" : "Emily Lin",
+        "note" : "",
+        "tag" : "Checkin Close",
+        "timestamp" : 1563690548,
+        "uid" : "ZcCpHQO1waZo2DeNHZGdyDt0Xjx2"
+      },
+      "-LkID3hcma9bwhoZmN79" : {
+        "lat" : "25.169758",
+        "lng" : "121.4398",
+        "msg" : "-LkICnEIEiFAr9MGfEfr",
+        "name" : "Emily Lin",
+        "note" : "ListFragment",
+        "tag" : "Checkin Open",
+        "timestamp" : 1563690551,
+        "uid" : "ZcCpHQO1waZo2DeNHZGdyDt0Xjx2"
+      },
+      "-LkID4K0sm9WdDr_XDy1" : {
+        "lat" : "25.169758",
+        "lng" : "121.4398",
+        "msg" : "-LkICnEIEiFAr9MGfEfr",
+        "name" : "Emily Lin",
+        "note" : "",
+        "tag" : "Checkin Close",
+        "timestamp" : 1563690554,
+        "uid" : "ZcCpHQO1waZo2DeNHZGdyDt0Xjx2"
       }
     }
   },
@@ -4609,6 +5359,86 @@
         "note" : "",
         "tag" : "Checkin Close",
         "timestamp" : 1563687765,
+        "uid" : "nz8TD4R5e5UmBTKYoIpcADLhevF3"
+      },
+      "-LkIEKIgfMFWxl1tF1gp" : {
+        "lat" : "25.169706",
+        "lng" : "121.43985",
+        "msg" : "-LkI3bO3n7o2SIMGUcZF",
+        "name" : "Irene",
+        "note" : "MapFragment",
+        "tag" : "Checkin Open",
+        "timestamp" : 1563690881,
+        "uid" : "nz8TD4R5e5UmBTKYoIpcADLhevF3"
+      },
+      "-LkIEKdQoRDSe1zJI6Mp" : {
+        "lat" : "25.169706",
+        "lng" : "121.43985",
+        "msg" : "-LkI3bO3n7o2SIMGUcZF",
+        "name" : "Irene",
+        "note" : "",
+        "tag" : "Checkin Close",
+        "timestamp" : 1563690883,
+        "uid" : "nz8TD4R5e5UmBTKYoIpcADLhevF3"
+      },
+      "-LkIEX8BuOWEFdSA4pPR" : {
+        "lat" : "25.169739",
+        "lng" : "121.43985",
+        "msg" : "淡水文化園區-殼牌倉庫",
+        "name" : "Irene",
+        "note" : "看看",
+        "tag" : "Report Anywhere",
+        "timestamp" : 1563690934,
+        "uid" : "nz8TD4R5e5UmBTKYoIpcADLhevF3"
+      },
+      "-LkIFevZrrXzPhKth8TV" : {
+        "lat" : "25.169746",
+        "lng" : "121.43985",
+        "msg" : "",
+        "name" : "Irene",
+        "note" : "",
+        "tag" : "ERROR_NOTIFICATION",
+        "timestamp" : 1563691232,
+        "uid" : "nz8TD4R5e5UmBTKYoIpcADLhevF3"
+      },
+      "-LkIFevb8VR2BWVzPVQO" : {
+        "lat" : "25.169746",
+        "lng" : "121.43985",
+        "msg" : "-LkI2HYYYuYltQvtW027",
+        "name" : "Irene",
+        "note" : "",
+        "tag" : "Notification Remove Like",
+        "timestamp" : 1563691232,
+        "uid" : "nz8TD4R5e5UmBTKYoIpcADLhevF3"
+      },
+      "-LkIFevmNPSf_VKiExat" : {
+        "lat" : "25.169746",
+        "lng" : "121.43985",
+        "msg" : "-LkI-YsxQUvdDSGOd2Wm",
+        "name" : "Irene",
+        "note" : "",
+        "tag" : "Notification Remove Comment",
+        "timestamp" : 1563691232,
+        "uid" : "nz8TD4R5e5UmBTKYoIpcADLhevF3"
+      },
+      "-LkIFevpONdHZzERIo_4" : {
+        "lat" : "25.169746",
+        "lng" : "121.43985",
+        "msg" : "-LkI0GJLJIeAp4US34KV",
+        "name" : "Irene",
+        "note" : "",
+        "tag" : "Notification Remove Like",
+        "timestamp" : 1563691232,
+        "uid" : "nz8TD4R5e5UmBTKYoIpcADLhevF3"
+      },
+      "-LkIFevrRaybaEue1M30" : {
+        "lat" : "25.169746",
+        "lng" : "121.43985",
+        "msg" : "-LkI2HYYYuYltQvtW027",
+        "name" : "Irene",
+        "note" : "",
+        "tag" : "Notification Remove Comment",
+        "timestamp" : 1563691232,
         "uid" : "nz8TD4R5e5UmBTKYoIpcADLhevF3"
       }
     }
@@ -5553,6 +6383,636 @@
         "note" : "",
         "tag" : "Checkin Close",
         "timestamp" : 1563689844,
+        "uid" : "oFs9h34Kj4ah5YQEYdwJ4PE5iXp2"
+      },
+      "-LkIBGzeRhX-kyrlk07f" : {
+        "lat" : "25.169767",
+        "lng" : "121.43979",
+        "msg" : "-LkIAS1SZ3eB5dEPJ9c1",
+        "name" : "Ann",
+        "note" : "ListFragment",
+        "tag" : "Checkin Open",
+        "timestamp" : 1563690081,
+        "uid" : "oFs9h34Kj4ah5YQEYdwJ4PE5iXp2"
+      },
+      "-LkIBHK6IKDQiGGPmpeb" : {
+        "lat" : "25.16976",
+        "lng" : "121.4398",
+        "msg" : "-LkIAS1SZ3eB5dEPJ9c1",
+        "name" : "Ann",
+        "note" : "",
+        "tag" : "Checkin Close",
+        "timestamp" : 1563690083,
+        "uid" : "oFs9h34Kj4ah5YQEYdwJ4PE5iXp2"
+      },
+      "-LkIBIq0PgwJN2L8SDtH" : {
+        "lat" : "25.169765",
+        "lng" : "121.43988",
+        "msg" : "-LkIBEEZbmU52hZuYRXd",
+        "name" : "Ann",
+        "note" : "ListFragment",
+        "tag" : "Checkin Open",
+        "timestamp" : 1563690089,
+        "uid" : "oFs9h34Kj4ah5YQEYdwJ4PE5iXp2"
+      },
+      "-LkIBJ1OMswiJR5sFI6L" : {
+        "lat" : "25.169765",
+        "lng" : "121.43988",
+        "msg" : "-LkIBEEZbmU52hZuYRXd",
+        "name" : "Ann",
+        "note" : " Is Other Checkin",
+        "tag" : "Checkin Like",
+        "timestamp" : 1563690090,
+        "uid" : "oFs9h34Kj4ah5YQEYdwJ4PE5iXp2"
+      },
+      "-LkIBNHyDFIBDuHl1hKX" : {
+        "lat" : "25.169739",
+        "lng" : "121.439835",
+        "msg" : "-LkIBEEZbmU52hZuYRXd",
+        "name" : "Ann",
+        "note" : "好拍嗎？, Is Other Checkin",
+        "tag" : "Checkin Comment",
+        "timestamp" : 1563690107,
+        "uid" : "oFs9h34Kj4ah5YQEYdwJ4PE5iXp2"
+      },
+      "-LkIBNpgug3D9xVntmae" : {
+        "lat" : "25.169735",
+        "lng" : "121.43983",
+        "msg" : "-LkIBEEZbmU52hZuYRXd",
+        "name" : "Ann",
+        "note" : "",
+        "tag" : "Checkin Close",
+        "timestamp" : 1563690109,
+        "uid" : "oFs9h34Kj4ah5YQEYdwJ4PE5iXp2"
+      },
+      "-LkIBO5d60bwmBtXOk9E" : {
+        "lat" : "25.169735",
+        "lng" : "121.43982",
+        "msg" : "-LkIAS1SZ3eB5dEPJ9c1",
+        "name" : "Ann",
+        "note" : "ListFragment",
+        "tag" : "Checkin Open",
+        "timestamp" : 1563690110,
+        "uid" : "oFs9h34Kj4ah5YQEYdwJ4PE5iXp2"
+      },
+      "-LkIBQFiFp-mZtLPZ7NJ" : {
+        "lat" : "25.16973",
+        "lng" : "121.43981",
+        "msg" : "-LkIAS1SZ3eB5dEPJ9c1",
+        "name" : "Ann",
+        "note" : "好壯觀呀！, Is Other Checkin",
+        "tag" : "Checkin Comment",
+        "timestamp" : 1563690119,
+        "uid" : "oFs9h34Kj4ah5YQEYdwJ4PE5iXp2"
+      },
+      "-LkIBQeBv6mEQhWmODzn" : {
+        "lat" : "25.169695",
+        "lng" : "121.439835",
+        "msg" : "-LkIAS1SZ3eB5dEPJ9c1",
+        "name" : "Ann",
+        "note" : "",
+        "tag" : "Checkin Close",
+        "timestamp" : 1563690121,
+        "uid" : "oFs9h34Kj4ah5YQEYdwJ4PE5iXp2"
+      },
+      "-LkIBRRcholmKBlmLCG4" : {
+        "lat" : "25.169693",
+        "lng" : "121.43984",
+        "msg" : "-LkI9EunpTuuVOZRjTS7",
+        "name" : "Ann",
+        "note" : "ListFragment",
+        "tag" : "Checkin Open",
+        "timestamp" : 1563690124,
+        "uid" : "oFs9h34Kj4ah5YQEYdwJ4PE5iXp2"
+      },
+      "-LkIBRgpu1Q2yxGCTIk4" : {
+        "lat" : "25.169691",
+        "lng" : "121.43984",
+        "msg" : "-LkI9EunpTuuVOZRjTS7",
+        "name" : "Ann",
+        "note" : " Is Other Checkin",
+        "tag" : "Checkin Like",
+        "timestamp" : 1563690125,
+        "uid" : "oFs9h34Kj4ah5YQEYdwJ4PE5iXp2"
+      },
+      "-LkIBRmp_G3kyzf41ZSD" : {
+        "lat" : "25.169691",
+        "lng" : "121.43984",
+        "msg" : "-LkI9EunpTuuVOZRjTS7",
+        "name" : "Ann",
+        "note" : "",
+        "tag" : "Checkin Close",
+        "timestamp" : 1563690125,
+        "uid" : "oFs9h34Kj4ah5YQEYdwJ4PE5iXp2"
+      },
+      "-LkIBSFIkPgMdjSBmyXj" : {
+        "lat" : "25.169683",
+        "lng" : "121.43984",
+        "msg" : "-LkI8tIC-wBSzCBOiMI0",
+        "name" : "Ann",
+        "note" : "ListFragment",
+        "tag" : "Checkin Open",
+        "timestamp" : 1563690127,
+        "uid" : "oFs9h34Kj4ah5YQEYdwJ4PE5iXp2"
+      },
+      "-LkIBSRO0QcjyzC_wsPi" : {
+        "lat" : "25.169682",
+        "lng" : "121.43984",
+        "msg" : "-LkI8tIC-wBSzCBOiMI0",
+        "name" : "Ann",
+        "note" : " Is Other Checkin",
+        "tag" : "Checkin Like",
+        "timestamp" : 1563690128,
+        "uid" : "oFs9h34Kj4ah5YQEYdwJ4PE5iXp2"
+      },
+      "-LkIBSoeH-l82OlKO4oR" : {
+        "lat" : "25.16968",
+        "lng" : "121.43984",
+        "msg" : "-LkI8tIC-wBSzCBOiMI0",
+        "name" : "Ann",
+        "note" : "",
+        "tag" : "Checkin Close",
+        "timestamp" : 1563690130,
+        "uid" : "oFs9h34Kj4ah5YQEYdwJ4PE5iXp2"
+      },
+      "-LkIBYavbDoZEsK8Qu_P" : {
+        "lat" : "25.16967",
+        "lng" : "121.43986",
+        "msg" : "滬尾偕醫館",
+        "name" : "Ann",
+        "note" : "TogoFragment",
+        "tag" : "Togo Add",
+        "timestamp" : 1563690153,
+        "uid" : "oFs9h34Kj4ah5YQEYdwJ4PE5iXp2"
+      },
+      "-LkIB_dN-K_PfbZJnqJs" : {
+        "lat" : "25.169672",
+        "lng" : "121.43986",
+        "msg" : "滬尾偕醫館",
+        "name" : "Ann",
+        "note" : "TogoFragment",
+        "tag" : "Togo Open",
+        "timestamp" : 1563690162,
+        "uid" : "oFs9h34Kj4ah5YQEYdwJ4PE5iXp2"
+      },
+      "-LkIBa2jqVv0vlu6lN3u" : {
+        "lat" : "25.169674",
+        "lng" : "121.43986",
+        "msg" : "滬尾偕醫館",
+        "name" : "Ann",
+        "note" : " Is Collected Togo",
+        "tag" : "Togo Locate",
+        "timestamp" : 1563690163,
+        "uid" : "oFs9h34Kj4ah5YQEYdwJ4PE5iXp2"
+      },
+      "-LkIBeAwov5w7Jrn5tlI" : {
+        "lat" : "25.169695",
+        "lng" : "121.43989",
+        "msg" : "滬尾偕醫館",
+        "name" : "Ann",
+        "note" : "PersonalMapFragment",
+        "tag" : "Togo Remove",
+        "timestamp" : 1563690180,
+        "uid" : "oFs9h34Kj4ah5YQEYdwJ4PE5iXp2"
+      },
+      "-LkIBjW93swY1GkT3ff5" : {
+        "lat" : "25.169695",
+        "lng" : "121.43987",
+        "msg" : "-LkI3PRure6T81PuVh75",
+        "name" : "Ann",
+        "note" : "MapFragment",
+        "tag" : "Checkin Open",
+        "timestamp" : 1563690202,
+        "uid" : "oFs9h34Kj4ah5YQEYdwJ4PE5iXp2"
+      },
+      "-LkIBjkQCV-m6bSYsvHs" : {
+        "lat" : "25.169687",
+        "lng" : "121.439865",
+        "msg" : "-LkI3PRure6T81PuVh75",
+        "name" : "Ann",
+        "note" : "",
+        "tag" : "Checkin Close",
+        "timestamp" : 1563690203,
+        "uid" : "oFs9h34Kj4ah5YQEYdwJ4PE5iXp2"
+      },
+      "-LkIBkQdq4zOcAl4caJn" : {
+        "lat" : "25.169664",
+        "lng" : "121.43984",
+        "msg" : "-LkIBi4Dv2ZR-q-uDC4o",
+        "name" : "Ann",
+        "note" : "ListFragment",
+        "tag" : "Checkin Open",
+        "timestamp" : 1563690206,
+        "uid" : "oFs9h34Kj4ah5YQEYdwJ4PE5iXp2"
+      },
+      "-LkIBl4hFkcAoTeR3rUe" : {
+        "lat" : "25.169651",
+        "lng" : "121.439835",
+        "msg" : "-LkIBi4Dv2ZR-q-uDC4o",
+        "name" : "Ann",
+        "note" : "",
+        "tag" : "Checkin Close",
+        "timestamp" : 1563690209,
+        "uid" : "oFs9h34Kj4ah5YQEYdwJ4PE5iXp2"
+      },
+      "-LkIBlM5QaUJjWeF-FJn" : {
+        "lat" : "25.169647",
+        "lng" : "121.439835",
+        "msg" : "-LkIBi4Dv2ZR-q-uDC4o",
+        "name" : "Ann",
+        "note" : "ListFragment",
+        "tag" : "Checkin Open",
+        "timestamp" : 1563690210,
+        "uid" : "oFs9h34Kj4ah5YQEYdwJ4PE5iXp2"
+      },
+      "-LkIBltsYeFRSTnm6KDY" : {
+        "lat" : "25.169638",
+        "lng" : "121.43983",
+        "msg" : "-LkIBi4Dv2ZR-q-uDC4o",
+        "name" : "Ann",
+        "note" : " Is Other Checkin",
+        "tag" : "Checkin Like",
+        "timestamp" : 1563690212,
+        "uid" : "oFs9h34Kj4ah5YQEYdwJ4PE5iXp2"
+      },
+      "-LkIBlzeSosp9l2ZuOEY" : {
+        "lat" : "25.169638",
+        "lng" : "121.43983",
+        "msg" : "-LkIBi4Dv2ZR-q-uDC4o",
+        "name" : "Ann",
+        "note" : "",
+        "tag" : "Checkin Close",
+        "timestamp" : 1563690212,
+        "uid" : "oFs9h34Kj4ah5YQEYdwJ4PE5iXp2"
+      },
+      "-LkIBrqAsyl9x6G-FPdq" : {
+        "lat" : "25.169699",
+        "lng" : "121.43985",
+        "msg" : "-LkI6bkT8VHUB5yE3INP",
+        "name" : "Ann",
+        "note" : "ListFragment",
+        "tag" : "Checkin Open",
+        "timestamp" : 1563690236,
+        "uid" : "oFs9h34Kj4ah5YQEYdwJ4PE5iXp2"
+      },
+      "-LkIBsDgkStNqEIjlemU" : {
+        "lat" : "25.169697",
+        "lng" : "121.43985",
+        "msg" : "-LkI6bkT8VHUB5yE3INP",
+        "name" : "Ann",
+        "note" : "",
+        "tag" : "Checkin Close",
+        "timestamp" : 1563690238,
+        "uid" : "oFs9h34Kj4ah5YQEYdwJ4PE5iXp2"
+      },
+      "-LkICINGa0Q20BwI82dF" : {
+        "lat" : "25.169664",
+        "lng" : "121.4398",
+        "msg" : "-LkICFnmlfYrfODpqpol",
+        "name" : "Ann",
+        "note" : "ListFragment",
+        "tag" : "Checkin Open",
+        "timestamp" : 1563690349,
+        "uid" : "oFs9h34Kj4ah5YQEYdwJ4PE5iXp2"
+      },
+      "-LkICIpJ7-sIhvnWm_X2" : {
+        "lat" : "25.169674",
+        "lng" : "121.43982",
+        "msg" : "-LkICFnmlfYrfODpqpol",
+        "name" : "Ann",
+        "note" : " Is Other Checkin",
+        "tag" : "Checkin Like",
+        "timestamp" : 1563690351,
+        "uid" : "oFs9h34Kj4ah5YQEYdwJ4PE5iXp2"
+      },
+      "-LkICJxtGGl4WG_u4bS0" : {
+        "lat" : "25.169678",
+        "lng" : "121.439835",
+        "msg" : "-LkICFnmlfYrfODpqpol",
+        "name" : "Ann",
+        "note" : "",
+        "tag" : "Checkin Close",
+        "timestamp" : 1563690355,
+        "uid" : "oFs9h34Kj4ah5YQEYdwJ4PE5iXp2"
+      },
+      "-LkICKGKpBwH_aO-jnaF" : {
+        "lat" : "25.169682",
+        "lng" : "121.43984",
+        "msg" : "-LkIC4CTr1PUgTJKVazk",
+        "name" : "Ann",
+        "note" : "ListFragment",
+        "tag" : "Checkin Open",
+        "timestamp" : 1563690357,
+        "uid" : "oFs9h34Kj4ah5YQEYdwJ4PE5iXp2"
+      },
+      "-LkICMpHJzL_J9FL704b" : {
+        "lat" : "25.169685",
+        "lng" : "121.43985",
+        "msg" : "-LkIC4CTr1PUgTJKVazk",
+        "name" : "Ann",
+        "note" : "好可愛喔~~, Is Other Checkin",
+        "tag" : "Checkin Comment",
+        "timestamp" : 1563690367,
+        "uid" : "oFs9h34Kj4ah5YQEYdwJ4PE5iXp2"
+      },
+      "-LkICMzldJwUS6_teaEu" : {
+        "lat" : "25.169682",
+        "lng" : "121.43985",
+        "msg" : "-LkIC4CTr1PUgTJKVazk",
+        "name" : "Ann",
+        "note" : " Is Other Checkin",
+        "tag" : "Checkin Like",
+        "timestamp" : 1563690368,
+        "uid" : "oFs9h34Kj4ah5YQEYdwJ4PE5iXp2"
+      },
+      "-LkICN4RzDN41hxJ3Nc3" : {
+        "lat" : "25.169682",
+        "lng" : "121.43985",
+        "msg" : "-LkIC4CTr1PUgTJKVazk",
+        "name" : "Ann",
+        "note" : "",
+        "tag" : "Checkin Close",
+        "timestamp" : 1563690368,
+        "uid" : "oFs9h34Kj4ah5YQEYdwJ4PE5iXp2"
+      },
+      "-LkICNfNu9twEf00WUnp" : {
+        "lat" : "25.169678",
+        "lng" : "121.43985",
+        "msg" : "-LkIBbm64hKK_8l1oSXN",
+        "name" : "Ann",
+        "note" : "ListFragment",
+        "tag" : "Checkin Open",
+        "timestamp" : 1563690371,
+        "uid" : "oFs9h34Kj4ah5YQEYdwJ4PE5iXp2"
+      },
+      "-LkICNu8dBwvEYw6-j_I" : {
+        "lat" : "25.169678",
+        "lng" : "121.43985",
+        "msg" : "-LkIBbm64hKK_8l1oSXN",
+        "name" : "Ann",
+        "note" : "",
+        "tag" : "Checkin Close",
+        "timestamp" : 1563690372,
+        "uid" : "oFs9h34Kj4ah5YQEYdwJ4PE5iXp2"
+      },
+      "-LkIDdnwUPLeCZycd0ti" : {
+        "lat" : "25.169708",
+        "lng" : "121.43984",
+        "msg" : "-LkI8tIC-wBSzCBOiMI0",
+        "name" : "Ann",
+        "note" : "MapFragment",
+        "tag" : "Checkin Open",
+        "timestamp" : 1563690703,
+        "uid" : "oFs9h34Kj4ah5YQEYdwJ4PE5iXp2"
+      },
+      "-LkIDe225I_GCww17bpm" : {
+        "lat" : "25.16971",
+        "lng" : "121.43985",
+        "msg" : "-LkI8tIC-wBSzCBOiMI0",
+        "name" : "Ann",
+        "note" : "",
+        "tag" : "Checkin Close",
+        "timestamp" : 1563690704,
+        "uid" : "oFs9h34Kj4ah5YQEYdwJ4PE5iXp2"
+      },
+      "-LkIDeAdu_BIRMqXIv--" : {
+        "lat" : "25.16971",
+        "lng" : "121.43985",
+        "msg" : "-LkI6bkT8VHUB5yE3INP",
+        "name" : "Ann",
+        "note" : "MapFragment",
+        "tag" : "Checkin Open",
+        "timestamp" : 1563690705,
+        "uid" : "oFs9h34Kj4ah5YQEYdwJ4PE5iXp2"
+      },
+      "-LkIDeQ_frTLermC_mSY" : {
+        "lat" : "25.169708",
+        "lng" : "121.43985",
+        "msg" : "-LkI6bkT8VHUB5yE3INP",
+        "name" : "Ann",
+        "note" : "",
+        "tag" : "Checkin Close",
+        "timestamp" : 1563690706,
+        "uid" : "oFs9h34Kj4ah5YQEYdwJ4PE5iXp2"
+      },
+      "-LkIDfrzWEMi2vppo8FE" : {
+        "lat" : "25.169706",
+        "lng" : "121.439865",
+        "msg" : "-LkICnEIEiFAr9MGfEfr",
+        "name" : "Ann",
+        "note" : "ListFragment",
+        "tag" : "Checkin Open",
+        "timestamp" : 1563690711,
+        "uid" : "oFs9h34Kj4ah5YQEYdwJ4PE5iXp2"
+      },
+      "-LkIDhcJBTYFUNWv0uxC" : {
+        "lat" : "25.169708",
+        "lng" : "121.43987",
+        "msg" : "-LkICnEIEiFAr9MGfEfr",
+        "name" : "Ann",
+        "note" : "QQQ, Is Other Checkin",
+        "tag" : "Checkin Comment",
+        "timestamp" : 1563690719,
+        "uid" : "oFs9h34Kj4ah5YQEYdwJ4PE5iXp2"
+      },
+      "-LkIDi4DJKRkAwi5JNXl" : {
+        "lat" : "25.169712",
+        "lng" : "121.43987",
+        "msg" : "-LkICnEIEiFAr9MGfEfr",
+        "name" : "Ann",
+        "note" : "",
+        "tag" : "Checkin Close",
+        "timestamp" : 1563690720,
+        "uid" : "oFs9h34Kj4ah5YQEYdwJ4PE5iXp2"
+      },
+      "-LkIEIoBCTDlnS2VcUHD" : {
+        "lat" : "25.169752",
+        "lng" : "121.439926",
+        "msg" : "-LkI4VnUkZBehuRegsQr",
+        "name" : "Ann",
+        "note" : "MapFragment",
+        "tag" : "Checkin Open",
+        "timestamp" : 1563690875,
+        "uid" : "oFs9h34Kj4ah5YQEYdwJ4PE5iXp2"
+      },
+      "-LkIEJ2WPGDdlJtbqwEJ" : {
+        "lat" : "25.169752",
+        "lng" : "121.439926",
+        "msg" : "-LkI4VnUkZBehuRegsQr",
+        "name" : "Ann",
+        "note" : "",
+        "tag" : "Checkin Close",
+        "timestamp" : 1563690876,
+        "uid" : "oFs9h34Kj4ah5YQEYdwJ4PE5iXp2"
+      },
+      "-LkIEKv0TVlOmTAW7u2G" : {
+        "lat" : "25.169739",
+        "lng" : "121.43992",
+        "msg" : "-LkI28xWmHiBdVACFi7_",
+        "name" : "Ann",
+        "note" : "MapFragment",
+        "tag" : "Checkin Open",
+        "timestamp" : 1563690884,
+        "uid" : "oFs9h34Kj4ah5YQEYdwJ4PE5iXp2"
+      },
+      "-LkIELCsOqSse-t6ZX1i" : {
+        "lat" : "25.169739",
+        "lng" : "121.43992",
+        "msg" : "-LkI28xWmHiBdVACFi7_",
+        "name" : "Ann",
+        "note" : "",
+        "tag" : "Checkin Close",
+        "timestamp" : 1563690885,
+        "uid" : "oFs9h34Kj4ah5YQEYdwJ4PE5iXp2"
+      },
+      "-LkIELPdyRIS7ivhvzEa" : {
+        "lat" : "25.169739",
+        "lng" : "121.439926",
+        "msg" : "-LkICnEIEiFAr9MGfEfr",
+        "name" : "Ann",
+        "note" : "MapFragment",
+        "tag" : "Checkin Open",
+        "timestamp" : 1563690886,
+        "uid" : "oFs9h34Kj4ah5YQEYdwJ4PE5iXp2"
+      },
+      "-LkIELhAsI-6OdzQus51" : {
+        "lat" : "25.16974",
+        "lng" : "121.439926",
+        "msg" : "-LkICnEIEiFAr9MGfEfr",
+        "name" : "Ann",
+        "note" : "",
+        "tag" : "Checkin Close",
+        "timestamp" : 1563690887,
+        "uid" : "oFs9h34Kj4ah5YQEYdwJ4PE5iXp2"
+      },
+      "-LkIEPkxIgzhUcroWq2a" : {
+        "lat" : "25.169754",
+        "lng" : "121.43994",
+        "msg" : "-LkIBv83za4VCcSmVs81",
+        "name" : "Ann",
+        "note" : "ListFragment",
+        "tag" : "Checkin Open",
+        "timestamp" : 1563690904,
+        "uid" : "oFs9h34Kj4ah5YQEYdwJ4PE5iXp2"
+      },
+      "-LkIEQ2P18aYB83cxfBU" : {
+        "lat" : "25.169754",
+        "lng" : "121.43994",
+        "msg" : "-LkIBv83za4VCcSmVs81",
+        "name" : "Ann",
+        "note" : " Is Other Checkin",
+        "tag" : "Checkin Like",
+        "timestamp" : 1563690905,
+        "uid" : "oFs9h34Kj4ah5YQEYdwJ4PE5iXp2"
+      },
+      "-LkIEQYiIgSzTn92gCMr" : {
+        "lat" : "25.169754",
+        "lng" : "121.43993",
+        "msg" : "-LkIBv83za4VCcSmVs81",
+        "name" : "Ann",
+        "note" : "",
+        "tag" : "Checkin Close",
+        "timestamp" : 1563690907,
+        "uid" : "oFs9h34Kj4ah5YQEYdwJ4PE5iXp2"
+      },
+      "-LkIFkxd0Bzks8j4CSIB" : {
+        "lat" : "25.169722",
+        "lng" : "121.43984",
+        "msg" : "-LkIFkxc2SaBA4VY-8NT",
+        "name" : "Ann",
+        "note" : "",
+        "tag" : "Checkin Add",
+        "timestamp" : 1563691256,
+        "uid" : "oFs9h34Kj4ah5YQEYdwJ4PE5iXp2"
+      },
+      "-LkIFo93CWh5OpmPg_Li" : {
+        "lat" : "25.169722",
+        "lng" : "121.43983",
+        "msg" : "-LkIF0hsbEmP17rTlqha",
+        "name" : "Ann",
+        "note" : "ListFragment",
+        "tag" : "Checkin Open",
+        "timestamp" : 1563691270,
+        "uid" : "oFs9h34Kj4ah5YQEYdwJ4PE5iXp2"
+      },
+      "-LkIFoSOixAa487cSho8" : {
+        "lat" : "25.169722",
+        "lng" : "121.43983",
+        "msg" : "-LkIF0hsbEmP17rTlqha",
+        "name" : "Ann",
+        "note" : " Is Other Checkin",
+        "tag" : "Checkin Like",
+        "timestamp" : 1563691271,
+        "uid" : "oFs9h34Kj4ah5YQEYdwJ4PE5iXp2"
+      },
+      "-LkIFoboR6CtBObFzFkf" : {
+        "lat" : "25.169722",
+        "lng" : "121.43983",
+        "msg" : "-LkIF0hsbEmP17rTlqha",
+        "name" : "Ann",
+        "note" : "",
+        "tag" : "Checkin Close",
+        "timestamp" : 1563691271,
+        "uid" : "oFs9h34Kj4ah5YQEYdwJ4PE5iXp2"
+      },
+      "-LkIGGCL5viCLQ-Uh7GI" : {
+        "lat" : "25.169739",
+        "lng" : "121.43992",
+        "msg" : "淡水捷運站",
+        "name" : "Ann",
+        "note" : "TogoFragment",
+        "tag" : "Togo Add",
+        "timestamp" : 1563691389,
+        "uid" : "oFs9h34Kj4ah5YQEYdwJ4PE5iXp2"
+      },
+      "-LkIGHYsZvYvQSblGy5d" : {
+        "lat" : "25.169735",
+        "lng" : "121.4399",
+        "msg" : "淡水捷運站",
+        "name" : "Ann",
+        "note" : "TogoFragment",
+        "tag" : "Togo Open",
+        "timestamp" : 1563691394,
+        "uid" : "oFs9h34Kj4ah5YQEYdwJ4PE5iXp2"
+      },
+      "-LkIGTsyrk1eqK8puACk" : {
+        "lat" : "25.16969",
+        "lng" : "121.43983",
+        "msg" : "-LkIAS1SZ3eB5dEPJ9c1",
+        "name" : "Ann",
+        "note" : "ListFragment",
+        "tag" : "Checkin Open",
+        "timestamp" : 1563691445,
+        "uid" : "oFs9h34Kj4ah5YQEYdwJ4PE5iXp2"
+      },
+      "-LkIGU5WOEKajWQ8OQQl" : {
+        "lat" : "25.16969",
+        "lng" : "121.43981",
+        "msg" : "-LkIAS1SZ3eB5dEPJ9c1",
+        "name" : "Ann",
+        "note" : "",
+        "tag" : "Checkin Close",
+        "timestamp" : 1563691445,
+        "uid" : "oFs9h34Kj4ah5YQEYdwJ4PE5iXp2"
+      },
+      "-LkIGUvBSaTsqa1-Fdup" : {
+        "lat" : "25.169683",
+        "lng" : "121.4398",
+        "msg" : "-LkIF0hsbEmP17rTlqha",
+        "name" : "Ann",
+        "note" : "ListFragment",
+        "tag" : "Checkin Open",
+        "timestamp" : 1563691449,
+        "uid" : "oFs9h34Kj4ah5YQEYdwJ4PE5iXp2"
+      },
+      "-LkIGVnlNDHhFtYPZasJ" : {
+        "lat" : "25.169683",
+        "lng" : "121.43979",
+        "msg" : "-LkIF0hsbEmP17rTlqha",
+        "name" : "Ann",
+        "note" : "",
+        "tag" : "Checkin Close",
+        "timestamp" : 1563691452,
         "uid" : "oFs9h34Kj4ah5YQEYdwJ4PE5iXp2"
       }
     }
