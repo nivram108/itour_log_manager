@@ -9,9 +9,9 @@ reported_file = open("reported_" + output_file_name, "a")
 unvisited_file = open("unvisited_" + output_file_name, "a")
 
 def main():
-    reported_file.write("uid,name,location,togo,notification,checkin,liked,saved,type\n")
+    reported_file.write("uid,name,location,togo,notification hot checkin,news hot checkin,notification hot spot,news hot spot,viewed checkin,liked,saved,type\n")
     reported_file.close()
-    unvisited_file.write("uid,name,location,togo,notification,checkin,liked,saved\n")
+    unvisited_file.write("uid,name,location,togo,notification hot checkin,news hot checkin,notification hot spot,news hot spot,viewed checkin,liked,saved\n")
     unvisited_file.close()
     set_checkin_location_dict()
     read_log()

@@ -8,7 +8,9 @@ class User():
         self.checkin_location_dict = checkin_location_dict
         self.togo_list = []
         self.viewed_notification_hot_checkin = []
+        self.viewed_news_hot_checkin = []
         self.viewed_notification_hot_spot = []
+        self.viewed_news_hot_spot = []
         self.viewed_checkin = []
         self.liked_checkin = []
         self.collected_checkin = []
@@ -29,9 +31,17 @@ class User():
             if checkin_id in self.checkin_location_dict:
                 location = self.checkin_location_dict[checkin_id]
             self.viewed_notification_hot_checkin.append(LogDatum(checkin_id, location, True, timestamp))
+        elif tag == LOG_NEWS_CLICKED_HOT_CHECKIN:
+            checkin_id = msg
+            if checkin_id in self.checkin_location_dict:
+                location = self.checkin_location_dict[checkin_id]
+            self.viewed_news_hot_checkin.append(LogDatum(checkin_id, location, True, timestamp))
         elif tag == LOG_NOTIFICATION_CLICKED_HOT_SPOT:
             location = msg
             self.viewed_notification_hot_spot.append(LogDatum(location, location, True, timestamp))
+        elif tag == LOG_NEWS_CLICKED_HOT_SPOT:
+            location = msg
+            self.viewed_news_hot_spot.append(LogDatum(location, location, True, timestamp))
         elif tag == LOG_CHECKIN_OPEN:
             checkin_id = msg
             if checkin_id in self.checkin_location_dict:
@@ -79,31 +89,41 @@ class User():
             name = self.name
             location = log.location
             is_togo_result = self.get_result_by_location(log, self.togo_list)
-            is_viewed_from_notification_result = self.get_result_by_checkin_id(log, self.viewed_notification_hot_checkin) or self.get_result_by_location(log, self.viewed_notification_hot_spot)
+            is_viewed_notification_hot_checkin = self.get_result_by_checkin_id(log, self.viewed_notification_hot_checkin)
+            is_viewed_news_hot_checkin = self.get_result_by_checkin_id(log, self.viewed_news_hot_checkin)
+            is_viewed_notification_hot_spot = self.get_result_by_location(log, self.viewed_notification_hot_spot)
+            is_viewed_news_hot_spot = self.get_result_by_location(log, self.viewed_news_hot_spot)
             is_viewed_from_checkin_result = self.get_result_by_checkin_id(log, self.viewed_checkin)
             liked_result = self.get_result_by_checkin_id(log, self.liked_checkin)
             saved_result = self.get_result_by_checkin_id(log, self.collected_checkin)
-            self.write_reported(uid + "," + name + "," + location + "," + is_togo_result + "," + is_viewed_from_notification_result + "," + is_viewed_from_checkin_result + "," + liked_result + "," + saved_result + "," + "report anywhere")
+            self.write_reported(uid + "," + name + "," + location + "," + is_togo_result + "," + is_viewed_notification_hot_checkin + "," + is_viewed_news_hot_checkin + "," + is_viewed_notification_hot_spot + "," + is_viewed_news_hot_spot + ","  + is_viewed_from_checkin_result + "," + liked_result + "," + saved_result + "," + "report anywhere")
+
         for log in self.report_checkin:
             uid = self.uid
             name = self.name
             location = log.location
             is_togo_result = self.get_result_by_location(log, self.togo_list)
-            is_viewed_from_notification_result = self.get_result_by_checkin_id(log, self.viewed_notification_hot_checkin) or self.get_result_by_location(log, self.viewed_notification_hot_spot)
+            is_viewed_notification_hot_checkin = self.get_result_by_checkin_id(log, self.viewed_notification_hot_checkin)
+            is_viewed_news_hot_checkin = self.get_result_by_checkin_id(log, self.viewed_news_hot_checkin)
+            is_viewed_notification_hot_spot = self.get_result_by_location(log, self.viewed_notification_hot_spot)
+            is_viewed_news_hot_spot = self.get_result_by_location(log, self.viewed_news_hot_spot)
             is_viewed_from_checkin_result = self.get_result_by_checkin_id(log, self.viewed_checkin)
             liked_result = self.get_result_by_checkin_id(log, self.liked_checkin)
             saved_result = self.get_result_by_checkin_id(log, self.collected_checkin)
-            self.write_reported(uid + "," + name + "," + location + "," + is_togo_result + "," + is_viewed_from_notification_result + "," + is_viewed_from_checkin_result + "," + liked_result + "," + saved_result + "," + "report saved")
+            self.write_reported(uid + "," + name + "," + location + "," + is_togo_result + "," + is_viewed_notification_hot_checkin + "," + is_viewed_news_hot_checkin + "," + is_viewed_notification_hot_spot + "," + is_viewed_news_hot_spot + ","  + is_viewed_from_checkin_result + "," + liked_result + "," + saved_result + "," + "report saved")
         for log in self.report_togo:
             uid = self.uid
             name = self.name
             location = log.location
             is_togo_result = self.get_result_by_location(log, self.togo_list)
-            is_viewed_from_notification_result = self.get_result_by_checkin_id(log, self.viewed_notification_hot_checkin) or self.get_result_by_location(log, self.viewed_notification_hot_spot)
+            is_viewed_notification_hot_checkin = self.get_result_by_checkin_id(log, self.viewed_notification_hot_checkin)
+            is_viewed_news_hot_checkin = self.get_result_by_checkin_id(log, self.viewed_news_hot_checkin)
+            is_viewed_notification_hot_spot = self.get_result_by_location(log, self.viewed_notification_hot_spot)
+            is_viewed_news_hot_spot = self.get_result_by_location(log, self.viewed_news_hot_spot)
             is_viewed_from_checkin_result = self.get_result_by_checkin_id(log, self.viewed_checkin)
             liked_result = self.get_result_by_checkin_id(log, self.liked_checkin)
             saved_result = self.get_result_by_checkin_id(log, self.collected_checkin)
-            self.write_reported(uid + "," + name + "," + location + "," + is_togo_result + "," + is_viewed_from_notification_result + "," + is_viewed_from_checkin_result + "," + liked_result + "," + saved_result + "," + "report togo")
+            self.write_reported(uid + "," + name + "," + location + "," + is_togo_result + "," + is_viewed_notification_hot_checkin + "," + is_viewed_news_hot_checkin + "," + is_viewed_notification_hot_spot + "," + is_viewed_news_hot_spot + ","  + is_viewed_from_checkin_result + "," + liked_result + "," + saved_result + "," + "report togo")
 
         togo_map = {}
         for log in self.togo_list:
@@ -114,45 +134,54 @@ class User():
                 name = self.name
                 location = log.location
                 is_togo_result = self.get_result_by_location(log, self.togo_list)
-                is_viewed_from_notification_result = self.get_result_by_checkin_id(log, self.viewed_notification_hot_checkin) or self.get_result_by_location(log, self.viewed_notification_hot_spot)
+                is_viewed_notification_hot_checkin = self.get_result_by_checkin_id(log, self.viewed_notification_hot_checkin)
+                is_viewed_news_hot_checkin = self.get_result_by_checkin_id(log, self.viewed_news_hot_checkin)
+                is_viewed_notification_hot_spot = self.get_result_by_location(log, self.viewed_notification_hot_spot)
+                is_viewed_news_hot_spot = self.get_result_by_location(log, self.viewed_news_hot_spot)
                 is_viewed_from_checkin_result = self.get_result_by_checkin_id(log, self.viewed_checkin)
                 liked_result = self.get_result_by_checkin_id(log, self.liked_checkin)
                 saved_result = self.get_result_by_checkin_id(log, self.collected_checkin)
-                self.write_unvisited(uid + "," + name + "," + location + "," + is_togo_result + "," + is_viewed_from_notification_result + "," + is_viewed_from_checkin_result + "," + liked_result + "," + saved_result)
+                self.write_unvisited(uid + "," + name + "," + location + "," + is_togo_result + "," + is_viewed_notification_hot_checkin + "," + is_viewed_news_hot_checkin + "," + is_viewed_notification_hot_spot + "," + is_viewed_news_hot_spot + ","  + is_viewed_from_checkin_result + "," + liked_result + "," + saved_result)
 
     def get_result_by_location(self, log, log_data_list):
         result = False
         for log_data in log_data_list:
             if log.location == log_data.location and log.timestamp >= log_data.timestamp:
-                #print(log.location + " > " + str(log.timestamp) + ", " + str(log_data.timestamp))
+                #print(log.location + " > " + str(log.timestamp) + "," + str(log_data.timestamp))
                 result = log_data.flag
         return str(result)
     def get_result_by_checkin_id(self, log, log_data_list):
         result = False
         for log_data in log_data_list:
-            if log.checkin_id == log_data.checkin_id and log.timestamp >= log_data.timestamp:
+            if log.location == log_data.location and log.timestamp >= log_data.timestamp:
+                #print(log.location + " > " + str(log.timestamp) + "," + str(log_data.timestamp))
                 result = log_data.flag
         return str(result)
+        #result = False
+        #for log_data in log_data_list:
+        #    if log.checkin_id == log_data.checkin_id and log.timestamp >= log_data.timestamp:
+        #        result = log_data.flag
+        #return str(result)
     def unvisited(self, log):
         result = True
         flag = True
         for log_data in self.togo_list:
             if log.location == log_data.location and log.timestamp >= log_data.timestamp:
-                #print(log.location + " > " + str(log.timestamp) + ", " + str(log_data.timestamp))
+                #print(log.location + " > " + str(log.timestamp) + "," + str(log_data.timestamp))
                 flag = log_data.flag
         if flag == False:
             return False
         for log_data in self.report_togo:
             if log.location == log_data.location:
-                print(self.name + " visited " + log.location)
+                #print(self.name + " visited " + log.location)
                 return False
         for log_data in self.report_checkin:
             if log.location == log_data.location:
-                print(self.name + " visited " + log.location)
+                #print(self.name + " visited " + log.location)
                 return False
         for log_data in self.report_anywhere:
             if log.location == log_data.location:
-                print(self.name + " visited " + log.location)
+                #print(self.name + " visited " + log.location)
                 return False
         return True
     def write_reported(self, data):

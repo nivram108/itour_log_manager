@@ -1,1623 +1,800 @@
 {
-  "-LhzwTYYT-NbfOA6S7xM" : {
-    "category" : "歷史",
-    "checkinComment" : {
-      "-Li1Howbfu3PmOLxnYDF" : {
-        "msg" : "哈哈",
-        "timestamp" : 1561259101,
-        "uid" : "0yUOyN6Gy0az0tRMYuEMq9REaI53",
-        "username" : "marvin"
-      }
-    },
-    "description" : "哈",
-    "fakeFlag" : false,
-    "lat" : "25.168215",
-    "like" : {
-      "ZcCpHQO1waZo2DeNHZGdyDt0Xjx2" : true
-    },
-    "likeNum" : 0,
-    "lng" : "121.444145",
-    "location" : "",
-    "photo" : "",
-    "popularTargetUid" : {
-      "all" : false
-    },
-    "targetUid" : "all",
-    "timestamp" : 1561219688,
-    "uid" : "oFs9h34Kj4ah5YQEYdwJ4PE5iXp2",
-    "username" : "Ann"
-  },
-  "-Li1M3K_GkqrJQWxB3XB" : {
+  "-LkHs1j_F6KSx5y3nca3" : {
     "category" : "交通",
-    "checkinComment" : {
-      "-Li24IQflLuvTstWip8L" : {
-        "msg" : "讚讚",
-        "timestamp" : 1561272338,
-        "uid" : "UPb7YJ0R7wdHKp9gd4mEBw0HqhF3",
-        "username" : "Charles"
-      }
-    },
-    "description" : "到達淡水捷運站",
+    "collectNum" : 0,
+    "collectnum" : 0,
+    "description" : "淡水捷運站",
     "fakeFlag" : false,
     "lat" : "25.16767",
     "like" : {
-      "0yUOyN6Gy0az0tRMYuEMq9REaI53" : true,
-      "UPb7YJ0R7wdHKp9gd4mEBw0HqhF3" : true
+      "ObT83xbHaLhzH8lVsHpM7uP9qGn1" : true,
+      "oFs9h34Kj4ah5YQEYdwJ4PE5iXp2" : true
     },
     "likeNum" : 0,
     "lng" : "121.44564",
     "location" : "淡水捷運站",
-    "photo" : "-Li1M3K_GkqrJQWxB3XB.jpg",
+    "photo" : "-LkHs1j_F6KSx5y3nca3.jpg",
     "popularTargetUid" : {
       "all" : false
     },
     "targetUid" : "all",
-    "timestamp" : 1561260212,
-    "uid" : "t7wEJIgbhUROkUO9yraKzaC2hem2",
-    "username" : "史丹"
+    "timestamp" : 1563684776,
+    "uid" : "ObT83xbHaLhzH8lVsHpM7uP9qGn1",
+    "username" : "chcchung"
   },
-  "-Li23zc-24kLgkn1JL6y" : {
-    "category" : "美食",
-    "description" : "",
+  "-LkHva3qKlx7timr2KQG" : {
+    "category" : "其他",
+    "collectNum" : 0,
+    "description" : "今天有風~",
     "fakeFlag" : false,
-    "lat" : "25.169987",
+    "lat" : "25.16767",
+    "like" : {
+      "URRbpmf81mawZ0FXIavt1r9gZim2" : true
+    },
     "likeNum" : 0,
-    "lng" : "121.44204",
+    "lng" : "121.44564",
+    "location" : "淡水捷運站",
+    "photo" : "-LkHva3qKlx7timr2KQG.jpg",
+    "popularTargetUid" : {
+      "all" : false
+    },
+    "targetUid" : "all",
+    "timestamp" : 1563685707,
+    "uid" : "oFs9h34Kj4ah5YQEYdwJ4PE5iXp2",
+    "username" : "Ann"
+  },
+  "-LkHwFUUBevgf1JoTXDN" : {
+    "category" : "其他",
+    "checkinComment" : {
+      "-LkI0EMk4vQ2Xf-ER7rh" : {
+        "msg" : "感動",
+        "timestamp" : 1563687187,
+        "uid" : "ZcCpHQO1waZo2DeNHZGdyDt0Xjx2",
+        "username" : "Emily Lin"
+      }
+    },
+    "collectNum" : 0,
+    "collectnum" : 1,
+    "description" : "實驗說明完成了，終於!",
+    "fakeFlag" : false,
+    "lat" : "25.168015",
+    "like" : {
+      "4TE26xtwsONQwPBFRCgLj3Sg2rB3" : true,
+      "URRbpmf81mawZ0FXIavt1r9gZim2" : true
+    },
+    "likeNum" : 0,
+    "lng" : "121.44551",
     "location" : "",
     "photo" : "",
     "popularTargetUid" : {
       "all" : false
     },
     "targetUid" : "all",
-    "timestamp" : 1561272257,
-    "uid" : "UPb7YJ0R7wdHKp9gd4mEBw0HqhF3",
-    "username" : "Charles"
+    "timestamp" : 1563685881,
+    "uid" : "4TE26xtwsONQwPBFRCgLj3Sg2rB3",
+    "username" : "I-Ju"
   },
-  "-Li25Pt67TDCHRlCqxTe" : {
+  "-LkHx8pM-Au1vz1w33dh" : {
+    "category" : "其他",
+    "checkinComment" : {
+      "-LkI406Sn1RyHmaf4rDX" : {
+        "msg" : "哪來這麼多計程車",
+        "timestamp" : 1563688177,
+        "uid" : "VIhkuWyGi1MS9yPuVVbj5tRi0AG2",
+        "username" : "Stanley"
+      }
+    },
+    "collectNum" : 0,
+    "description" : "捷運站",
+    "fakeFlag" : false,
+    "lat" : "25.16767",
+    "like" : {
+      "URRbpmf81mawZ0FXIavt1r9gZim2" : true,
+      "ZcCpHQO1waZo2DeNHZGdyDt0Xjx2" : true
+    },
+    "likeNum" : 0,
+    "lng" : "121.44564",
+    "location" : "淡水捷運站",
+    "photo" : "-LkHx8pM-Au1vz1w33dh.jpg",
+    "popularTargetUid" : {
+      "all" : false
+    },
+    "targetUid" : "all",
+    "timestamp" : 1563686114,
+    "uid" : "URRbpmf81mawZ0FXIavt1r9gZim2",
+    "username" : "money"
+  },
+  "-LkHxs-Tor9xM2i6Oh6a" : {
     "category" : "交通",
-    "description" : "打卡喔",
+    "collectNum" : 0,
+    "description" : "淡水老街廣場",
     "fakeFlag" : false,
-    "lat" : "25.167627",
-    "likeNum" : 0,
-    "lng" : "121.44557",
-    "location" : "",
-    "photo" : "",
-    "popularTargetUid" : {
-      "all" : false
-    },
-    "targetUid" : "all",
-    "timestamp" : 1561272631,
-    "uid" : "UPb7YJ0R7wdHKp9gd4mEBw0HqhF3",
-    "username" : "Charles"
-  },
-  "-Li25VcIAlDlBUx504mA" : {
-    "category" : "休閒",
-    "checkinComment" : {
-      "-Li25xPlkJN3pE4xBowT" : {
-        "msg" : "讚讚",
-        "timestamp" : 1561272772,
-        "uid" : "UPb7YJ0R7wdHKp9gd4mEBw0HqhF3",
-        "username" : "Charles"
-      },
-      "-Li29BEWb6A-ppVJKcN0" : {
-        "msg" : "去看看",
-        "timestamp" : 1561273614,
-        "uid" : "VIhkuWyGi1MS9yPuVVbj5tRi0AG2",
-        "username" : "Stanley"
-      }
-    },
-    "description" : "有stanley!!",
-    "fakeFlag" : false,
-    "lat" : "25.16975",
-    "like" : {
-      "UPb7YJ0R7wdHKp9gd4mEBw0HqhF3" : true,
-      "VIhkuWyGi1MS9yPuVVbj5tRi0AG2" : true
-    },
-    "likeNum" : 0,
-    "lng" : "121.439804",
-    "location" : "mr. brown",
-    "photo" : "",
-    "popularTargetUid" : {
-      "all" : false
-    },
-    "targetUid" : "all",
-    "timestamp" : 1561272650,
-    "uid" : "ZcCpHQO1waZo2DeNHZGdyDt0Xjx2",
-    "username" : "Emily Lin"
-  },
-  "-Li293guTNh8kgLHR-ry" : {
-    "category" : "美食",
-    "description" : "雨好大但很好吃",
-    "fakeFlag" : false,
-    "lat" : "25.1696",
-    "like" : {
-      "VIhkuWyGi1MS9yPuVVbj5tRi0AG2" : true
-    },
-    "likeNum" : 0,
-    "lng" : "121.441",
-    "location" : "",
-    "photo" : "-Li293guTNh8kgLHR-ry.jpg",
-    "popularTargetUid" : {
-      "all" : false
-    },
-    "targetUid" : "all",
-    "timestamp" : 1561273589,
-    "uid" : "UPb7YJ0R7wdHKp9gd4mEBw0HqhF3",
-    "username" : "Charles"
-  },
-  "-Li2BAbAkWOzbnF3syUo" : {
-    "category" : "美食",
-    "description" : "很多人排队觉得很好吃 想试试",
-    "fakeFlag" : false,
-    "lat" : "25.170567",
-    "like" : {
-      "VIhkuWyGi1MS9yPuVVbj5tRi0AG2" : true,
-      "oBVoACB6v3ceXa31WXIiSngVMsw1" : true
-    },
-    "likeNum" : 0,
-    "lng" : "121.439156",
-    "location" : "缘味老店",
-    "photo" : "-Li2BAbAkWOzbnF3syUo.jpg",
-    "popularTargetUid" : {
-      "all" : false
-    },
-    "targetUid" : "all",
-    "timestamp" : 1561274136,
-    "uid" : "ihbiQOInfENCWXZ2y0dfSnLkdGO2",
-    "username" : "Fanfan"
-  },
-  "-Li2BEQFef8S_bFiXD5T" : {
-    "category" : "美食",
-    "description" : "躲雨吃東西",
-    "fakeFlag" : false,
-    "lat" : "25.168465",
-    "like" : {
-      "VIhkuWyGi1MS9yPuVVbj5tRi0AG2" : true
-    },
-    "likeNum" : 0,
-    "lng" : "121.44381",
-    "location" : "曾記阿給",
-    "photo" : "-Li2BEQFef8S_bFiXD5T.jpg",
-    "popularTargetUid" : {
-      "all" : false
-    },
-    "targetUid" : "all",
-    "timestamp" : 1561274153,
-    "uid" : "ZcCpHQO1waZo2DeNHZGdyDt0Xjx2",
-    "username" : "Emily Lin"
-  },
-  "-Li2BHz9tmL_waRLicsx" : {
-    "category" : "美食",
-    "description" : "吃阿給與他的小夥伴",
-    "fakeFlag" : false,
-    "lat" : "25.16846",
-    "like" : {
-      "ZcCpHQO1waZo2DeNHZGdyDt0Xjx2" : true,
-      "oBVoACB6v3ceXa31WXIiSngVMsw1" : true
-    },
-    "likeNum" : 0,
-    "lng" : "121.44382",
-    "location" : "",
-    "photo" : "-Li2BHz9tmL_waRLicsx.jpg",
-    "popularTargetUid" : {
-      "all" : false
-    },
-    "targetUid" : "all",
-    "timestamp" : 1561274171,
-    "uid" : "UPb7YJ0R7wdHKp9gd4mEBw0HqhF3",
-    "username" : "Charles"
-  },
-  "-Li2BcAW0EF0ePuvErD-" : {
-    "category" : "美食",
-    "description" : "好多人！",
-    "fakeFlag" : false,
-    "lat" : "25.170612",
-    "like" : {
-      "VIhkuWyGi1MS9yPuVVbj5tRi0AG2" : true,
-      "ZcCpHQO1waZo2DeNHZGdyDt0Xjx2" : true
-    },
-    "likeNum" : 0,
-    "lng" : "121.43922",
-    "location" : "緣味古早味蛋糕",
-    "photo" : "-Li2BcAW0EF0ePuvErD-.jpg",
-    "popularTargetUid" : {
-      "all" : false
-    },
-    "targetUid" : "all",
-    "timestamp" : 1561274253,
-    "uid" : "oFs9h34Kj4ah5YQEYdwJ4PE5iXp2",
-    "username" : "Ann"
-  },
-  "-Li2Bcy6QgGORkOaMMWK" : {
-    "category" : "美食",
-    "checkinComment" : {
-      "-Li2Bp-S6XBE5j-Vsi7S" : {
-        "msg" : "記錄一下等等想去！！",
-        "timestamp" : 1561274307,
-        "uid" : "ZcCpHQO1waZo2DeNHZGdyDt0Xjx2",
-        "username" : "Emily Lin"
-      }
-    },
-    "description" : "好多人排隊，好香喔",
-    "fakeFlag" : false,
-    "lat" : "25.170725",
-    "like" : {
-      "VIhkuWyGi1MS9yPuVVbj5tRi0AG2" : true
-    },
-    "likeNum" : 0,
-    "lng" : "121.43905",
-    "location" : "古早味蛋糕",
-    "photo" : "-Li2Bcy6QgGORkOaMMWK.jpg",
-    "popularTargetUid" : {
-      "all" : false
-    },
-    "targetUid" : "all",
-    "timestamp" : 1561274257,
-    "uid" : "nz8TD4R5e5UmBTKYoIpcADLhevF3",
-    "username" : "Irene"
-  },
-  "-Li2CaCygIHNrOYSJbAw" : {
-    "category" : "美食",
-    "checkinComment" : {
-      "-Li2EFjRjRsa_0-Te_CV" : {
-        "msg" : "看起來超好吃啊啊啊",
-        "timestamp" : 1561274943,
-        "uid" : "ZcCpHQO1waZo2DeNHZGdyDt0Xjx2",
-        "username" : "Emily Lin"
-      },
-      "-Li2Em16mf0_SHWMYaGm" : {
-        "msg" : "你也太會拍",
-        "timestamp" : 1561275081,
-        "uid" : "oBVoACB6v3ceXa31WXIiSngVMsw1",
-        "username" : "nicole"
-      },
-      "-Li2EuiwHLjuw48Uyg8i" : {
-        "msg" : "🤤",
-        "timestamp" : 1561275121,
-        "uid" : "UPb7YJ0R7wdHKp9gd4mEBw0HqhF3",
-        "username" : "Charles"
-      },
-      "-Li2Kmq5T1AwVfqZlTw5" : {
-        "msg" : "離開喔",
-        "timestamp" : 1561276656,
-        "uid" : "VIhkuWyGi1MS9yPuVVbj5tRi0AG2",
-        "username" : "Stanley"
-      },
-      "-Li2KoPo_xHN51EUTkt2" : {
-        "msg" : "厲害喔",
-        "timestamp" : 1561276662,
-        "uid" : "VIhkuWyGi1MS9yPuVVbj5tRi0AG2",
-        "username" : "Stanley"
-      }
-    },
-    "description" : "排隊名店，今天難得不用排隊，好幸運",
-    "fakeFlag" : false,
-    "lat" : "25.17092",
-    "like" : {
-      "UPb7YJ0R7wdHKp9gd4mEBw0HqhF3" : true,
-      "VIhkuWyGi1MS9yPuVVbj5tRi0AG2" : true,
-      "ZcCpHQO1waZo2DeNHZGdyDt0Xjx2" : true
-    },
-    "likeNum" : 0,
-    "lng" : "121.43877",
-    "location" : "阿香蝦捲",
-    "photo" : "-Li2CaCygIHNrOYSJbAw.jpg",
-    "popularTargetUid" : {
-      "all" : false
-    },
-    "targetUid" : "all",
-    "timestamp" : 1561274508,
-    "uid" : "nz8TD4R5e5UmBTKYoIpcADLhevF3",
-    "username" : "Irene"
-  },
-  "-Li2D4SPaDPWBG6fJ7Vg" : {
-    "category" : "歷史",
-    "description" : "好美~~",
-    "fakeFlag" : false,
-    "lat" : "25.171679",
-    "like" : {
-      "VIhkuWyGi1MS9yPuVVbj5tRi0AG2" : true,
-      "nz8TD4R5e5UmBTKYoIpcADLhevF3" : true
-    },
-    "likeNum" : 0,
-    "lng" : "121.43818",
-    "location" : "禮拜堂",
-    "photo" : "-Li2D4SPaDPWBG6fJ7Vg.jpg",
-    "popularTargetUid" : {
-      "all" : false
-    },
-    "targetUid" : "all",
-    "timestamp" : 1561274635,
-    "uid" : "oFs9h34Kj4ah5YQEYdwJ4PE5iXp2",
-    "username" : "Ann"
-  },
-  "-Li2DVKaT4q_j7-u7AAo" : {
-    "category" : "歷史",
-    "checkinComment" : {
-      "-Li2FJ1qtJpJECjGw63y" : {
-        "msg" : "我也到了",
-        "timestamp" : 1561275219,
-        "uid" : "ihbiQOInfENCWXZ2y0dfSnLkdGO2",
-        "username" : "Fanfan"
-      }
-    },
-    "description" : "這個也好有Fu",
-    "fakeFlag" : false,
-    "lat" : "25.1718",
-    "like" : {
-      "ihbiQOInfENCWXZ2y0dfSnLkdGO2" : true,
-      "nz8TD4R5e5UmBTKYoIpcADLhevF3" : true,
-      "oBVoACB6v3ceXa31WXIiSngVMsw1" : true
-    },
-    "likeNum" : 0,
-    "lng" : "121.43856",
-    "location" : "滬尾偕醫館",
-    "photo" : "-Li2DVKaT4q_j7-u7AAo.jpg",
-    "popularTargetUid" : {
-      "all" : false
-    },
-    "targetUid" : "all",
-    "timestamp" : 1561274745,
-    "uid" : "oFs9h34Kj4ah5YQEYdwJ4PE5iXp2",
-    "username" : "Ann"
-  },
-  "-Li2EID9k_3AKJiqXdDP" : {
-    "category" : "美食",
-    "checkinComment" : {
-      "-Li2ENvf4DCkDpyBQr9T" : {
-        "msg" : "記錄個等等去",
-        "timestamp" : 1561274977,
-        "uid" : "ZcCpHQO1waZo2DeNHZGdyDt0Xjx2",
-        "username" : "Emily Lin"
-      }
-    },
-    "description" : "伯朗咖啡環境優美",
-    "fakeFlag" : false,
-    "lat" : "25.169727",
-    "like" : {
-      "0yUOyN6Gy0az0tRMYuEMq9REaI53" : true,
-      "ZcCpHQO1waZo2DeNHZGdyDt0Xjx2" : true
-    },
-    "likeNum" : 0,
-    "lng" : "121.43975",
-    "location" : "伯朗咖啡",
-    "photo" : "-Li2EID9k_3AKJiqXdDP.jpg",
-    "popularTargetUid" : {
-      "all" : false
-    },
-    "targetUid" : "all",
-    "timestamp" : 1561274954,
-    "uid" : "VIhkuWyGi1MS9yPuVVbj5tRi0AG2",
-    "username" : "Stanley"
-  },
-  "-Li2EKzT_CXGgYERX9kz" : {
-    "category" : "美食",
-    "description" : "好像是很好喝的",
-    "fakeFlag" : false,
-    "lat" : "25.169498",
-    "likeNum" : 0,
-    "lng" : "121.44187",
-    "location" : "",
-    "photo" : "-Li2EKzT_CXGgYERX9kz.jpg",
-    "popularTargetUid" : {
-      "all" : false
-    },
-    "targetUid" : "all",
-    "timestamp" : 1561274966,
-    "uid" : "oBVoACB6v3ceXa31WXIiSngVMsw1",
-    "username" : "nicole"
-  },
-  "-Li2ERjLR4gq4gVirl4z" : {
-    "category" : "其他",
-    "description" : "漂亮的壁畫",
-    "fakeFlag" : false,
-    "lat" : "25.172373",
-    "like" : {
-      "nz8TD4R5e5UmBTKYoIpcADLhevF3" : true
-    },
-    "likeNum" : 0,
-    "lng" : "121.437965",
-    "location" : "某個上坡處",
-    "photo" : "-Li2ERjLR4gq4gVirl4z.jpg",
-    "popularTargetUid" : {
-      "all" : false
-    },
-    "targetUid" : "all",
-    "timestamp" : 1561274993,
-    "uid" : "oFs9h34Kj4ah5YQEYdwJ4PE5iXp2",
-    "username" : "Ann"
-  },
-  "-Li2EbP0yF7Qeld8HQ1K" : {
-    "category" : "美食",
-    "description" : "紅豆餅！！！吃！",
-    "fakeFlag" : false,
-    "lat" : "25.1682",
-    "likeNum" : 0,
-    "lng" : "121.444084",
-    "location" : "",
-    "photo" : "-Li2EbP0yF7Qeld8HQ1K.jpg",
-    "popularTargetUid" : {
-      "all" : false
-    },
-    "targetUid" : "all",
-    "timestamp" : 1561275042,
-    "uid" : "UPb7YJ0R7wdHKp9gd4mEBw0HqhF3",
-    "username" : "Charles"
-  },
-  "-Li2Eexdt4yzuwDZ0gFD" : {
-    "category" : "美食",
-    "checkinComment" : {
-      "-Li2MYtG5T2NtzFcIQPF" : {
-        "msg" : "吃这么美",
-        "timestamp" : 1561277119,
-        "uid" : "ihbiQOInfENCWXZ2y0dfSnLkdGO2",
-        "username" : "Fanfan"
-      }
-    },
-    "description" : "吃吃吃",
-    "fakeFlag" : false,
-    "lat" : "25.168242",
-    "like" : {
-      "nz8TD4R5e5UmBTKYoIpcADLhevF3" : true
-    },
-    "likeNum" : 0,
-    "lng" : "121.444115",
-    "location" : "已經不在阿給店了",
-    "photo" : "-Li2Eexdt4yzuwDZ0gFD.jpg",
-    "popularTargetUid" : {
-      "all" : false
-    },
-    "targetUid" : "all",
-    "timestamp" : 1561275051,
-    "uid" : "ZcCpHQO1waZo2DeNHZGdyDt0Xjx2",
-    "username" : "Emily Lin"
-  },
-  "-Li2ExTgxh2H2yIDPinI" : {
-    "category" : "歷史",
-    "description" : "離偕醫館很近 滿安靜的",
-    "fakeFlag" : false,
-    "lat" : "25.17201",
-    "like" : {
-      "VIhkuWyGi1MS9yPuVVbj5tRi0AG2" : true
-    },
-    "likeNum" : 0,
-    "lng" : "121.43844",
-    "location" : "淡水禮拜堂",
-    "photo" : "-Li2ExTgxh2H2yIDPinI.jpg",
-    "popularTargetUid" : {
-      "all" : false
-    },
-    "targetUid" : "all",
-    "timestamp" : 1561275127,
-    "uid" : "nz8TD4R5e5UmBTKYoIpcADLhevF3",
-    "username" : "Irene"
-  },
-  "-Li2F0jPBkLL6HkYefOe" : {
-    "category" : "美食",
-    "description" : "好像北車也有\nㄎㄎ",
-    "fakeFlag" : false,
-    "lat" : "25.17102",
-    "likeNum" : 0,
-    "lng" : "121.43854",
-    "location" : "淡水老街",
-    "photo" : "-Li2F0jPBkLL6HkYefOe.jpg",
-    "popularTargetUid" : {
-      "all" : false
-    },
-    "targetUid" : "all",
-    "timestamp" : 1561275144,
-    "uid" : "ZcCpHQO1waZo2DeNHZGdyDt0Xjx2",
-    "username" : "Emily Lin"
-  },
-  "-Li2FEfsjIU61jBUACMH" : {
-    "category" : "其他",
-    "checkinComment" : {
-      "-Li2FtZ9mzRbxcP7BnDL" : {
-        "msg" : "我看倒像綠豆糕",
-        "timestamp" : 1561275372,
-        "uid" : "ZcCpHQO1waZo2DeNHZGdyDt0Xjx2",
-        "username" : "Emily Lin"
-      },
-      "-Li2G3km7IcnWQmk1KaU" : {
-        "msg" : "稿紙？",
-        "timestamp" : 1561275419,
-        "uid" : "oFs9h34Kj4ah5YQEYdwJ4PE5iXp2",
-        "username" : "Ann"
-      }
-    },
-    "description" : "停機坪！？",
-    "fakeFlag" : false,
-    "lat" : "25.1728",
-    "like" : {
-      "UPb7YJ0R7wdHKp9gd4mEBw0HqhF3" : true,
-      "ZcCpHQO1waZo2DeNHZGdyDt0Xjx2" : true,
-      "nz8TD4R5e5UmBTKYoIpcADLhevF3" : true
-    },
-    "likeNum" : 0,
-    "lng" : "121.43793",
-    "location" : "天橋旁",
-    "photo" : "-Li2FEfsjIU61jBUACMH.jpg",
-    "popularTargetUid" : {
-      "all" : false
-    },
-    "targetUid" : "all",
-    "timestamp" : 1561275201,
-    "uid" : "oFs9h34Kj4ah5YQEYdwJ4PE5iXp2",
-    "username" : "Ann"
-  },
-  "-Li2FRs7cTr1bcaFzE3r" : {
-    "category" : "宗教",
-    "checkinComment" : {
-      "-Li2J4Sjt7ljZgHHlt2p" : {
-        "msg" : "這不是伯朗（哭",
-        "timestamp" : 1561276208,
-        "uid" : "ZcCpHQO1waZo2DeNHZGdyDt0Xjx2",
-        "username" : "Emily Lin"
-      },
-      "-Li2LE0BaAT2odhSj19e" : {
-        "msg" : "突然看懂Emily的留言了....但我已經在半路了...",
-        "timestamp" : 1561276772,
-        "uid" : "oFs9h34Kj4ah5YQEYdwJ4PE5iXp2",
-        "username" : "Ann"
-      }
-    },
-    "description" : "我也在伯朗",
-    "fakeFlag" : false,
-    "lat" : "25.173962",
-    "like" : {
-      "UPb7YJ0R7wdHKp9gd4mEBw0HqhF3" : true,
-      "VIhkuWyGi1MS9yPuVVbj5tRi0AG2" : true
-    },
-    "likeNum" : 0,
-    "lng" : "121.43483",
-    "location" : "",
-    "photo" : "",
-    "popularTargetUid" : {
-      "all" : false
-    },
-    "targetUid" : "all",
-    "timestamp" : 1561275255,
-    "uid" : "0yUOyN6Gy0az0tRMYuEMq9REaI53",
-    "username" : "marvin"
-  },
-  "-Li2G5xTnHqfT9MNKEZU" : {
-    "category" : "休閒",
-    "description" : "大..大...大南瓜比賽",
-    "fakeFlag" : false,
-    "lat" : "25.167706",
-    "likeNum" : 0,
-    "lng" : "121.44345",
-    "location" : "",
-    "photo" : "-Li2G5xTnHqfT9MNKEZU.jpg",
-    "popularTargetUid" : {
-      "all" : false
-    },
-    "targetUid" : "all",
-    "timestamp" : 1561275433,
-    "uid" : "UPb7YJ0R7wdHKp9gd4mEBw0HqhF3",
-    "username" : "Charles"
-  },
-  "-Li2GO1V6K928e2PxiVN" : {
-    "category" : "其他",
-    "checkinComment" : {
-      "-Li2I5rLFilqJOYY3MP6" : {
-        "msg" : "倒影hen美",
-        "timestamp" : 1561275951,
-        "uid" : "ZcCpHQO1waZo2DeNHZGdyDt0Xjx2",
-        "username" : "Emily Lin"
-      }
-    },
-    "description" : "釣魚喔！！！",
-    "fakeFlag" : false,
-    "lat" : "25.167645",
-    "likeNum" : 0,
-    "lng" : "121.44344",
-    "location" : "",
-    "photo" : "-Li2GO1V6K928e2PxiVN.jpg",
-    "popularTargetUid" : {
-      "all" : false
-    },
-    "targetUid" : "all",
-    "timestamp" : 1561275507,
-    "uid" : "UPb7YJ0R7wdHKp9gd4mEBw0HqhF3",
-    "username" : "Charles"
-  },
-  "-Li2H2jKC6CzmdPYRrAr" : {
-    "category" : "歷史",
-    "checkinComment" : {
-      "-Li2H7pU8rPTwIzenlUs" : {
-        "msg" : "th",
-        "timestamp" : 1561275697,
-        "uid" : "VIhkuWyGi1MS9yPuVVbj5tRi0AG2",
-        "username" : "Stanley"
-      },
-      "-Li2HZHnO4itE7mWfVQr" : {
-        "msg" : "hi",
-        "timestamp" : 1561275810,
-        "uid" : "VIhkuWyGi1MS9yPuVVbj5tRi0AG2",
-        "username" : "Stanley"
-      },
-      "-Li2Kbh5IcXZ1VhG2OR4" : {
-        "msg" : "oh",
-        "timestamp" : 1561276610,
-        "uid" : "VIhkuWyGi1MS9yPuVVbj5tRi0AG2",
-        "username" : "Stanley"
-      },
-      "-Li2Ke1xf07QuK7JUH8y" : {
-        "msg" : "yo",
-        "timestamp" : 1561276620,
-        "uid" : "VIhkuWyGi1MS9yPuVVbj5tRi0AG2",
-        "username" : "Stanley"
-      }
-    },
-    "description" : "",
-    "fakeFlag" : false,
-    "lat" : "25.169731",
-    "like" : {
-      "VIhkuWyGi1MS9yPuVVbj5tRi0AG2" : true,
-      "ZcCpHQO1waZo2DeNHZGdyDt0Xjx2" : true
-    },
-    "likeNum" : 0,
-    "lng" : "121.43945",
-    "location" : "",
-    "photo" : "-Li2H2jKC6CzmdPYRrAr.jpg",
-    "popularTargetUid" : {
-      "all" : false
-    },
-    "targetUid" : "all",
-    "timestamp" : 1561275676,
-    "uid" : "0yUOyN6Gy0az0tRMYuEMq9REaI53",
-    "username" : "marvin"
-  },
-  "-Li2HJ0N366cw3JCkykD" : {
-    "category" : "休閒",
-    "description" : "第一名大南瓜",
-    "fakeFlag" : false,
-    "lat" : "25.168066",
-    "like" : {
-      "nz8TD4R5e5UmBTKYoIpcADLhevF3" : true
-    },
-    "likeNum" : 0,
-    "lng" : "121.443535",
-    "location" : "",
-    "photo" : "-Li2HJ0N366cw3JCkykD.jpg",
-    "popularTargetUid" : {
-      "all" : false
-    },
-    "targetUid" : "all",
-    "timestamp" : 1561275749,
-    "uid" : "UPb7YJ0R7wdHKp9gd4mEBw0HqhF3",
-    "username" : "Charles"
-  },
-  "-Li2HNQFCR2PVqO0OKqb" : {
-    "category" : "宗教",
-    "description" : "好看的入口设计",
-    "fakeFlag" : false,
-    "lat" : "25.1717",
-    "likeNum" : 0,
-    "lng" : "121.438705",
-    "location" : "医馆",
-    "photo" : "-Li2HNQFCR2PVqO0OKqb.jpg",
-    "popularTargetUid" : {
-      "all" : false
-    },
-    "targetUid" : "all",
-    "timestamp" : 1561275761,
-    "uid" : "ihbiQOInfENCWXZ2y0dfSnLkdGO2",
-    "username" : "Fanfan"
-  },
-  "-Li2Hio44NUsHMkATuzQ" : {
-    "category" : "美食",
-    "checkinComment" : {
-      "-Li2Hvy2wsX5T5o-W1-M" : {
-        "msg" : "好吃嗎！！？",
-        "timestamp" : 1561275907,
-        "uid" : "ZcCpHQO1waZo2DeNHZGdyDt0Xjx2",
-        "username" : "Emily Lin"
-      },
-      "-Li2HyHjvUf8YZthpuBV" : {
-        "msg" : "讚",
-        "timestamp" : 1561275917,
-        "uid" : "oBVoACB6v3ceXa31WXIiSngVMsw1",
-        "username" : "nicole"
-      },
-      "-Li2IGeV-sZkPxVj5oyr" : {
-        "msg" : "那偶要去ㄘ",
-        "timestamp" : 1561275995,
-        "uid" : "ZcCpHQO1waZo2DeNHZGdyDt0Xjx2",
-        "username" : "Emily Lin"
-      },
-      "-Li2UEdw9KNJdTu5V2r8" : {
-        "msg" : "哈哈",
-        "timestamp" : 1561279133,
-        "uid" : "0yUOyN6Gy0az0tRMYuEMq9REaI53",
-        "username" : "marvin"
-      }
-    },
-    "description" : "阿香蝦捲讚",
-    "fakeFlag" : false,
-    "lat" : "25.170681",
-    "like" : {
-      "0yUOyN6Gy0az0tRMYuEMq9REaI53" : true,
-      "ZcCpHQO1waZo2DeNHZGdyDt0Xjx2" : true
-    },
-    "likeNum" : 0,
-    "lng" : "121.43904",
-    "location" : "阿香蝦捲",
-    "photo" : "-Li2Hio44NUsHMkATuzQ.jpg",
-    "popularTargetUid" : {
-      "all" : false
-    },
-    "targetUid" : "all",
-    "timestamp" : 1561275854,
-    "uid" : "oBVoACB6v3ceXa31WXIiSngVMsw1",
-    "username" : "nicole"
-  },
-  "-Li2IY8teGExyD4IxCtT" : {
-    "category" : "歷史",
-    "description" : "淡水禮拜堂期待已久",
-    "fakeFlag" : false,
-    "lat" : "25.17201",
-    "like" : {
-      "nz8TD4R5e5UmBTKYoIpcADLhevF3" : true
-    },
-    "likeNum" : 0,
-    "lng" : "121.43844",
-    "location" : "淡水禮拜堂",
-    "photo" : "-Li2IY8teGExyD4IxCtT.jpg",
-    "popularTargetUid" : {
-      "all" : false
-    },
-    "targetUid" : "all",
-    "timestamp" : 1561276067,
-    "uid" : "ihbiQOInfENCWXZ2y0dfSnLkdGO2",
-    "username" : "Fanfan"
-  },
-  "-Li2IwoDgntlzKat_IMU" : {
-    "category" : "其他",
-    "description" : "錨與拍照的人們",
-    "fakeFlag" : false,
-    "lat" : "25.169056",
-    "likeNum" : 0,
-    "lng" : "121.441605",
-    "location" : "",
-    "photo" : "-Li2IwoDgntlzKat_IMU.jpg",
-    "popularTargetUid" : {
-      "all" : false
-    },
-    "targetUid" : "all",
-    "timestamp" : 1561276178,
-    "uid" : "UPb7YJ0R7wdHKp9gd4mEBw0HqhF3",
-    "username" : "Charles"
-  },
-  "-Li2JDW21vVl3Dd0irI8" : {
-    "category" : "宗教",
-    "checkinComment" : {
-      "-Li2K82-qPvSA_7CBjW3" : {
-        "msg" : "進度敲快！",
-        "timestamp" : 1561276484,
-        "uid" : "ZcCpHQO1waZo2DeNHZGdyDt0Xjx2",
-        "username" : "Emily Lin"
-      }
-    },
-    "description" : "淡水禮拜堂内部",
-    "fakeFlag" : false,
-    "lat" : "25.17201",
-    "like" : {
-      "ZcCpHQO1waZo2DeNHZGdyDt0Xjx2" : true
-    },
-    "likeNum" : 0,
-    "lng" : "121.43844",
-    "location" : "淡水禮拜堂",
-    "photo" : "-Li2JDW21vVl3Dd0irI8.jpg",
-    "popularTargetUid" : {
-      "all" : false
-    },
-    "targetUid" : "all",
-    "timestamp" : 1561276245,
-    "uid" : "ihbiQOInfENCWXZ2y0dfSnLkdGO2",
-    "username" : "Fanfan"
-  },
-  "-Li2JH2sPXpswHkdSwEb" : {
-    "category" : "休閒",
-    "checkinComment" : {
-      "-Li2J_2f7KIDr8rFL0XY" : {
-        "msg" : "！",
-        "timestamp" : 1561276343,
-        "uid" : "UPb7YJ0R7wdHKp9gd4mEBw0HqhF3",
-        "username" : "Charles"
-      }
-    },
-    "description" : "發現齊柏林網美牆",
-    "fakeFlag" : false,
-    "lat" : "25.172136",
-    "like" : {
-      "UPb7YJ0R7wdHKp9gd4mEBw0HqhF3" : true,
-      "VIhkuWyGi1MS9yPuVVbj5tRi0AG2" : true,
-      "ZcCpHQO1waZo2DeNHZGdyDt0Xjx2" : true
-    },
-    "likeNum" : 0,
-    "lng" : "121.43728",
-    "location" : "",
-    "photo" : "-Li2JH2sPXpswHkdSwEb.jpg",
-    "popularTargetUid" : {
-      "all" : false
-    },
-    "targetUid" : "all",
-    "timestamp" : 1561276260,
-    "uid" : "nz8TD4R5e5UmBTKYoIpcADLhevF3",
-    "username" : "Irene"
-  },
-  "-Li2Jtd5pdKwygxOrt1K" : {
-    "category" : "交通",
-    "description" : "船喔~",
-    "fakeFlag" : false,
-    "lat" : "25.169462",
-    "likeNum" : 0,
-    "lng" : "121.440155",
-    "location" : "",
-    "photo" : "-Li2Jtd5pdKwygxOrt1K.jpg",
-    "popularTargetUid" : {
-      "all" : false
-    },
-    "targetUid" : "all",
-    "timestamp" : 1561276427,
-    "uid" : "UPb7YJ0R7wdHKp9gd4mEBw0HqhF3",
-    "username" : "Charles"
-  },
-  "-Li2K2ff_0hH2W9_KaTo" : {
-    "category" : "其他",
-    "checkinComment" : {
-      "-Li2MHWhfoOGO8cUebOL" : {
-        "msg" : "好濕好濕",
-        "timestamp" : 1561277048,
-        "uid" : "ZcCpHQO1waZo2DeNHZGdyDt0Xjx2",
-        "username" : "Emily Lin"
-      }
-    },
-    "description" : "濕掉的鳥",
-    "fakeFlag" : false,
-    "lat" : "25.17318",
-    "like" : {
-      "nz8TD4R5e5UmBTKYoIpcADLhevF3" : true
-    },
-    "likeNum" : 0,
-    "lng" : "121.4356",
-    "location" : "",
-    "photo" : "-Li2K2ff_0hH2W9_KaTo.jpg",
-    "popularTargetUid" : {
-      "all" : false
-    },
-    "targetUid" : "all",
-    "timestamp" : 1561276468,
-    "uid" : "UPb7YJ0R7wdHKp9gd4mEBw0HqhF3",
-    "username" : "Charles"
-  },
-  "-Li2KL-kDOC3c_aM00vD" : {
-    "category" : "美食",
-    "description" : "aaaaa",
-    "fakeFlag" : false,
-    "lat" : "25.175434",
-    "like" : {
-      "ZcCpHQO1waZo2DeNHZGdyDt0Xjx2" : true
-    },
-    "likeNum" : 0,
-    "lng" : "121.43295",
-    "location" : "紅毛城",
-    "photo" : "",
-    "popularTargetUid" : {
-      "all" : false
-    },
-    "targetUid" : "all",
-    "timestamp" : 1561276539,
-    "uid" : "oBVoACB6v3ceXa31WXIiSngVMsw1",
-    "username" : "nicole"
-  },
-  "-Li2LPBgUBVezOeRZg4R" : {
-    "category" : "歷史",
-    "checkinComment" : {
-      "-Li2O0GTQ1YoQqVBLSAw" : {
-        "msg" : "hi",
-        "timestamp" : 1561277501,
-        "uid" : "VIhkuWyGi1MS9yPuVVbj5tRi0AG2",
-        "username" : "Stanley"
-      },
-      "-Li2OCA65Ik2BgyiW0_t" : {
-        "msg" : "hi",
-        "timestamp" : 1561277550,
-        "uid" : "VIhkuWyGi1MS9yPuVVbj5tRi0AG2",
-        "username" : "Stanley"
-      },
-      "-Li2OOxUXIMhwziKtF6y" : {
-        "msg" : "hi",
-        "timestamp" : 1561277603,
-        "uid" : "VIhkuWyGi1MS9yPuVVbj5tRi0AG2",
-        "username" : "Stanley"
-      },
-      "-Li2OWXMJwkjmqOcMnMR" : {
-        "msg" : "hi",
-        "timestamp" : 1561277634,
-        "uid" : "VIhkuWyGi1MS9yPuVVbj5tRi0AG2",
-        "username" : "Stanley"
-      },
-      "-Li2RkAOSVd-Q6VnEppU" : {
-        "msg" : "y",
-        "timestamp" : 1561278480,
-        "uid" : "VIhkuWyGi1MS9yPuVVbj5tRi0AG2",
-        "username" : "Stanley"
-      },
-      "-Li2SAX5lblkABldzrG_" : {
-        "msg" : "hi",
-        "timestamp" : 1561278592,
-        "uid" : "VIhkuWyGi1MS9yPuVVbj5tRi0AG2",
-        "username" : "Stanley"
-      },
-      "-Li2SXSV_u6jtbuzgGwT" : {
-        "msg" : "hihi",
-        "timestamp" : 1561278686,
-        "uid" : "VIhkuWyGi1MS9yPuVVbj5tRi0AG2",
-        "username" : "Stanley"
-      }
-    },
-    "description" : "好好",
-    "fakeFlag" : false,
-    "lat" : "25.169706",
-    "like" : {
-      "VIhkuWyGi1MS9yPuVVbj5tRi0AG2" : true
-    },
-    "likeNum" : 0,
-    "lng" : "121.43956",
-    "location" : "",
-    "photo" : "",
-    "popularTargetUid" : {
-      "all" : false
-    },
-    "targetUid" : "all",
-    "timestamp" : 1561276817,
-    "uid" : "0yUOyN6Gy0az0tRMYuEMq9REaI53",
-    "username" : "marvin"
-  },
-  "-Li2LmfV_OoW1vkCNsC3" : {
-    "category" : "美食",
-    "checkinComment" : {
-      "-Li2LxDOFNvpIXPk9YRz" : {
-        "msg" : "這家司康好吃 我爸媽超愛",
-        "timestamp" : 1561276961,
-        "uid" : "nz8TD4R5e5UmBTKYoIpcADLhevF3",
-        "username" : "Irene"
-      }
-    },
-    "description" : "英國奶奶之前在部落客上看到过的推荐餐厅",
-    "fakeFlag" : false,
-    "lat" : "25.171618",
-    "like" : {
-      "nz8TD4R5e5UmBTKYoIpcADLhevF3" : true
-    },
-    "likeNum" : 0,
-    "lng" : "121.4382",
-    "location" : "英國奶奶",
-    "photo" : "-Li2LmfV_OoW1vkCNsC3.jpg",
-    "popularTargetUid" : {
-      "all" : false
-    },
-    "targetUid" : "all",
-    "timestamp" : 1561276917,
-    "uid" : "ihbiQOInfENCWXZ2y0dfSnLkdGO2",
-    "username" : "Fanfan"
-  },
-  "-Li2MIat01iYGvtLepbO" : {
-    "category" : "歷史",
-    "checkinComment" : {
-      "-Li2MRdWuNlfjGZyZe_8" : {
-        "msg" : "ㄛㄛㄛㄛㄛ",
-        "timestamp" : 1561277089,
-        "uid" : "ZcCpHQO1waZo2DeNHZGdyDt0Xjx2",
-        "username" : "Emily Lin"
-      },
-      "-Li2NUc7gdDvXBP48zPI" : {
-        "msg" : "路过ing",
-        "timestamp" : 1561277363,
-        "uid" : "ihbiQOInfENCWXZ2y0dfSnLkdGO2",
-        "username" : "Fanfan"
-      }
-    },
-    "description" : "戲魚 by 余連春@2002",
-    "fakeFlag" : false,
-    "lat" : "25.171244",
-    "like" : {
-      "ihbiQOInfENCWXZ2y0dfSnLkdGO2" : true
-    },
-    "likeNum" : 0,
-    "lng" : "121.43726",
-    "location" : "",
-    "photo" : "-Li2MIat01iYGvtLepbO.jpg",
-    "popularTargetUid" : {
-      "all" : false
-    },
-    "targetUid" : "all",
-    "timestamp" : 1561277058,
-    "uid" : "UPb7YJ0R7wdHKp9gd4mEBw0HqhF3",
-    "username" : "Charles"
-  },
-  "-Li2MlVMG2Er6ivuicu-" : {
-    "category" : "休閒",
-    "description" : "淡水老街的最最尾巴！！",
-    "fakeFlag" : false,
-    "lat" : "25.17324",
-    "like" : {
-      "UPb7YJ0R7wdHKp9gd4mEBw0HqhF3" : true
-    },
-    "likeNum" : 0,
-    "lng" : "121.43557",
-    "location" : "老街尾巴",
-    "photo" : "-Li2MlVMG2Er6ivuicu-.jpg",
-    "popularTargetUid" : {
-      "all" : false
-    },
-    "targetUid" : "all",
-    "timestamp" : 1561277175,
-    "uid" : "oFs9h34Kj4ah5YQEYdwJ4PE5iXp2",
-    "username" : "Ann"
-  },
-  "-Li2N2_hcm-FSFZrOAwR" : {
-    "category" : "宗教",
-    "checkinComment" : {
-      "-Li2PPwdSoe829b8WQY6" : {
-        "msg" : "我也看到了~~",
-        "timestamp" : 1561277869,
-        "uid" : "oFs9h34Kj4ah5YQEYdwJ4PE5iXp2",
-        "username" : "Ann"
-      }
-    },
-    "description" : "馬偕上岸傳教囉~",
-    "fakeFlag" : false,
-    "lat" : "25.171549",
-    "likeNum" : 0,
-    "lng" : "121.43696",
-    "location" : "",
-    "photo" : "-Li2N2_hcm-FSFZrOAwR.jpg",
-    "popularTargetUid" : {
-      "all" : false
-    },
-    "targetUid" : "all",
-    "timestamp" : 1561277254,
-    "uid" : "UPb7YJ0R7wdHKp9gd4mEBw0HqhF3",
-    "username" : "Charles"
-  },
-  "-Li2NMldBiy7x9psJg5J" : {
-    "category" : "其他",
-    "description" : "Michael Jackson路燈",
-    "fakeFlag" : false,
-    "lat" : "25.172749",
-    "likeNum" : 0,
-    "lng" : "121.436485",
-    "location" : "淡水稽徵所門口",
-    "photo" : "-Li2NMldBiy7x9psJg5J.jpg",
-    "popularTargetUid" : {
-      "all" : false
-    },
-    "targetUid" : "all",
-    "timestamp" : 1561277332,
-    "uid" : "oFs9h34Kj4ah5YQEYdwJ4PE5iXp2",
-    "username" : "Ann"
-  },
-  "-Li2OBFRj42ly1Z5rsj4" : {
-    "category" : "休閒",
-    "description" : "真的美~見山",
-    "fakeFlag" : false,
-    "lat" : "25.172195",
-    "likeNum" : 0,
-    "lng" : "121.43739",
-    "location" : "某空地",
-    "photo" : "-Li2OBFRj42ly1Z5rsj4.jpg",
-    "popularTargetUid" : {
-      "all" : false
-    },
-    "targetUid" : "all",
-    "timestamp" : 1561277547,
-    "uid" : "oFs9h34Kj4ah5YQEYdwJ4PE5iXp2",
-    "username" : "Ann"
-  },
-  "-Li2OBywXK0RhErq8rff" : {
-    "category" : "其他",
-    "checkinComment" : {
-      "-Li2OjKXkJDwhCB1r2LW" : {
-        "msg" : "貓貓可愛",
-        "timestamp" : 1561277691,
-        "uid" : "nz8TD4R5e5UmBTKYoIpcADLhevF3",
-        "username" : "Irene"
-      }
-    },
-    "description" : "貓貓與小女孩",
-    "fakeFlag" : false,
-    "lat" : "25.172215",
-    "like" : {
-      "nz8TD4R5e5UmBTKYoIpcADLhevF3" : true
-    },
-    "likeNum" : 0,
-    "lng" : "121.43613",
-    "location" : "",
-    "photo" : "-Li2OBywXK0RhErq8rff.jpg",
-    "popularTargetUid" : {
-      "all" : false
-    },
-    "targetUid" : "all",
-    "timestamp" : 1561277555,
-    "uid" : "UPb7YJ0R7wdHKp9gd4mEBw0HqhF3",
-    "username" : "Charles"
-  },
-  "-Li2OQTbZ_O8nz9hy6gX" : {
-    "category" : "休閒",
-    "description" : "好美的樹",
-    "fakeFlag" : false,
-    "lat" : "25.17211",
-    "like" : {
-      "nz8TD4R5e5UmBTKYoIpcADLhevF3" : true
-    },
-    "likeNum" : 0,
-    "lng" : "121.437485",
-    "location" : "網美牆旁邊",
-    "photo" : "-Li2OQTbZ_O8nz9hy6gX.jpg",
-    "popularTargetUid" : {
-      "all" : false
-    },
-    "targetUid" : "all",
-    "timestamp" : 1561277609,
-    "uid" : "oFs9h34Kj4ah5YQEYdwJ4PE5iXp2",
-    "username" : "Ann"
-  },
-  "-Li2OhebNQ7Nk2vN0Qwl" : {
-    "category" : "其他",
-    "checkinComment" : {
-      "-Li2PIXOUFJkg6MtenTc" : {
-        "msg" : "宜家家居新店店",
-        "timestamp" : 1561277838,
-        "uid" : "ZcCpHQO1waZo2DeNHZGdyDt0Xjx2",
-        "username" : "Emily Lin"
-      }
-    },
-    "description" : "范冰冰，馬偕街",
-    "fakeFlag" : false,
-    "lat" : "25.172024",
-    "like" : {
-      "ZcCpHQO1waZo2DeNHZGdyDt0Xjx2" : true
-    },
-    "likeNum" : 0,
-    "lng" : "121.43771",
-    "location" : "馬偕街",
-    "photo" : "-Li2OhebNQ7Nk2vN0Qwl.jpg",
-    "popularTargetUid" : {
-      "all" : false
-    },
-    "targetUid" : "all",
-    "timestamp" : 1561277684,
-    "uid" : "oFs9h34Kj4ah5YQEYdwJ4PE5iXp2",
-    "username" : "Ann"
-  },
-  "-Li2OroqVf2TGAcnyNB-" : {
-    "category" : "其他",
-    "checkinComment" : {
-      "-Li2Pj5BWVvPmszcI32f" : {
-        "msg" : "笑爆",
-        "timestamp" : 1561277952,
-        "uid" : "oFs9h34Kj4ah5YQEYdwJ4PE5iXp2",
-        "username" : "Ann"
-      }
-    },
-    "description" : "感覺會有破關道具！",
-    "fakeFlag" : false,
-    "lat" : "25.172667",
+    "lat" : "25.16928",
     "like" : {
       "oFs9h34Kj4ah5YQEYdwJ4PE5iXp2" : true
     },
     "likeNum" : 0,
-    "lng" : "121.43544",
-    "location" : "淡水河",
-    "photo" : "-Li2OroqVf2TGAcnyNB-.jpg",
-    "popularTargetUid" : {
-      "all" : false
-    },
-    "targetUid" : "all",
-    "timestamp" : 1561277725,
-    "uid" : "ZcCpHQO1waZo2DeNHZGdyDt0Xjx2",
-    "username" : "Emily Lin"
-  },
-  "-Li2PPeFJPs8-qimqwOy" : {
-    "category" : "交通",
-    "description" : "走完老街了",
-    "fakeFlag" : false,
-    "lat" : "25.173151",
-    "likeNum" : 0,
-    "lng" : "121.4358",
+    "lng" : "121.444",
     "location" : "",
-    "photo" : "-Li2PPeFJPs8-qimqwOy.jpg",
+    "photo" : "-LkHxs-Tor9xM2i6Oh6a.jpg",
     "popularTargetUid" : {
       "all" : false
     },
     "targetUid" : "all",
-    "timestamp" : 1561277873,
-    "uid" : "UPb7YJ0R7wdHKp9gd4mEBw0HqhF3",
-    "username" : "Charles"
+    "timestamp" : 1563686304,
+    "uid" : "4TE26xtwsONQwPBFRCgLj3Sg2rB3",
+    "username" : "I-Ju"
   },
-  "-Li2Paqs5gDmS3syvE9U" : {
-    "category" : "其他",
-    "description" : "漁人",
+  "-LkHy460y3ZdxkeCK-jp" : {
+    "category" : "休閒",
+    "checkinComment" : {
+      "-LkHyZArkyC5vs6wt7G9" : {
+        "msg" : "好美唷！",
+        "timestamp" : 1563686486,
+        "uid" : "oFs9h34Kj4ah5YQEYdwJ4PE5iXp2",
+        "username" : "Ann"
+      },
+      "-LkHzUeGnP89MnKRm7Ev" : {
+        "msg" : "😍",
+        "timestamp" : 1563686727,
+        "uid" : "URRbpmf81mawZ0FXIavt1r9gZim2",
+        "username" : "money"
+      },
+      "-LkI3xedfhCfKKm8bakz" : {
+        "msg" : "我覺得可以",
+        "timestamp" : 1563688163,
+        "uid" : "VIhkuWyGi1MS9yPuVVbj5tRi0AG2",
+        "username" : "Stanley"
+      },
+      "-LkI4QUpp1Kg9qTKt0iw" : {
+        "msg" : "今天有營業嗎~",
+        "timestamp" : 1563688285,
+        "uid" : "oFs9h34Kj4ah5YQEYdwJ4PE5iXp2",
+        "username" : "Ann"
+      }
+    },
+    "collectNum" : 0,
+    "collectnum" : 1,
+    "description" : "紅樓咖啡店",
     "fakeFlag" : false,
-    "lat" : "25.1711",
+    "lat" : "25.171122",
     "like" : {
-      "ZcCpHQO1waZo2DeNHZGdyDt0Xjx2" : true
+      "4TE26xtwsONQwPBFRCgLj3Sg2rB3" : true,
+      "VIhkuWyGi1MS9yPuVVbj5tRi0AG2" : true,
+      "nz8TD4R5e5UmBTKYoIpcADLhevF3" : true,
+      "oFs9h34Kj4ah5YQEYdwJ4PE5iXp2" : true
     },
     "likeNum" : 0,
-    "lng" : "121.43744",
-    "location" : "碼頭",
-    "photo" : "-Li2Paqs5gDmS3syvE9U.jpg",
+    "lng" : "121.43952",
+    "location" : "紅樓中餐廳",
+    "photo" : "-LkHy460y3ZdxkeCK-jp.jpg",
     "popularTargetUid" : {
       "all" : false
     },
     "targetUid" : "all",
-    "timestamp" : 1561277918,
+    "timestamp" : 1563686358,
+    "uid" : "ObT83xbHaLhzH8lVsHpM7uP9qGn1",
+    "username" : "chcchung"
+  },
+  "-LkI-G7pySowpiAKU6ki" : {
+    "category" : "休閒",
+    "collectNum" : 0,
+    "description" : "懸空金人！！！！",
+    "fakeFlag" : false,
+    "lat" : "25.16804",
+    "like" : {
+      "nz8TD4R5e5UmBTKYoIpcADLhevF3" : true
+    },
+    "likeNum" : 0,
+    "lng" : "121.44478",
+    "location" : "捷運站旁",
+    "photo" : "-LkI-G7pySowpiAKU6ki.jpg",
+    "popularTargetUid" : {
+      "all" : false
+    },
+    "targetUid" : "all",
+    "timestamp" : 1563686932,
     "uid" : "oFs9h34Kj4ah5YQEYdwJ4PE5iXp2",
     "username" : "Ann"
   },
-  "-Li2Q38cEULhrAbS3-yQ" : {
+  "-LkI-YsxQUvdDSGOd2Wm" : {
     "category" : "休閒",
     "checkinComment" : {
-      "-Li2fQZoCimTW-_4JXib" : {
-        "msg" : "嗚嗚",
-        "timestamp" : 1561282328,
-        "uid" : "0yUOyN6Gy0az0tRMYuEMq9REaI53",
-        "username" : "marvin"
+      "-LkI3s4rXEWnVC-aMBC6" : {
+        "msg" : "好假",
+        "timestamp" : 1563688140,
+        "uid" : "VIhkuWyGi1MS9yPuVVbj5tRi0AG2",
+        "username" : "Stanley"
       }
     },
-    "description" : "彩繪磚牆",
+    "collectNum" : 0,
+    "description" : "太酷了!懸空耶!",
     "fakeFlag" : false,
-    "lat" : "25.170532",
-    "like" : {
-      "0yUOyN6Gy0az0tRMYuEMq9REaI53" : true,
-      "ZcCpHQO1waZo2DeNHZGdyDt0Xjx2" : true
-    },
+    "lat" : "25.168062",
     "likeNum" : 0,
-    "lng" : "121.43924",
-    "location" : "彩繪磚牆",
-    "photo" : "-Li2Q38cEULhrAbS3-yQ.jpg",
+    "lng" : "121.444626",
+    "location" : "淡水河岸廣場",
+    "photo" : "-LkI-YsxQUvdDSGOd2Wm.jpg",
     "popularTargetUid" : {
       "all" : false
     },
     "targetUid" : "all",
-    "timestamp" : 1561278038,
+    "timestamp" : 1563687009,
     "uid" : "nz8TD4R5e5UmBTKYoIpcADLhevF3",
     "username" : "Irene"
   },
-  "-Li2Q4XQYmV9UnwSyOef" : {
-    "category" : "休閒",
-    "description" : "雲霧繚繞觀音山",
-    "fakeFlag" : false,
-    "lat" : "25.17074",
-    "likeNum" : 0,
-    "lng" : "121.43792",
-    "location" : "碼頭",
-    "photo" : "-Li2Q4XQYmV9UnwSyOef.jpg",
-    "popularTargetUid" : {
-      "all" : false
-    },
-    "targetUid" : "all",
-    "timestamp" : 1561278043,
-    "uid" : "oFs9h34Kj4ah5YQEYdwJ4PE5iXp2",
-    "username" : "Ann"
-  },
-  "-Li2QiNytLexRN3tzzSq" : {
+  "-LkI-dvm2PN-0f8tQk5o" : {
     "category" : "其他",
-    "description" : "龍穴？",
+    "collectNum" : 0,
+    "description" : "老街入口處",
     "fakeFlag" : false,
-    "lat" : "25.17039",
-    "like" : {
-      "ZcCpHQO1waZo2DeNHZGdyDt0Xjx2" : true
-    },
+    "lat" : "25.167965",
     "likeNum" : 0,
-    "lng" : "121.43914",
-    "location" : "阿媽的酸梅湯旁邊",
-    "photo" : "-Li2QiNytLexRN3tzzSq.jpg",
+    "lng" : "121.44394",
+    "location" : "",
+    "photo" : "-LkI-dvm2PN-0f8tQk5o.jpg",
     "popularTargetUid" : {
       "all" : false
     },
     "targetUid" : "all",
-    "timestamp" : 1561278211,
-    "uid" : "oFs9h34Kj4ah5YQEYdwJ4PE5iXp2",
-    "username" : "Ann"
+    "timestamp" : 1563687032,
+    "uid" : "URRbpmf81mawZ0FXIavt1r9gZim2",
+    "username" : "money"
   },
-  "-Li2SQ0RlFCZt7aNR9Qn" : {
-    "category" : "美食",
-    "description" : "吃！",
+  "-LkI-hN23uKPr-PRTuXT" : {
+    "category" : "休閒",
+    "checkinComment" : {
+      "-LkI00cg0d2zn7AH7dER" : {
+        "msg" : "怕爆",
+        "timestamp" : 1563687131,
+        "uid" : "ZcCpHQO1waZo2DeNHZGdyDt0Xjx2",
+        "username" : "Emily Lin"
+      },
+      "-LkI3pshwgizciBnHOCL" : {
+        "msg" : "好幼稚",
+        "timestamp" : 1563688131,
+        "uid" : "VIhkuWyGi1MS9yPuVVbj5tRi0AG2",
+        "username" : "Stanley"
+      },
+      "-LkI66mSMN7FySaL2aj9" : {
+        "msg" : "跟 @失戀故事館 門票共通",
+        "timestamp" : 1563688728,
+        "uid" : "4TE26xtwsONQwPBFRCgLj3Sg2rB3",
+        "username" : "I-Ju"
+      }
+    },
+    "collectNum" : 0,
+    "description" : "有蛇 (怕",
     "fakeFlag" : false,
-    "lat" : "25.1707",
+    "lat" : "25.168795",
     "likeNum" : 0,
-    "lng" : "121.439125",
-    "location" : "阿香蝦卷",
-    "photo" : "-Li2SQ0RlFCZt7aNR9Qn.jpg",
+    "lng" : "121.44337",
+    "location" : "",
+    "photo" : "-LkI-hN23uKPr-PRTuXT.jpg",
     "popularTargetUid" : {
       "all" : false
     },
     "targetUid" : "all",
-    "timestamp" : 1561278655,
+    "timestamp" : 1563687047,
+    "uid" : "4TE26xtwsONQwPBFRCgLj3Sg2rB3",
+    "username" : "I-Ju"
+  },
+  "-LkI-kylRxNTDOAKerla" : {
+    "category" : "美食",
+    "collectNum" : 0,
+    "description" : "這是要做啥",
+    "fakeFlag" : false,
+    "lat" : "25.16767",
+    "likeNum" : 0,
+    "lng" : "121.44564",
+    "location" : "淡水捷運站",
+    "photo" : "-LkI-kylRxNTDOAKerla.jpg",
+    "popularTargetUid" : {
+      "all" : false
+    },
+    "targetUid" : "all",
+    "timestamp" : 1563687063,
     "uid" : "ZcCpHQO1waZo2DeNHZGdyDt0Xjx2",
     "username" : "Emily Lin"
   },
-  "-Li2Uqm1OC4_rS1J13ap" : {
-    "category" : "歷史",
-    "description" : "哈哈",
+  "-LkI-oANbCBtor3sg3z5" : {
+    "category" : "美食",
+    "collectNum" : 0,
+    "description" : "巨無霸霜淇淋~",
     "fakeFlag" : false,
-    "lat" : "25.169588",
+    "lat" : "25.168316",
     "like" : {
-      "13slWcWVt7caaqPsXL3qHW49Rro2" : true
+      "nz8TD4R5e5UmBTKYoIpcADLhevF3" : true
     },
     "likeNum" : 0,
-    "lng" : "121.43941",
-    "location" : "",
-    "photo" : "",
+    "lng" : "121.444",
+    "location" : "老街口",
+    "photo" : "-LkI-oANbCBtor3sg3z5.jpg",
     "popularTargetUid" : {
       "all" : false
     },
     "targetUid" : "all",
-    "timestamp" : 1561279294,
-    "uid" : "0yUOyN6Gy0az0tRMYuEMq9REaI53",
-    "username" : "marvin"
+    "timestamp" : 1563687075,
+    "uid" : "oFs9h34Kj4ah5YQEYdwJ4PE5iXp2",
+    "username" : "Ann"
   },
-  "-LiBNw-cM7J4Qi5K7L2F" : {
-    "category" : "歷史",
-    "checkinComment" : {
-      "-LiqHKXIEJC3UnGn1X50" : {
-        "msg" : "哈哈",
-        "timestamp" : 1562131389,
-        "uid" : "ZcCpHQO1waZo2DeNHZGdyDt0Xjx2",
-        "username" : "Emily Lin"
-      }
-    },
-    "description" : "哈哈",
-    "fakeFlag" : false,
-    "lat" : "25.17004",
-    "like" : {
-      "ZcCpHQO1waZo2DeNHZGdyDt0Xjx2" : true
-    },
-    "likeNum" : 0,
-    "lng" : "121.44202",
-    "location" : "龍山寺",
-    "photo" : "",
-    "popularTargetUid" : {
-      "all" : false
-    },
-    "targetUid" : "all",
-    "timestamp" : 1561428476,
-    "uid" : "0yUOyN6Gy0az0tRMYuEMq9REaI53",
-    "username" : "marvin"
-  },
-  "-LiBRFYzaPgDRQ9D3x6C" : {
-    "category" : "宗教",
-    "description" : "哈哈",
-    "fakeFlag" : false,
-    "lat" : "25.1718",
-    "like" : {
-      "ZcCpHQO1waZo2DeNHZGdyDt0Xjx2" : true
-    },
-    "likeNum" : 0,
-    "lng" : "121.43856",
-    "location" : "滬尾偕醫館",
-    "photo" : "",
-    "popularTargetUid" : {
-      "all" : false
-    },
-    "targetUid" : "all",
-    "timestamp" : 1561429346,
-    "uid" : "0yUOyN6Gy0az0tRMYuEMq9REaI53",
-    "username" : "marvin"
-  },
-  "-LiBRL_GiZ3Ea8yQQmAH" : {
+  "-LkI0GJLJIeAp4US34KV" : {
     "category" : "休閒",
-    "description" : "哈哈",
+    "collectNum" : 0,
+    "description" : "",
     "fakeFlag" : false,
-    "lat" : "25.1702",
-    "likeNum" : 0,
-    "lng" : "121.44104",
-    "location" : "清水巖",
-    "photo" : "",
-    "popularTargetUid" : {
-      "all" : false
-    },
-    "targetUid" : "all",
-    "timestamp" : 1561429371,
-    "uid" : "0yUOyN6Gy0az0tRMYuEMq9REaI53",
-    "username" : "marvin"
-  },
-  "-LiBRutA3OPVVQGxI5Ht" : {
-    "category" : "宗教",
-    "checkinComment" : {
-      "-LiqHW9Iczy021iK-bDF" : {
-        "msg" : "奇怪",
-        "timestamp" : 1562131436,
-        "uid" : "ZcCpHQO1waZo2DeNHZGdyDt0Xjx2",
-        "username" : "Emily Lin"
-      }
-    },
-    "description" : "奇怪",
-    "fakeFlag" : false,
-    "lat" : "25.169832",
-    "likeNum" : 0,
-    "lng" : "121.43871",
-    "location" : "淡水渡船頭",
-    "photo" : "",
-    "popularTargetUid" : {
-      "all" : false
-    },
-    "targetUid" : "all",
-    "timestamp" : 1561429519,
-    "uid" : "0yUOyN6Gy0az0tRMYuEMq9REaI53",
-    "username" : "marvin"
-  },
-  "-LiBSAkWYzTM8SUEnx2Z" : {
-    "category" : "歷史",
-    "description" : "完蛋",
-    "fakeFlag" : false,
-    "lat" : "25.17691",
+    "lat" : "25.16862",
     "like" : {
-      "ZcCpHQO1waZo2DeNHZGdyDt0Xjx2" : true
+      "ZcCpHQO1waZo2DeNHZGdyDt0Xjx2" : true,
+      "oFs9h34Kj4ah5YQEYdwJ4PE5iXp2" : true
     },
     "likeNum" : 0,
-    "lng" : "121.43514",
-    "location" : "真理大學",
-    "photo" : "",
+    "lng" : "121.44354",
+    "location" : "失戀故事館",
+    "photo" : "-LkI0GJLJIeAp4US34KV.jpg",
     "popularTargetUid" : {
       "all" : false
     },
     "targetUid" : "all",
-    "timestamp" : 1561429589,
-    "uid" : "0yUOyN6Gy0az0tRMYuEMq9REaI53",
-    "username" : "marvin"
+    "timestamp" : 1563687195,
+    "uid" : "nz8TD4R5e5UmBTKYoIpcADLhevF3",
+    "username" : "Irene"
   },
-  "-LiBSQif2eZfnv7RYaJB" : {
-    "category" : "宗教",
-    "description" : "為啥",
+  "-LkI0IHTNkkYBPhWSytk" : {
+    "category" : "美食",
+    "collectNum" : 0,
+    "description" : "啤酒~",
     "fakeFlag" : false,
-    "lat" : "25.16587",
-    "likeNum" : 0,
-    "lng" : "121.44698",
-    "location" : "淡水文化園區-殼牌倉庫",
-    "photo" : "",
-    "popularTargetUid" : {
-      "all" : false
-    },
-    "targetUid" : "all",
-    "timestamp" : 1561429654,
-    "uid" : "0yUOyN6Gy0az0tRMYuEMq9REaI53",
-    "username" : "marvin"
-  },
-  "-LiBSahscJqLKBeXhNXf" : {
-    "category" : "歷史",
-    "checkinComment" : {
-      "-LiqHNdZNkhw3HjWAH5h" : {
-        "msg" : "煮",
-        "timestamp" : 1562131401,
-        "uid" : "ZcCpHQO1waZo2DeNHZGdyDt0Xjx2",
-        "username" : "Emily Lin"
-      }
-    },
-    "description" : "水",
-    "fakeFlag" : false,
-    "lat" : "25.175434",
-    "likeNum" : 0,
-    "lng" : "121.43295",
-    "location" : "紅毛城",
-    "photo" : "",
-    "popularTargetUid" : {
-      "all" : false
-    },
-    "targetUid" : "all",
-    "timestamp" : 1561429699,
-    "uid" : "0yUOyN6Gy0az0tRMYuEMq9REaI53",
-    "username" : "marvin"
-  },
-  "-LiBStAlYk63RfJa_c3L" : {
-    "category" : "宗教",
-    "description" : "Wii給給他",
-    "fakeFlag" : false,
-    "lat" : "25.17102",
+    "lat" : "25.168371",
     "like" : {
-      "13slWcWVt7caaqPsXL3qHW49Rro2" : true
-    },
-    "likeNum" : 0,
-    "lng" : "121.43854",
-    "location" : "淡水老街",
-    "photo" : "",
-    "popularTargetUid" : {
-      "all" : false
-    },
-    "targetUid" : "all",
-    "timestamp" : 1561429775,
-    "uid" : "0yUOyN6Gy0az0tRMYuEMq9REaI53",
-    "username" : "marvin"
-  },
-  "-LimI6AnAGc9T7st-kkt" : {
-    "category" : "交通",
-    "checkinComment" : {
-      "-LimIy75a37M-23aORxR" : {
-        "msg" : "yoyoyo",
-        "timestamp" : 1562064708,
-        "uid" : "oBVoACB6v3ceXa31WXIiSngVMsw1",
-        "username" : "nicole"
-      }
-    },
-    "description" : "來淡水樓",
-    "fakeFlag" : false,
-    "lat" : "25.167679",
-    "like" : {
-      "oBVoACB6v3ceXa31WXIiSngVMsw1" : true
-    },
-    "likeNum" : 0,
-    "lng" : "121.44565",
-    "location" : "淡水捷運站",
-    "photo" : "-LimI6AnAGc9T7st-kkt.jpg",
-    "popularTargetUid" : {
-      "all" : false
-    },
-    "targetUid" : "all",
-    "timestamp" : 1562064482,
-    "uid" : "VIhkuWyGi1MS9yPuVVbj5tRi0AG2",
-    "username" : "Stanley"
-  },
-  "-LimIsC90dAhj5zgxedn" : {
-    "category" : "交通",
-    "checkinComment" : {
-      "-LiqTIcvSUJ2jgKEhkDD" : {
-        "msg" : "yo",
-        "timestamp" : 1562134527,
-        "uid" : "ZcCpHQO1waZo2DeNHZGdyDt0Xjx2",
-        "username" : "Emily Lin"
-      }
-    },
-    "description" : "yo",
-    "fakeFlag" : false,
-    "lat" : "25.16746",
-    "like" : {
-      "VIhkuWyGi1MS9yPuVVbj5tRi0AG2" : true,
-      "oBVoACB6v3ceXa31WXIiSngVMsw1" : true
-    },
-    "likeNum" : 0,
-    "lng" : "121.44642",
-    "location" : "捷運站",
-    "photo" : "-LimIsC90dAhj5zgxedn.jpg",
-    "popularTargetUid" : {
-      "all" : false
-    },
-    "targetUid" : "all",
-    "timestamp" : 1562064683,
-    "uid" : "t7wEJIgbhUROkUO9yraKzaC2hem2",
-    "username" : "史丹"
-  },
-  "-LimJGpNmGH6CInKPT8X" : {
-    "category" : "交通",
-    "checkinComment" : {
-      "-LiqTSjHa3M8XwSd3yyi" : {
-        "msg" : "yoooooo",
-        "timestamp" : 1562134568,
-        "uid" : "ZcCpHQO1waZo2DeNHZGdyDt0Xjx2",
-        "username" : "Emily Lin"
-      }
-    },
-    "description" : "yoooooo",
-    "fakeFlag" : false,
-    "lat" : "25.167606",
-    "like" : {
-      "13slWcWVt7caaqPsXL3qHW49Rro2" : true,
       "VIhkuWyGi1MS9yPuVVbj5tRi0AG2" : true
     },
     "likeNum" : 0,
-    "lng" : "121.4463",
-    "location" : "",
-    "photo" : "-LimJGpNmGH6CInKPT8X.jpg",
+    "lng" : "121.44323",
+    "location" : "廟旁",
+    "photo" : "-LkI0IHTNkkYBPhWSytk.jpg",
     "popularTargetUid" : {
       "all" : false
     },
     "targetUid" : "all",
-    "timestamp" : 1562064789,
-    "uid" : "oBVoACB6v3ceXa31WXIiSngVMsw1",
-    "username" : "nicole"
+    "timestamp" : 1563687203,
+    "uid" : "oFs9h34Kj4ah5YQEYdwJ4PE5iXp2",
+    "username" : "Ann"
+  },
+  "-LkI0mEK6P20FSHWDh4X" : {
+    "category" : "美食",
+    "checkinComment" : {
+      "-LkI3mrI7DRUE3ozUVbR" : {
+        "msg" : "好吃",
+        "timestamp" : 1563688119,
+        "uid" : "VIhkuWyGi1MS9yPuVVbj5tRi0AG2",
+        "username" : "Stanley"
+      }
+    },
+    "collectNum" : 0,
+    "description" : "網美店！！",
+    "fakeFlag" : false,
+    "lat" : "25.17102",
+    "likeNum" : 0,
+    "lng" : "121.43854",
+    "location" : "淡水老街",
+    "photo" : "-LkI0mEK6P20FSHWDh4X.jpg",
+    "popularTargetUid" : {
+      "all" : false
+    },
+    "targetUid" : "all",
+    "timestamp" : 1563687330,
+    "uid" : "ZcCpHQO1waZo2DeNHZGdyDt0Xjx2",
+    "username" : "Emily Lin"
+  },
+  "-LkI0t81rb1ro28lAUFO" : {
+    "category" : "休閒",
+    "checkinComment" : {
+      "-LkI25Fwh-6Wouv8uyU8" : {
+        "msg" : "high起來",
+        "timestamp" : 1563687674,
+        "uid" : "ZcCpHQO1waZo2DeNHZGdyDt0Xjx2",
+        "username" : "Emily Lin"
+      }
+    },
+    "collectNum" : 0,
+    "collectnum" : 1,
+    "description" : "野台",
+    "fakeFlag" : false,
+    "lat" : "25.169043",
+    "like" : {
+      "nz8TD4R5e5UmBTKYoIpcADLhevF3" : true,
+      "oFs9h34Kj4ah5YQEYdwJ4PE5iXp2" : true
+    },
+    "likeNum" : 0,
+    "lng" : "121.441925",
+    "location" : "",
+    "photo" : "-LkI0t81rb1ro28lAUFO.jpg",
+    "popularTargetUid" : {
+      "all" : false
+    },
+    "targetUid" : "all",
+    "timestamp" : 1563687356,
+    "uid" : "URRbpmf81mawZ0FXIavt1r9gZim2",
+    "username" : "money"
+  },
+  "-LkI0u_b7_SutWRNZM22" : {
+    "category" : "休閒",
+    "collectNum" : 0,
+    "collectnum" : 1,
+    "description" : "14：30要演出~~",
+    "fakeFlag" : false,
+    "lat" : "25.169003",
+    "likeNum" : 0,
+    "lng" : "121.44202",
+    "location" : "淡水河邊",
+    "photo" : "-LkI0u_b7_SutWRNZM22.jpg",
+    "popularTargetUid" : {
+      "all" : false
+    },
+    "targetUid" : "all",
+    "timestamp" : 1563687364,
+    "uid" : "oFs9h34Kj4ah5YQEYdwJ4PE5iXp2",
+    "username" : "Ann"
+  },
+  "-LkI1QHdLVHxqBMPDv80" : {
+    "category" : "休閒",
+    "collectNum" : 0,
+    "collectnum" : 1,
+    "description" : "現編手環~",
+    "fakeFlag" : false,
+    "lat" : "25.16931",
+    "like" : {
+      "nz8TD4R5e5UmBTKYoIpcADLhevF3" : true
+    },
+    "likeNum" : 0,
+    "lng" : "121.44073",
+    "location" : "",
+    "photo" : "-LkI1QHdLVHxqBMPDv80.jpg",
+    "popularTargetUid" : {
+      "all" : false
+    },
+    "targetUid" : "all",
+    "timestamp" : 1563687498,
+    "uid" : "oFs9h34Kj4ah5YQEYdwJ4PE5iXp2",
+    "username" : "Ann"
+  },
+  "-LkI28xWmHiBdVACFi7_" : {
+    "category" : "宗教",
+    "checkinComment" : {
+      "-LkI3v7ddzPGK5aZNZbQ" : {
+        "msg" : "整修中嗎 XD 那個海報",
+        "timestamp" : 1563688152,
+        "uid" : "4TE26xtwsONQwPBFRCgLj3Sg2rB3",
+        "username" : "I-Ju"
+      }
+    },
+    "collectNum" : 0,
+    "description" : "三級古蹟福佑宮",
+    "fakeFlag" : false,
+    "lat" : "25.170078",
+    "like" : {
+      "VIhkuWyGi1MS9yPuVVbj5tRi0AG2" : true
+    },
+    "likeNum" : 0,
+    "lng" : "121.43989",
+    "location" : "",
+    "photo" : "-LkI28xWmHiBdVACFi7_.jpg",
+    "popularTargetUid" : {
+      "all" : false
+    },
+    "targetUid" : "all",
+    "timestamp" : 1563687689,
+    "uid" : "oFs9h34Kj4ah5YQEYdwJ4PE5iXp2",
+    "username" : "Ann"
+  },
+  "-LkI2CK3Xl5LoZXc3-dS" : {
+    "category" : "其他",
+    "collectNum" : 0,
+    "collectnum" : 1,
+    "description" : "上次來淡水是什麼時候啊...",
+    "fakeFlag" : false,
+    "lat" : "25.16957",
+    "likeNum" : 0,
+    "lng" : "121.44",
+    "location" : "",
+    "photo" : "-LkI2CK3Xl5LoZXc3-dS.jpg",
+    "popularTargetUid" : {
+      "all" : false
+    },
+    "targetUid" : "all",
+    "timestamp" : 1563687701,
+    "uid" : "URRbpmf81mawZ0FXIavt1r9gZim2",
+    "username" : "money"
+  },
+  "-LkI2HYYYuYltQvtW027" : {
+    "category" : "美食",
+    "checkinComment" : {
+      "-LkI41ijx5hBDMI-ooyP" : {
+        "msg" : "好吃嗎？",
+        "timestamp" : 1563688183,
+        "uid" : "4TE26xtwsONQwPBFRCgLj3Sg2rB3",
+        "username" : "I-Ju"
+      }
+    },
+    "collectNum" : 0,
+    "description" : "來淡水必買的魚酥!剁手製\n指中!",
+    "fakeFlag" : false,
+    "lat" : "25.16999",
+    "like" : {
+      "VIhkuWyGi1MS9yPuVVbj5tRi0AG2" : true,
+      "nz8TD4R5e5UmBTKYoIpcADLhevF3" : true
+    },
+    "likeNum" : 0,
+    "lng" : "121.44017",
+    "location" : "合益魚酥",
+    "photo" : "-LkI2HYYYuYltQvtW027.jpg",
+    "popularTargetUid" : {
+      "all" : false
+    },
+    "targetUid" : "all",
+    "timestamp" : 1563687724,
+    "uid" : "nz8TD4R5e5UmBTKYoIpcADLhevF3",
+    "username" : "Irene"
+  },
+  "-LkI3EK4pZhcD71XzcIK" : {
+    "category" : "美食",
+    "checkinComment" : {
+      "-LkI4C-9U0848FHXPtW-" : {
+        "msg" : "好讚唷~~看起來超解渴",
+        "timestamp" : 1563688226,
+        "uid" : "oFs9h34Kj4ah5YQEYdwJ4PE5iXp2",
+        "username" : "Ann"
+      }
+    },
+    "collectNum" : 0,
+    "collectnum" : 1,
+    "description" : "酸梅湯$25",
+    "fakeFlag" : false,
+    "lat" : "25.169838",
+    "like" : {
+      "oFs9h34Kj4ah5YQEYdwJ4PE5iXp2" : true
+    },
+    "likeNum" : 0,
+    "lng" : "121.43906",
+    "location" : "",
+    "photo" : "-LkI3EK4pZhcD71XzcIK.jpg",
+    "popularTargetUid" : {
+      "all" : false
+    },
+    "targetUid" : "all",
+    "timestamp" : 1563687971,
+    "uid" : "URRbpmf81mawZ0FXIavt1r9gZim2",
+    "username" : "money"
+  },
+  "-LkI3GMbfSypRd_cW7Iy" : {
+    "category" : "美食",
+    "collectNum" : 0,
+    "description" : "蜜餞果干好吃",
+    "fakeFlag" : false,
+    "lat" : "25.169582",
+    "likeNum" : 0,
+    "lng" : "121.44183",
+    "location" : "",
+    "photo" : "-LkI3GMbfSypRd_cW7Iy.jpg",
+    "popularTargetUid" : {
+      "all" : false
+    },
+    "targetUid" : "all",
+    "timestamp" : 1563687981,
+    "uid" : "VIhkuWyGi1MS9yPuVVbj5tRi0AG2",
+    "username" : "Stanley"
+  },
+  "-LkI3PRure6T81PuVh75" : {
+    "category" : "美食",
+    "collectNum" : 0,
+    "collectnum" : 1,
+    "description" : "",
+    "fakeFlag" : false,
+    "lat" : "25.17039",
+    "like" : {
+      "oFs9h34Kj4ah5YQEYdwJ4PE5iXp2" : true
+    },
+    "likeNum" : 0,
+    "lng" : "121.43914",
+    "location" : "阿媽的酸梅湯",
+    "photo" : "-LkI3PRure6T81PuVh75.jpg",
+    "popularTargetUid" : {
+      "all" : false
+    },
+    "targetUid" : "all",
+    "timestamp" : 1563688018,
+    "uid" : "4TE26xtwsONQwPBFRCgLj3Sg2rB3",
+    "username" : "I-Ju"
+  },
+  "-LkI3bO3n7o2SIMGUcZF" : {
+    "category" : "美食",
+    "collectNum" : 0,
+    "description" : "現烤蛋糕",
+    "fakeFlag" : false,
+    "lat" : "25.169605",
+    "likeNum" : 0,
+    "lng" : "121.44115",
+    "location" : "",
+    "photo" : "-LkI3bO3n7o2SIMGUcZF.jpg",
+    "popularTargetUid" : {
+      "all" : false
+    },
+    "targetUid" : "all",
+    "timestamp" : 1563688072,
+    "uid" : "VIhkuWyGi1MS9yPuVVbj5tRi0AG2",
+    "username" : "Stanley"
+  },
+  "-LkI4VnUkZBehuRegsQr" : {
+    "category" : "其他",
+    "collectNum" : 0,
+    "description" : "",
+    "fakeFlag" : false,
+    "lat" : "25.170828",
+    "like" : {
+      "oFs9h34Kj4ah5YQEYdwJ4PE5iXp2" : true
+    },
+    "likeNum" : 0,
+    "lng" : "121.43798",
+    "location" : "",
+    "photo" : "-LkI4VnUkZBehuRegsQr.jpg",
+    "popularTargetUid" : {
+      "all" : false
+    },
+    "targetUid" : "all",
+    "timestamp" : 1563688305,
+    "uid" : "URRbpmf81mawZ0FXIavt1r9gZim2",
+    "username" : "money"
+  },
+  "-LkI53aom22r6GRqbLUA" : {
+    "category" : "休閒",
+    "collectNum" : 0,
+    "description" : "科技吉他本人(想買",
+    "fakeFlag" : false,
+    "lat" : "25.17097",
+    "like" : {
+      "oFs9h34Kj4ah5YQEYdwJ4PE5iXp2" : true
+    },
+    "likeNum" : 0,
+    "lng" : "121.437775",
+    "location" : "",
+    "photo" : "-LkI53aom22r6GRqbLUA.jpg",
+    "popularTargetUid" : {
+      "all" : false
+    },
+    "targetUid" : "all",
+    "timestamp" : 1563688452,
+    "uid" : "URRbpmf81mawZ0FXIavt1r9gZim2",
+    "username" : "money"
+  },
+  "-LkI6bkT8VHUB5yE3INP" : {
+    "category" : "歷史",
+    "checkinComment" : {
+      "-LkI6rK0CgbT5QjJxIAq" : {
+        "msg" : "這裡好日式唷~",
+        "timestamp" : 1563688923,
+        "uid" : "oFs9h34Kj4ah5YQEYdwJ4PE5iXp2",
+        "username" : "Ann"
+      }
+    },
+    "collectNum" : 0,
+    "description" : "長田多榮吉故居",
+    "fakeFlag" : false,
+    "lat" : "25.17323",
+    "like" : {
+      "oFs9h34Kj4ah5YQEYdwJ4PE5iXp2" : true
+    },
+    "likeNum" : 0,
+    "lng" : "121.4374",
+    "location" : "多田榮吉故居",
+    "photo" : "-LkI6bkT8VHUB5yE3INP.jpg",
+    "popularTargetUid" : {
+      "all" : false
+    },
+    "targetUid" : "all",
+    "timestamp" : 1563688860,
+    "uid" : "ObT83xbHaLhzH8lVsHpM7uP9qGn1",
+    "username" : "chcchung"
+  },
+  "-LkI7OqjBpJkXGYNsarH" : {
+    "category" : "歷史",
+    "checkinComment" : {
+      "-LkI7fE_953ZRp5tx0qw" : {
+        "msg" : "我都唸IKEA",
+        "timestamp" : 1563689136,
+        "uid" : "oFs9h34Kj4ah5YQEYdwJ4PE5iXp2",
+        "username" : "Ann"
+      }
+    },
+    "collectNum" : 0,
+    "description" : "馬偕街 新店店",
+    "fakeFlag" : false,
+    "lat" : "25.172016",
+    "like" : {
+      "oFs9h34Kj4ah5YQEYdwJ4PE5iXp2" : true
+    },
+    "likeNum" : 0,
+    "lng" : "121.437744",
+    "location" : "",
+    "photo" : "-LkI7OqjBpJkXGYNsarH.jpg",
+    "popularTargetUid" : {
+      "all" : false
+    },
+    "targetUid" : "all",
+    "timestamp" : 1563689063,
+    "uid" : "URRbpmf81mawZ0FXIavt1r9gZim2",
+    "username" : "money"
+  },
+  "-LkI8-Q1U0i4c330zcrO" : {
+    "category" : "歷史",
+    "collectNum" : 0,
+    "description" : "裡面有一股古味",
+    "fakeFlag" : false,
+    "lat" : "25.16941",
+    "likeNum" : 0,
+    "lng" : "121.44048",
+    "location" : "三協成博物館",
+    "photo" : "-LkI8-Q1U0i4c330zcrO.jpg",
+    "popularTargetUid" : {
+      "all" : false
+    },
+    "targetUid" : "all",
+    "timestamp" : 1563689222,
+    "uid" : "4TE26xtwsONQwPBFRCgLj3Sg2rB3",
+    "username" : "I-Ju"
+  },
+  "-LkI8MxkmquIPFus36ca" : {
+    "category" : "歷史",
+    "collectNum" : 0,
+    "description" : "北北說140歷史免費參觀",
+    "fakeFlag" : false,
+    "lat" : "25.171793",
+    "likeNum" : 0,
+    "lng" : "121.43846",
+    "location" : "",
+    "photo" : "-LkI8MxkmquIPFus36ca.jpg",
+    "popularTargetUid" : {
+      "all" : false
+    },
+    "targetUid" : "all",
+    "timestamp" : 1563689317,
+    "uid" : "URRbpmf81mawZ0FXIavt1r9gZim2",
+    "username" : "money"
+  },
+  "-LkI8tIC-wBSzCBOiMI0" : {
+    "category" : "美食",
+    "collectNum" : 0,
+    "description" : "阿給+包子",
+    "fakeFlag" : false,
+    "lat" : "25.17381",
+    "likeNum" : 0,
+    "lng" : "121.43742",
+    "location" : "文化阿給",
+    "photo" : "-LkI8tIC-wBSzCBOiMI0.jpg",
+    "popularTargetUid" : {
+      "all" : false
+    },
+    "targetUid" : "all",
+    "timestamp" : 1563689456,
+    "uid" : "ObT83xbHaLhzH8lVsHpM7uP9qGn1",
+    "username" : "chcchung"
+  },
+  "-LkI9EunpTuuVOZRjTS7" : {
+    "category" : "歷史",
+    "collectNum" : 0,
+    "description" : "台灣第一台印刷機",
+    "fakeFlag" : false,
+    "lat" : "25.171816",
+    "likeNum" : 0,
+    "lng" : "121.438515",
+    "location" : "",
+    "photo" : "-LkI9EunpTuuVOZRjTS7.jpg",
+    "popularTargetUid" : {
+      "all" : false
+    },
+    "targetUid" : "all",
+    "timestamp" : 1563689546,
+    "uid" : "URRbpmf81mawZ0FXIavt1r9gZim2",
+    "username" : "money"
   }
 }
