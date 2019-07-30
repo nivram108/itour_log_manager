@@ -1,6 +1,6 @@
 from LogDatum import *
 from LogTag import *
-
+from LogToSort import *
 class User():
     def __init__(self, uid, name, checkin_location_dict, file_name):
         self.uid = uid
@@ -17,10 +17,12 @@ class User():
         self.report_anywhere = []
         self.report_checkin = []
         self.report_togo = []
+        self.add_checkin = []
         self.file_name = file_name
+        self.log_to_sort = []
     def read_log(self, tag, msg, timestamp):
         location = msg
-        if tag == LOG_TOGO_ADD:
+        if tag == LOG_TOGO_ADD :
             location = msg
             self.togo_list.append(LogDatum(location, location, True, timestamp))
         elif tag == LOG_TOGO_REMOVE:
@@ -75,10 +77,14 @@ class User():
         elif tag == LOG_REPORT_ANYWHERE:
             location = msg
             self.report_anywhere.append(LogDatum(location, location, True, timestamp))
-
         elif tag == LOG_REPORT_TOGO:
             location = msg
             self.report_togo.append(LogDatum(location, location, True, timestamp))
+        elif tag == LOG_CHECKIN_ADD:
+            checkin_id = msg
+            if checkin_id in self.checkin_location_dict:
+                location = self.checkin_location_dict[checkin_id]
+                self.add_checkin.append(LogDatum(checkin_id, location, True, timestamp))
 
     def write_data(self):
         self.load_init_togo()
@@ -98,7 +104,7 @@ class User():
             liked_result = self.get_result_by_checkin_id(log, self.liked_checkin)
             saved_result = self.get_result_by_checkin_id(log, self.collected_checkin)
             if uid != "INVALID":
-                self.write_reported(uid + "," + name + "," + location + "," + is_togo_result + "," + is_viewed_notification_hot_checkin + "," + is_viewed_news_hot_checkin + "," + is_viewed_notification_hot_spot + "," + is_viewed_news_hot_spot + ","  + is_viewed_from_checkin_result + "," + liked_result + "," + saved_result + "," + "report anywhere")
+                self.write_reported(uid + "," + name + "," + location + "," + is_togo_result + "," + is_viewed_notification_hot_checkin + "," + is_viewed_news_hot_checkin + "," + is_viewed_notification_hot_spot + "," + is_viewed_news_hot_spot + ","  + is_viewed_from_checkin_result + "," + liked_result + "," + saved_result + "," + "report anywhere" + "," + str(log.timestamp))
 
         for log in self.report_checkin:
             uid = self.get_id()
@@ -113,7 +119,23 @@ class User():
             liked_result = self.get_result_by_checkin_id(log, self.liked_checkin)
             saved_result = self.get_result_by_checkin_id(log, self.collected_checkin)
             if uid != "INVALID":
-                self.write_reported(uid + "," + name + "," + location + "," + is_togo_result + "," + is_viewed_notification_hot_checkin + "," + is_viewed_news_hot_checkin + "," + is_viewed_notification_hot_spot + "," + is_viewed_news_hot_spot + ","  + is_viewed_from_checkin_result + "," + liked_result + "," + saved_result + "," + "report saved")
+                self.write_reported(uid + "," + name + "," + location + "," + is_togo_result + "," + is_viewed_notification_hot_checkin + "," + is_viewed_news_hot_checkin + "," + is_viewed_notification_hot_spot + "," + is_viewed_news_hot_spot + ","  + is_viewed_from_checkin_result + "," + liked_result + "," + saved_result + "," + "report saved" + "," + str(log.timestamp))
+
+        for log in self.add_checkin:
+            uid = self.get_id()
+            name = self.name
+            location = log.location
+            is_togo_result = self.get_result_by_location(log, self.togo_list)
+            is_viewed_notification_hot_checkin = self.get_result_by_checkin_id(log, self.viewed_notification_hot_checkin)
+            is_viewed_news_hot_checkin = self.get_result_by_checkin_id(log, self.viewed_news_hot_checkin)
+            is_viewed_notification_hot_spot = self.get_result_by_location(log, self.viewed_notification_hot_spot)
+            is_viewed_news_hot_spot = self.get_result_by_location(log, self.viewed_news_hot_spot)
+            is_viewed_from_checkin_result = self.get_result_by_checkin_id(log, self.viewed_checkin)
+            liked_result = self.get_result_by_checkin_id(log, self.liked_checkin)
+            saved_result = self.get_result_by_checkin_id(log, self.collected_checkin)
+            if uid != "INVALID":
+                self.write_reported(uid + "," + name + "," + location + "," + is_togo_result + "," + is_viewed_notification_hot_checkin + "," + is_viewed_news_hot_checkin + "," + is_viewed_notification_hot_spot + "," + is_viewed_news_hot_spot + ","  + is_viewed_from_checkin_result + "," + liked_result + "," + saved_result + "," + "add check" + "," + str(log.timestamp))
+
         for log in self.report_togo:
             uid = self.get_id()
             name = self.name
@@ -127,7 +149,7 @@ class User():
             liked_result = self.get_result_by_checkin_id(log, self.liked_checkin)
             saved_result = self.get_result_by_checkin_id(log, self.collected_checkin)
             if uid != "INVALID":
-                self.write_reported(uid + "," + name + "," + location + "," + is_togo_result + "," + is_viewed_notification_hot_checkin + "," + is_viewed_news_hot_checkin + "," + is_viewed_notification_hot_spot + "," + is_viewed_news_hot_spot + ","  + is_viewed_from_checkin_result + "," + liked_result + "," + saved_result + "," + "report togo")
+                self.write_reported(uid + "," + name + "," + location + "," + is_togo_result + "," + is_viewed_notification_hot_checkin + "," + is_viewed_news_hot_checkin + "," + is_viewed_notification_hot_spot + "," + is_viewed_news_hot_spot + ","  + is_viewed_from_checkin_result + "," + liked_result + "," + saved_result + "," + "report togo" + "," + str(log.timestamp))
 
         togo_map = {}
         for log in self.togo_list:

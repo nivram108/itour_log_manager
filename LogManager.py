@@ -3,14 +3,16 @@ from time import gmtime, strftime
 import json
 import collections
 
-version = "community"
-output_file_name = "output_" + strftime("%m%d_%H_%M_%S", gmtime()) + ".csv"
+# version = "community"
+version = "google"
+output_file_name = version + ".csv"
+# output_file_name = "output_" + strftime("%m%d_%H_%M_%S", gmtime()) + ".csv"
 checkin_location_dict = {}
 reported_file = open("reported_" + output_file_name, "a")
 unvisited_file = open("unvisited_" + output_file_name, "a")
 
 def main():
-    reported_file.write("uid,name,location,togo,notification hot checkin,news hot checkin,notification hot spot,news hot spot,viewed checkin,liked,saved,type\n")
+    reported_file.write("uid,name,location,togo,notification hot checkin,news hot checkin,notification hot spot,news hot spot,viewed checkin,liked,saved,type,timestamp\n")
     reported_file.close()
     unvisited_file.write("uid,name,location,togo,notification hot checkin,news hot checkin,notification hot spot,news hot spot,viewed checkin,liked,saved\n")
     unvisited_file.close()
@@ -25,8 +27,10 @@ def set_checkin_location_dict():
 def read_log():
     global checkin_location_dict
     global output_file_name
+    global version
     user = User("", "", checkin_location_dict, "")
-    with open('log_data.json', 'r') as f:
+    # with open('log_cummunity.json', 'r') as f:
+    with open("log_" + version + ".json", 'r') as f:
         user_log = json.load(f)
     for user_key, user_value in user_log.items():
         for log_key, log_value in user_value["collections"].items():
