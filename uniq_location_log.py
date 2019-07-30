@@ -22,7 +22,7 @@ while line:
     location = line.split(",")[4]
     if location == "":
         report_including_ALL.write(line + "\n")
-    elif !location in user_visited_location:
+    elif (location in user_visited_location) == False:
         user_visited_location[location] = True
         report_including_ALL.write(line + "\n")
         if location in spot_map:
