@@ -1,0 +1,600 @@
+uid,name,location,togo,notification hot checkin,news hot checkin,notification hot spot,news hot spot,viewed checkin,liked,saved,type
+U61,Ruby Chang,滬尾偕醫館,False,False,False,False,False,False,False,False,report anywhere
+U61,Ruby Chang,福佑宮,False,False,False,False,False,False,False,False,report anywhere
+U61,Ruby Chang,三協成博物館,False,False,False,False,False,False,False,False,report anywhere
+U61,Ruby Chang,淡水捷運站,False,False,False,False,False,False,False,False,report anywhere
+U61,Ruby Chang,淡水文化園區-殼牌倉庫,False,False,False,False,False,True,False,False,report anywhere
+U61,Ruby Chang,金色水岸,False,False,False,False,False,False,False,False,report anywhere
+U61,Ruby Chang,阿媽的酸梅湯,True,False,False,False,False,False,False,False,report togo
+U61,Ruby Chang,淡水老街,True,False,False,False,False,False,False,False,report togo
+U61,Ruby Chang,藝術穿堂,True,False,False,False,False,False,False,False,report togo
+U61,Ruby Chang,藝術穿堂,True,False,False,False,False,False,False,False,report togo
+U61,Ruby Chang,3D意象彩繪階梯,True,False,False,False,False,False,False,False,report togo
+U31,athena,福佑宮,False,False,False,False,False,True,False,False,report anywhere
+U31,athena,紅毛城,False,False,False,False,False,False,False,False,report anywhere
+U31,athena,滬尾之役體驗館,False,False,False,False,False,False,False,False,report anywhere
+U31,athena,馬偕上岸處,False,False,False,False,False,True,False,False,report anywhere
+U31,athena,三協成博物館,False,False,False,False,False,False,False,False,report anywhere
+U31,athena,淡水禮拜堂,False,False,False,False,False,False,False,False,report anywhere
+U31,athena,新建成,False,False,False,False,False,False,False,False,report anywhere
+U31,athena,桂橡花園,False,False,False,False,False,False,False,False,report anywhere
+U31,athena,百葉溫州大餛飩,False,False,False,False,False,True,False,False,report anywhere
+U31,athena,保安藥房,False,False,False,False,False,False,False,False,report anywhere
+U31,athena,淡水禮拜堂,False,False,False,False,False,False,False,False,report anywhere
+U31,athena,老街阿給,False,False,False,False,False,False,False,False,report anywhere
+U31,athena,淡水榕樹道,False,False,False,False,False,True,False,False,report anywhere
+U31,athena,,False,False,False,False,False,True,False,False,report anywhere
+U31,athena,馬偕銅像,False,False,False,False,False,True,False,False,report anywhere
+U31,athena,滬尾偕醫館,False,False,False,False,False,False,False,False,report anywhere
+U31,athena,重建街戀愛巷,True,False,False,False,False,False,False,False,report togo
+U31,athena,真理大學,True,False,False,False,False,False,False,False,report togo
+U31,athena,海關碼頭,True,False,False,False,False,False,False,False,report togo
+U31,athena,阿婆鐵蛋,True,False,False,False,False,False,False,False,report togo
+U31,athena,淡水老街,True,False,False,False,False,True,False,False,report togo
+U31,athena,信不信由你搜奇博物館,True,False,False,False,False,False,False,False,report togo
+U31,athena,藝術工坊,True,False,False,False,False,False,False,False,report togo
+U31,athena,阿媽的酸梅湯,True,False,False,False,False,True,False,False,report togo
+U31,athena,得忌利士洋行,True,False,False,False,False,True,False,False,report togo
+U31,athena,許義魚酥,True,False,False,False,False,False,False,False,report togo
+U31,athena,淡水渡船頭,True,False,False,False,False,False,False,False,report togo
+U31,athena,信不信由你搜奇博物館,True,False,False,False,False,False,False,False,report togo
+U31,athena,淡水文化園區-殼牌倉庫,True,False,False,False,False,True,False,False,report togo
+U31,athena,理學堂大書院,True,False,False,False,False,False,False,False,report togo
+U31,athena,源味本舖現烤蛋糕,True,False,False,False,False,False,False,False,report togo
+U31,athena,金色水岸,True,False,False,False,False,False,False,False,report togo
+U31,athena,淡水捷運站,True,False,False,False,False,True,False,False,report togo
+U31,athena,金色水岸,True,False,False,False,False,False,False,False,report togo
+U31,athena,漁業生活文化影像館,True,False,False,False,False,False,False,False,report togo
+U31,athena,老牌阿給,True,False,False,False,False,False,False,False,report togo
+U41,Wen Yun,淡水禮拜堂,False,False,False,False,False,False,False,False,report anywhere
+U41,Wen Yun,真理大學禮拜堂,False,False,False,False,False,False,False,False,report anywhere
+U41,Wen Yun,滬尾偕醫館,False,False,False,False,False,False,False,False,report anywhere
+U41,Wen Yun,淡水文化園區-殼牌倉庫,False,False,False,False,False,True,False,False,report anywhere
+U41,Wen Yun,三協成博物館,True,False,False,False,False,False,False,False,report togo
+U41,Wen Yun,清水巖,True,False,False,False,False,False,False,False,report togo
+U41,Wen Yun,源味本舖現烤蛋糕,True,False,False,False,False,False,False,False,report togo
+U41,Wen Yun,清水巖,True,False,False,False,False,False,False,False,report togo
+U41,Wen Yun,紅毛城,True,False,False,False,False,False,False,False,report togo
+U41,Wen Yun,英國領事館,True,False,False,False,False,False,False,False,report togo
+U41,Wen Yun,紅毛城,True,False,False,False,False,False,False,False,report togo
+U41,Wen Yun,牧師樓,True,False,False,False,False,True,False,False,report togo
+U41,Wen Yun,龍山寺,True,False,False,False,False,False,False,False,report togo
+U41,Wen Yun,小白宮,True,False,False,False,False,False,False,False,report togo
+U16,Yuki,龍山寺,True,False,False,False,False,False,False,False,report togo
+U16,Yuki,馬偕銅像,True,False,False,False,False,False,False,False,report togo
+U16,Yuki,淡水捷運站,True,False,False,False,False,True,False,False,report togo
+U16,Yuki,百葉溫州大餛飩,True,False,False,False,False,False,False,False,report togo
+U16,Yuki,三協成博物館,True,False,False,False,False,False,False,False,report togo
+U16,Yuki,淡水渡船頭,True,False,False,False,False,False,False,False,report togo
+U16,Yuki,淡水老街,True,False,False,False,False,False,False,False,report togo
+U09,Blue Jays,淡水渡船頭,False,False,False,False,False,False,False,False,report anywhere
+U09,Blue Jays,淡水禮拜堂,False,False,False,False,False,False,False,False,report anywhere
+U09,Blue Jays,馬階上岸處,False,False,False,False,False,False,False,False,report anywhere
+U09,Blue Jays,淡水紅樓,False,False,False,False,False,False,False,False,report anywhere
+U09,Blue Jays,之間茶食器,True,False,False,False,False,False,False,False,report togo
+U09,Blue Jays,木下靜涯紀念公園,True,False,False,False,False,False,False,False,report togo
+U09,Blue Jays,清水巖,True,False,False,False,False,False,False,False,report togo
+U09,Blue Jays,紅毛城,True,False,False,False,False,False,False,False,report togo
+U09,Blue Jays,英國領事館,True,False,False,False,False,False,False,False,report togo
+U09,Blue Jays,金色水岸,True,False,False,False,False,False,False,False,report togo
+U09,Blue Jays,三協成博物館,True,False,False,False,False,False,False,False,report togo
+U09,Blue Jays,多田榮吉故居,True,False,False,False,False,False,False,False,report togo
+U09,Blue Jays,小白宮,True,False,False,False,False,False,False,False,report togo
+U71,wu_ming,淡水捷運站,False,False,False,False,False,True,False,False,report anywhere
+U71,wu_ming,真理大學禮拜堂,False,False,False,False,False,False,False,False,report anywhere
+U71,wu_ming,福佑宮,False,False,False,False,False,False,False,False,report anywhere
+U71,wu_ming,淡水文化園區-殼牌倉庫,False,False,False,False,False,True,False,False,report anywhere
+U71,wu_ming,淡水捷運站,False,False,False,False,False,True,False,False,report anywhere
+U71,wu_ming,淡水碼頭,False,False,False,False,False,False,False,False,report anywhere
+U71,wu_ming,淡江高中,False,False,False,False,False,False,False,False,report anywhere
+U71,wu_ming,金色水岸,True,False,False,False,False,False,False,False,report togo
+U71,wu_ming,紅毛城,True,False,False,False,False,False,False,False,report togo
+U71,wu_ming,紅毛城,True,False,False,False,False,False,False,False,report togo
+U71,wu_ming,姑娘樓,True,False,False,False,False,False,False,False,report togo
+U71,wu_ming,源味本舖現烤蛋糕,True,False,False,False,False,False,False,False,report togo
+U71,wu_ming,真理大學,True,False,False,False,False,False,False,False,report togo
+U71,wu_ming,阿媽的酸梅湯,True,False,False,False,False,False,False,False,report togo
+U71,wu_ming,淡水渡船頭,True,False,False,False,False,False,False,False,report togo
+U71,wu_ming,淡水老街,True,False,False,False,False,False,False,False,report togo
+U71,wu_ming,小白宮,True,False,False,False,False,False,False,False,report togo
+U71,wu_ming,文化阿給,True,False,False,False,False,False,False,False,report togo
+U71,wu_ming,阿婆鐵蛋,True,False,False,False,False,False,False,False,report togo
+U71,wu_ming,金色水岸自行車道,True,False,False,False,False,False,False,False,report togo
+U47,koko,淡水文化園區-殼牌倉庫,False,False,False,False,True,False,False,False,report anywhere
+U25,螯,中正市場,False,False,False,False,False,False,False,False,report anywhere
+U25,螯,防災宣導主題館,False,False,False,False,False,False,False,False,report anywhere
+U25,螯,福佑宮,False,False,False,False,False,False,False,False,report anywhere
+U25,螯,紅毛城,False,False,False,False,False,False,False,False,report anywhere
+U25,螯,淡水文化園區-殼牌倉庫,False,False,False,False,False,True,False,False,report anywhere
+U25,螯,殼牌文創會館,False,False,False,False,False,False,False,False,report anywhere
+U25,螯,淡水老街,True,False,False,False,False,True,False,False,report togo
+U25,螯,淡水捷運站,True,False,False,False,False,True,True,False,report togo
+U25,螯,真理大學,True,False,False,False,False,True,False,False,report togo
+U25,螯,淡水禮拜堂,True,False,False,False,False,True,False,False,report togo
+U72,五色鳥,得忌利士洋行,False,False,False,False,False,False,False,False,report anywhere
+U72,五色鳥,紅毛城,False,False,False,False,False,False,False,False,report anywhere
+U72,五色鳥,淡水禮拜堂,False,False,False,False,False,False,False,False,report anywhere
+U72,五色鳥,淡水捷運站,False,False,False,False,False,True,False,False,report anywhere
+U72,五色鳥,淡水文化園區-殼牌倉庫,False,False,False,False,False,True,False,False,report anywhere
+U72,五色鳥,3D意象彩繪階梯,True,False,False,False,False,False,False,False,report togo
+U72,五色鳥,清水巖,True,False,False,False,False,False,False,False,report togo
+U72,五色鳥,龍山寺,True,False,False,False,False,False,False,False,report togo
+U72,五色鳥,福佑宮,True,False,False,False,False,False,False,False,report togo
+U72,五色鳥,源味本舖現烤蛋糕,True,False,False,False,False,False,False,False,report togo
+U72,五色鳥,海關碼頭,True,False,False,False,False,False,False,False,report togo
+U72,五色鳥,海關碼頭,True,False,False,False,False,False,False,False,report togo
+U33,Eloïse,滬尾偕醫館,False,False,False,False,False,False,False,False,report anywhere
+U33,Eloïse,多田榮吉故居,False,False,False,False,False,True,True,False,report anywhere
+U33,Eloïse,淡水渡船頭,False,False,False,False,False,False,False,False,report anywhere
+U33,Eloïse,淡水老街,False,False,False,False,False,False,False,False,report anywhere
+U33,Eloïse,真理大學禮拜堂,False,False,False,False,False,False,False,False,report anywhere
+U33,Eloïse,淡水禮拜堂,False,False,False,False,False,False,False,False,report anywhere
+U33,Eloïse,馬偕上岸處,False,False,False,False,False,False,False,False,report anywhere
+U33,Eloïse,藝術工坊,True,False,False,False,False,False,False,False,report togo
+U33,Eloïse,小白宮,True,False,False,False,False,False,False,False,report togo
+U33,Eloïse,金色水岸,True,False,False,False,False,False,False,False,report togo
+U33,Eloïse,藝術穿堂,True,False,False,False,False,False,False,False,report togo
+U33,Eloïse,藝術穿堂,True,False,False,False,False,False,False,False,report togo
+U33,Eloïse,紅毛城,True,False,False,False,False,False,False,False,report togo
+U33,Eloïse,阿媽的酸梅湯,True,False,False,False,False,False,False,False,report togo
+U33,Eloïse,阿媽的酸梅湯,True,False,False,False,False,False,False,False,report togo
+U36,yor,阿婆鐵蛋,True,False,False,False,False,False,False,False,report togo
+U36,yor,清水巖,True,False,False,False,False,False,False,False,report togo
+U36,yor,海關碼頭,True,False,False,False,False,False,False,False,report togo
+U36,yor,合益魚酥,True,False,False,False,False,False,False,False,report togo
+U36,yor,福佑宮,True,False,False,False,False,False,False,False,report togo
+U36,yor,許義魚酥,True,False,False,False,False,False,False,False,report togo
+U36,yor,淡水捷運站,True,False,False,False,False,False,False,False,report togo
+U36,yor,阿媽的酸梅湯,True,False,False,False,False,True,False,False,report togo
+U36,yor,淡水老街,True,False,False,False,False,False,False,False,report togo
+U36,yor,白樓故事牆,True,False,False,False,False,False,False,False,report togo
+U36,yor,淡水文化園區-殼牌倉庫,True,False,False,False,False,True,False,False,report togo
+U36,yor,馬偕銅像,True,False,False,False,False,False,False,False,report togo
+U36,yor,小白宮,True,False,False,False,False,False,False,False,report togo
+U36,yor,金色水岸,True,False,False,False,False,False,False,False,report togo
+U36,yor,紅毛城,True,False,False,False,False,False,False,False,report togo
+U36,yor,淡水渡船頭,True,False,False,False,False,False,False,False,report togo
+U59,李靜佳,滬尾偕醫館,False,False,False,False,False,False,False,False,report anywhere
+U59,李靜佳,魚丸店,False,False,False,False,False,False,False,False,report anywhere
+U59,李靜佳,馬偕銅像,False,False,False,False,False,False,False,False,report anywhere
+U59,李靜佳,新建成餅店,False,False,False,False,False,False,False,False,report anywhere
+U59,李靜佳,合益魚酥,True,False,False,False,False,False,False,False,report togo
+U59,李靜佳,淡水老街,True,False,False,False,False,False,False,False,report togo
+U59,李靜佳,阿媽的酸梅湯,True,False,False,False,False,False,False,False,report togo
+U59,李靜佳,合益魚酥,True,False,False,False,False,False,False,False,report togo
+U59,李靜佳,阿婆鐵蛋,True,False,False,False,False,False,False,False,report togo
+U59,李靜佳,阿婆鐵蛋,True,False,False,False,False,False,False,False,report togo
+U13,廷,木下靜涯紀念公園,True,False,False,False,False,False,False,False,report togo
+U13,廷,馬偕租屋處,True,False,False,False,False,False,False,False,report togo
+U13,廷,重建街戀愛巷,True,False,False,False,False,False,False,False,report togo
+U13,廷,馬偕上岸處,True,False,False,False,False,False,False,False,report togo
+U13,廷,三協成博物館,True,False,False,False,False,False,False,False,report togo
+U13,廷,淡水老街,True,False,False,False,False,False,False,False,report togo
+U13,廷,馬偕租屋處,True,False,False,False,False,False,False,False,report togo
+U13,廷,許義魚酥,True,False,False,False,False,False,False,False,report togo
+U13,廷,三協成博物館,True,False,False,False,False,False,False,False,report togo
+U13,廷,白樓故事牆,True,False,False,False,False,False,False,False,report togo
+U13,廷,蒸汽火車BK20,True,False,False,False,False,False,False,False,report togo
+U13,廷,白樓故事牆,True,False,False,False,False,False,False,False,report togo
+U13,廷,多田榮吉故居,True,False,False,False,False,False,False,False,report togo
+U13,廷,馬偕銅像,True,False,False,False,False,False,False,False,report togo
+U13,廷,3D意象彩繪階梯,True,False,False,False,False,False,False,False,report togo
+U05,阿桓,三協成博物館,False,False,False,False,False,False,False,False,report anywhere
+U05,阿桓,阿婆鐵蛋,False,False,False,False,False,False,False,False,report anywhere
+U05,阿桓,英國領事館,True,False,False,False,False,False,False,False,report togo
+U05,阿桓,藝術工坊,True,False,False,False,False,False,False,False,report togo
+U05,阿桓,信不信由你搜奇博物館,True,False,False,False,False,False,False,False,report togo
+U05,阿桓,重建街戀愛巷,True,False,False,False,False,False,False,False,report togo
+U05,阿桓,藝術工坊,True,False,False,False,False,False,False,False,report togo
+U69,Bella,福佑宮,False,False,False,False,False,False,False,False,report anywhere
+U69,Bella,藝術工坊,False,False,False,False,False,False,False,False,report anywhere
+U69,Bella,福佑宮,False,False,False,False,False,False,False,False,report anywhere
+U69,Bella,滬尾偕醫館,False,False,False,False,False,False,False,False,report anywhere
+U69,Bella,信不信由你搜奇博物館,False,False,False,False,False,False,False,False,report anywhere
+U69,Bella,阿婆鐵蛋,False,False,False,False,False,False,False,False,report anywhere
+U69,Bella,金色水岸,False,False,False,False,False,True,False,False,report anywhere
+U69,Bella,淡水捷運站,True,False,False,False,False,True,False,False,report togo
+U69,Bella,淡水禮拜堂,False,False,False,False,False,False,False,False,report togo
+U69,Bella,阿媽的酸梅湯,False,False,False,False,False,False,False,False,report togo
+U69,Bella,淡水老街,True,False,False,False,False,False,False,False,report togo
+U69,Bella,淡水渡船頭,False,False,False,False,False,False,False,False,report togo
+U69,Bella,淡水捷運站,True,False,False,False,False,True,False,False,report togo
+U69,Bella,3D意象彩繪階梯,True,False,False,False,False,False,False,False,report togo
+U69,Bella,馬偕租屋處,True,False,False,False,False,False,False,False,report togo
+U69,Bella,三協成博物館,False,False,False,False,False,False,False,False,report togo
+U69,Bella,馬偕銅像,True,False,False,False,False,False,False,False,report togo
+U69,Bella,紅毛城,True,False,False,False,False,False,False,False,report togo
+U44,iceman,淡水捷運站,True,False,False,False,False,True,False,False,report togo
+U44,iceman,重建街戀愛巷,True,False,False,False,False,False,False,False,report togo
+U44,iceman,藝術穿堂,True,False,False,False,False,False,False,False,report togo
+U44,iceman,紅樓中餐廳,True,False,False,False,False,False,False,False,report togo
+U44,iceman,桂橡花園,True,False,False,False,False,False,False,False,report togo
+U44,iceman,藝術工坊,True,False,False,False,False,False,False,False,report togo
+U44,iceman,淡水文化園區-殼牌倉庫,True,False,False,False,False,True,False,False,report togo
+U44,iceman,淡水老街,True,False,False,False,False,False,False,False,report togo
+U44,iceman,金色水岸,True,False,False,False,False,False,False,False,report togo
+U44,iceman,馬偕銅像,True,False,False,False,False,False,False,False,report togo
+U44,iceman,白樓故事牆,True,False,False,False,False,False,False,False,report togo
+U44,iceman,3D意象彩繪階梯,True,False,False,False,False,False,False,False,report togo
+U44,iceman,蒸汽火車BK20,True,False,False,False,False,False,False,False,report togo
+U44,iceman,淡水渡船頭,True,False,False,False,False,False,False,False,report togo
+U44,iceman,得忌利士洋行,True,False,False,False,False,False,False,False,report togo
+U44,iceman,金色水岸自行車道,True,False,False,False,False,False,False,False,report togo
+U44,iceman,木下靜涯紀念公園,True,False,False,False,False,False,False,False,report togo
+U44,iceman,馬偕租屋處,True,False,False,False,False,False,False,False,report togo
+U44,iceman,多田榮吉故居,True,False,False,False,False,False,False,False,report togo
+U68,Shawn,三協成博物館,False,False,False,False,False,True,False,False,report anywhere
+U68,Shawn,信不信由你搜奇博物館,False,False,False,False,False,False,False,False,report anywhere
+U68,Shawn,滬尾偕醫館,False,False,False,False,False,False,False,False,report anywhere
+U68,Shawn,馬偕銅像,True,False,False,False,False,False,False,False,report togo
+U68,Shawn,阿媽的酸梅湯,True,False,False,False,False,False,False,False,report togo
+U68,Shawn,福佑宮,True,False,False,False,False,False,False,False,report togo
+U68,Shawn,紅毛城,False,False,False,False,False,False,False,False,report togo
+U68,Shawn,淡水捷運站,True,False,False,False,False,True,False,False,report togo
+U68,Shawn,紅毛城,False,False,False,False,False,False,False,False,report togo
+U68,Shawn,淡水禮拜堂,True,False,False,False,False,False,False,False,report togo
+U68,Shawn,淡水老街,True,False,False,False,False,False,False,False,report togo
+U68,Shawn,淡水渡船頭,True,False,False,False,False,False,False,False,report togo
+U68,Shawn,馬偕上岸處,True,False,False,False,False,False,False,False,report togo
+U68,Shawn,淡水老街,True,False,False,False,False,False,False,False,report togo
+U68,Shawn,馬偕租屋處,True,False,False,False,False,True,False,False,report togo
+U68,Shawn,淡水捷運站,True,False,False,False,False,True,False,False,report togo
+U68,Shawn,淡水渡船頭,True,False,False,False,False,False,False,False,report togo
+U68,Shawn,3D意象彩繪階梯,True,False,False,False,False,True,False,False,report togo
+U81,阿群,合益魚酥,True,False,False,False,False,False,False,False,report togo
+U81,阿群,淡水禮拜堂,True,False,False,False,False,True,True,False,report togo
+U81,阿群,許義魚酥,True,False,False,False,False,False,False,False,report togo
+U81,阿群,百葉溫州大餛飩,True,False,False,False,False,False,False,False,report togo
+U81,阿群,三協成博物館,True,False,False,False,False,False,False,False,report togo
+U81,阿群,淡水渡船頭,True,False,False,False,False,False,False,False,report togo
+U81,阿群,馬偕上岸處,True,False,False,False,False,False,False,False,report togo
+U81,阿群,淡水老街,True,False,False,False,False,True,True,True,report togo
+U81,阿群,淡水捷運站,True,False,False,False,False,True,True,True,report togo
+U81,阿群,滬尾偕醫館,True,False,False,False,False,False,False,False,report togo
+U81,阿群,淡水文化園區-殼牌倉庫,True,False,False,False,False,False,False,False,report togo
+U81,阿群,蒸汽火車BK20,True,False,False,False,False,True,True,False,report togo
+U81,阿群,馬偕銅像,True,False,False,False,False,True,True,True,report togo
+U81,阿群,金色水岸自行車道,True,False,False,False,False,False,False,False,report togo
+U81,阿群,金色水岸,True,False,False,False,False,False,False,False,report togo
+U81,阿群,阿媽的酸梅湯,True,False,False,False,False,False,False,False,report togo
+U81,阿群,蒸汽火車BK20,True,False,False,False,False,True,True,False,report togo
+U81,阿群,淡水渡船頭,True,False,False,False,False,False,False,False,report togo
+U81,阿群,海風餐廳,True,False,False,False,False,False,False,False,report togo
+U81,阿群,可口魚丸,True,False,False,False,False,False,False,False,report togo
+U81,阿群,馬偕上岸處,True,False,False,False,False,False,False,False,report togo
+U81,阿群,阿婆鐵蛋,True,False,False,False,False,False,False,False,report togo
+U81,阿群,福佑宮,True,False,False,False,False,False,False,False,report togo
+U81,阿群,三協成博物館,True,False,False,False,False,False,False,False,report togo
+U43,趙熙寧,老牌阿給,True,False,False,False,False,False,False,False,report togo
+U43,趙熙寧,木下靜涯紀念公園,True,False,False,False,False,False,False,False,report togo
+U43,趙熙寧,清水巖,True,False,False,False,False,False,False,False,report togo
+U43,趙熙寧,淡水老街,True,False,False,False,False,False,False,False,report togo
+U43,趙熙寧,小白宮,True,False,False,False,False,False,False,False,report togo
+U43,趙熙寧,英國領事館,True,False,False,False,False,False,False,False,report togo
+U43,趙熙寧,之間茶食器,True,False,False,False,False,False,False,False,report togo
+U43,趙熙寧,淡水禮拜堂,True,False,False,False,False,False,False,False,report togo
+U43,趙熙寧,海關碼頭,True,False,False,False,False,False,False,False,report togo
+U43,趙熙寧,理學堂大書院,True,False,False,False,False,False,False,False,report togo
+U43,趙熙寧,文化阿給,True,False,False,False,False,False,False,False,report togo
+U43,趙熙寧,阿婆鐵蛋,True,False,False,False,False,False,False,False,report togo
+U43,趙熙寧,清水巖,True,False,False,False,False,False,False,False,report togo
+U43,趙熙寧,真理大學禮拜堂,True,False,False,False,False,False,False,False,report togo
+U43,趙熙寧,教士會館,True,False,False,False,False,False,False,False,report togo
+U43,趙熙寧,真理大學,True,False,False,False,False,False,False,False,report togo
+U43,趙熙寧,藝術工坊,True,False,False,False,False,False,False,False,report togo
+U43,趙熙寧,馬偕故居(馬偕紀念館),True,False,False,False,False,False,False,False,report togo
+U43,趙熙寧,紅毛城,True,False,False,False,False,False,False,False,report togo
+U43,趙熙寧,阿媽的酸梅湯,True,False,False,False,False,False,False,False,report togo
+U43,趙熙寧,藝術穿堂,True,False,False,False,False,False,False,False,report togo
+U43,趙熙寧,福佑宮,True,False,False,False,False,False,False,False,report togo
+U43,趙熙寧,多田榮吉故居,True,False,False,False,False,False,False,False,report togo
+U43,趙熙寧,馬偕租屋處,True,False,False,False,False,False,False,False,report togo
+U43,趙熙寧,紅樓中餐廳,True,False,False,False,False,False,False,False,report togo
+U43,趙熙寧,得忌利士洋行,True,False,False,False,False,False,False,False,report togo
+U43,趙熙寧,姑娘樓,True,False,False,False,False,False,False,False,report togo
+U43,趙熙寧,牧師樓,True,False,False,False,False,False,False,False,report togo
+U62,Mike Lin,滬尾之役體驗館,False,False,False,False,False,False,False,False,report anywhere
+U12,陳小毛,馬偕銅像,False,False,False,False,False,False,False,False,report anywhere
+U12,陳小毛,三協成餅鋪,False,False,False,False,False,False,False,False,report anywhere
+U12,陳小毛,淡水教會,False,False,False,False,False,False,False,False,report anywhere
+U12,陳小毛,彌賽亞特賣會,False,False,False,False,False,False,False,False,report anywhere
+U12,陳小毛,新建成餅舖,False,False,False,False,False,False,False,False,report anywhere
+U12,陳小毛,陳澄波戶外美術館,False,False,False,False,False,False,False,False,report anywhere
+U12,陳小毛,淡水渡船頭,False,False,False,False,False,False,False,False,report anywhere
+U12,陳小毛,LoMa飾品店,False,False,False,False,False,False,False,False,report anywhere
+U12,陳小毛,老虎堂,False,False,False,False,False,False,False,False,report anywhere
+U12,陳小毛,原味現烤蛋糕,False,False,False,False,False,False,False,False,report anywhere
+U12,陳小毛,淡水美食廣場,False,False,False,False,False,False,False,False,report anywhere
+U12,陳小毛,滬尾偕醫館,False,False,False,False,False,False,False,False,report anywhere
+U12,陳小毛,藝術牆面,False,False,False,False,False,False,False,False,report anywhere
+U12,陳小毛,7-11超商,False,False,False,False,False,False,False,False,report anywhere
+U12,陳小毛,淡水捷運站,True,False,False,False,False,False,False,False,report togo
+U12,陳小毛,淡水老街,True,False,False,False,False,False,False,False,report togo
+U12,陳小毛,許義魚酥,True,False,False,False,False,False,False,False,report togo
+U12,陳小毛,福佑宮,True,False,False,False,False,False,False,False,report togo
+U12,陳小毛,阿婆鐵蛋,True,False,False,False,False,False,False,False,report togo
+U40,U40,李圓圓,False,False,False,False,False,False,False,False,report anywhere
+U40,U40,淡水榕樹道,False,False,False,False,False,False,False,False,report anywhere
+U40,U40,海苔甜玉米,False,False,False,False,False,False,False,False,report anywhere
+U40,U40,許義魚酥,True,False,False,False,False,False,False,False,report togo
+U18,鋼鐵油條,阿媽的酸梅湯,False,False,False,False,False,False,False,False,report anywhere
+U18,鋼鐵油條,福佑宮,False,False,False,False,False,False,False,False,report anywhere
+U18,鋼鐵油條,登峯魚丸博物館,False,False,False,False,False,False,False,False,report anywhere
+U18,鋼鐵油條,許義魚酥,False,False,False,False,False,False,False,False,report anywhere
+U18,鋼鐵油條,淡水捷運站,False,False,False,False,False,True,False,False,report anywhere
+U18,鋼鐵油條,小白宮,False,False,False,False,False,False,False,False,report anywhere
+U18,鋼鐵油條,馬偕銅像,False,False,False,False,False,False,False,False,report anywhere
+U18,鋼鐵油條,真理大學禮拜堂,False,False,False,False,False,False,False,False,report anywhere
+U18,鋼鐵油條,滬尾偕醫館,False,False,False,False,False,False,False,False,report anywhere
+U18,鋼鐵油條,百葉溫州大餛飩,False,False,False,False,False,False,False,False,report anywhere
+U18,鋼鐵油條,紅毛城,True,False,False,False,False,False,False,False,report togo
+U18,鋼鐵油條,淡水老街,True,False,False,False,False,False,False,False,report togo
+U18,鋼鐵油條,紅毛城,True,False,False,False,False,False,False,False,report togo
+U18,鋼鐵油條,可口魚丸,True,False,False,False,False,False,False,False,report togo
+U18,鋼鐵油條,源味本舖現烤蛋糕,True,False,False,False,False,False,False,False,report togo
+U18,鋼鐵油條,文化阿給,True,False,False,False,False,False,False,False,report togo
+U18,鋼鐵油條,淡水文化園區-殼牌倉庫,True,False,False,False,False,True,False,False,report togo
+U18,鋼鐵油條,金色水岸,True,False,False,False,False,False,False,False,report togo
+U18,鋼鐵油條,海關碼頭,True,False,False,False,False,False,False,False,report togo
+U76,佑瑜,好好travel souvenir,False,False,False,False,False,False,False,False,report anywhere
+U76,佑瑜,蒸汽火車BK20,False,False,False,False,False,False,False,False,report anywhere
+U76,佑瑜,龍山寺,True,False,False,False,False,False,False,False,report togo
+U76,佑瑜,淡水渡船頭,True,False,False,False,False,False,False,False,report togo
+U76,佑瑜,文化阿給,True,False,False,False,False,False,False,False,report togo
+U76,佑瑜,淡水捷運站,True,False,False,False,False,True,True,False,report togo
+U76,佑瑜,阿媽的酸梅湯,True,False,False,False,False,False,False,False,report togo
+U76,佑瑜,淡水捷運站,True,False,False,False,False,True,True,False,report togo
+U76,佑瑜,信不信由你搜奇博物館,True,False,False,False,False,False,False,False,report togo
+U56,tingyu,文化阿給,False,False,False,False,False,False,False,False,report anywhere
+U56,tingyu,多田榮吉故居,False,False,False,False,False,False,False,False,report anywhere
+U56,tingyu,真理大學禮拜堂,True,False,False,False,False,False,False,False,report togo
+U56,tingyu,馬偕上岸處,True,False,False,False,False,True,False,False,report togo
+U56,tingyu,馬偕銅像,True,False,False,False,False,False,False,False,report togo
+U56,tingyu,真理大學,True,False,False,False,False,False,False,False,report togo
+U56,tingyu,滬尾偕醫館,True,False,False,False,False,True,False,False,report togo
+U56,tingyu,牧師樓,True,False,False,False,False,False,False,False,report togo
+U56,tingyu,馬偕租屋處,True,False,False,False,False,True,False,False,report togo
+U56,tingyu,淡水禮拜堂,True,False,False,False,False,False,False,False,report togo
+U56,tingyu,馬偕故居(馬偕紀念館),True,False,False,False,False,False,False,False,report togo
+U56,tingyu,理學堂大書院,True,False,False,False,False,False,False,False,report togo
+U56,tingyu,姑娘樓,True,False,False,False,False,False,False,False,report togo
+U56,tingyu,得忌利士洋行,True,False,False,False,False,True,False,False,report togo
+U56,tingyu,教士會館,True,False,False,False,False,False,False,False,report togo
+U56,tingyu,藝術穿堂,True,False,False,False,False,False,False,False,report togo
+U28,bruno,信不信由你搜奇博物館,False,False,False,False,False,False,False,False,report anywhere
+U28,bruno,阿媽的酸梅湯,True,False,False,False,False,False,False,False,report togo
+U28,bruno,龍山寺,True,False,False,False,False,False,False,False,report togo
+U28,bruno,福佑宮,True,False,False,False,False,False,False,False,report togo
+U28,bruno,淡水老街,True,False,False,False,False,False,False,False,report togo
+U28,bruno,淡水捷運站,True,False,False,False,False,True,False,False,report togo
+U28,bruno,清水巖,True,False,False,False,False,False,False,False,report togo
+U28,bruno,源味本舖現烤蛋糕,True,False,False,False,False,False,False,False,report togo
+U28,bruno,福佑宮,True,False,False,False,False,False,False,False,report togo
+U28,bruno,淡水渡船頭,True,False,False,False,False,False,False,False,report togo
+U28,bruno,淡水榕樹道,True,False,False,False,False,False,False,False,report togo
+U15,誠誠,阿婆鐵蛋,False,False,False,False,False,False,False,False,report anywhere
+U15,誠誠,淡水文化園區-殼牌倉庫,False,False,False,False,False,True,False,False,report anywhere
+U15,誠誠,馬偕上岸處,False,False,False,False,False,True,False,False,report anywhere
+U15,誠誠,福佑宮,False,False,False,False,False,False,False,False,report anywhere
+U15,誠誠,馬偕銅像,False,False,False,False,False,False,False,False,report anywhere
+U15,誠誠,蒸汽火車BK20,False,False,False,False,False,True,False,False,report anywhere
+U15,誠誠,淡水渡船頭,False,False,False,False,False,False,False,False,report anywhere
+U15,誠誠,淡水捷運站,False,False,False,False,False,True,True,False,report anywhere
+U15,誠誠,淡水禮拜堂,False,False,False,False,False,False,False,False,report anywhere
+U15,誠誠,淡水老街,False,False,False,False,False,True,False,False,report anywhere
+U15,誠誠,金色水岸,False,False,False,False,False,True,False,False,report anywhere
+U15,誠誠,之間茶食器,True,False,False,False,False,False,False,False,report togo
+U15,誠誠,得忌利士洋行,True,False,False,False,False,False,False,False,report togo
+U15,誠誠,之間茶食器,True,False,False,False,False,False,False,False,report togo
+U15,誠誠,滬尾偕醫館,True,False,False,False,False,False,False,False,report togo
+U15,誠誠,淡水文化園區-殼牌倉庫,True,False,False,False,False,True,False,False,report togo
+U15,誠誠,長堤咖啡餐館,True,False,False,False,False,False,False,False,report togo
+U04,軒,金色水岸,False,False,False,False,False,True,False,False,report anywhere
+U04,軒,滬尾偕醫館,False,False,False,False,False,False,False,False,report anywhere
+U04,軒,海關碼頭,False,False,False,False,False,False,False,False,report anywhere
+U04,軒,福佑宮,False,False,False,False,False,False,False,False,report anywhere
+U04,軒,馬偕銅像,False,False,False,False,False,False,False,False,report anywhere
+U04,軒,馬偕上岸處,False,False,False,False,False,False,False,False,report anywhere
+U04,軒,合益魚酥,False,False,False,False,False,False,False,False,report anywhere
+U04,軒,蒸汽火車BK20,True,False,False,False,False,False,False,False,report togo
+U04,軒,淡水榕樹道,True,False,False,False,False,False,False,False,report togo
+U04,軒,淡水禮拜堂,True,False,False,False,False,False,False,False,report togo
+U04,軒,淡水捷運站,True,False,False,False,False,True,False,False,report togo
+U04,軒,英專夜市,True,False,False,False,False,False,False,False,report togo
+U04,軒,信不信由你搜奇博物館,True,False,False,False,False,False,False,False,report togo
+U23,阿威,清水巖,False,False,False,False,False,False,False,False,report anywhere
+U23,阿威,淡水禮拜堂,False,False,False,False,False,False,False,False,report anywhere
+U23,阿威,多田榮吉故居,False,False,False,False,False,False,False,False,report anywhere
+U23,阿威,馬偕上岸處,False,False,False,False,False,True,False,False,report anywhere
+U23,阿威,金色水岸,False,False,False,False,False,False,False,False,report togo
+U23,阿威,阿婆鐵蛋,True,False,False,False,False,False,False,False,report togo
+U23,阿威,姑娘樓,True,False,False,False,False,False,False,False,report togo
+U23,阿威,阿婆鐵蛋,True,False,False,False,False,False,False,False,report togo
+U23,阿威,淡水文化園區-殼牌倉庫,True,False,False,False,False,True,False,False,report togo
+U23,阿威,合益魚酥,False,False,False,False,False,False,False,False,report togo
+U23,阿威,牧師樓,True,False,False,False,False,False,False,False,report togo
+U23,阿威,阿媽的酸梅湯,True,False,False,False,False,False,False,False,report togo
+U23,阿威,理學堂大書院,False,False,False,False,False,True,False,False,report togo
+U23,阿威,龍山寺,True,False,False,False,False,False,False,False,report togo
+U23,阿威,重建街戀愛巷,True,False,False,False,False,True,False,False,report togo
+U23,阿威,真理大學,False,False,False,False,False,False,False,False,report togo
+U23,阿威,文化阿給,False,False,False,False,False,False,False,False,report togo
+U23,阿威,真理大學禮拜堂,False,False,False,False,False,False,False,False,report togo
+U54,U54,木下靜涯紀念公園,False,False,False,False,False,False,False,False,report anywhere
+U54,U54,多田榮吉故居,False,False,False,False,False,False,False,False,report anywhere
+U54,U54,金色水岸,False,False,False,False,False,False,False,False,report anywhere
+U54,U54,阿婆鐵蛋,False,False,False,False,False,False,False,False,report anywhere
+U54,U54,阿媽的酸梅湯,False,False,False,False,False,False,False,False,report anywhere
+U54,U54,海關碼頭,False,False,False,False,False,False,False,False,report anywhere
+U54,U54,紅樓中餐廳,False,False,False,False,False,False,False,False,report anywhere
+U54,U54,淡水老街,False,False,False,False,False,False,False,False,report anywhere
+U54,U54,淡水禮拜堂,True,False,False,False,False,False,False,False,report togo
+U54,U54,理學堂大書院,True,False,False,False,False,False,False,False,report togo
+U54,U54,淡水渡船頭,True,False,False,False,False,False,False,False,report togo
+U54,U54,淡水捷運站,True,False,False,False,False,True,False,False,report togo
+U54,U54,小白宮,True,False,False,False,False,False,False,False,report togo
+U54,U54,真理大學禮拜堂,True,False,False,False,False,False,False,False,report togo
+U54,U54,淡水文化園區-殼牌倉庫,True,False,False,False,False,True,False,False,report togo
+U54,U54,馬偕故居(馬偕紀念館),True,False,False,False,False,False,False,False,report togo
+U54,U54,紅毛城,True,False,False,False,False,False,False,False,report togo
+U54,U54,真理大學,True,False,False,False,False,False,False,False,report togo
+U54,U54,滬尾偕醫館,True,False,False,False,False,False,False,False,report togo
+U08,小明,阿媽的酸梅湯,False,False,False,False,False,False,False,False,report anywhere
+U08,小明,金色水岸,False,False,False,False,False,True,False,False,report anywhere
+U08,小明,龍山寺,False,False,False,False,False,False,False,False,report anywhere
+U08,小明,木下靜涯紀念公園,False,False,False,False,False,False,False,False,report anywhere
+U08,小明,金色水岸,False,False,False,False,False,False,False,False,report anywhere
+U08,小明,龍山寺,False,False,False,False,False,False,False,False,report anywhere
+U08,小明,新建成餅店,False,False,False,False,False,False,False,False,report anywhere
+U08,小明,得忌利士洋行,False,False,False,False,False,False,False,False,report anywhere
+U08,小明,淡水捷運站,True,False,False,False,False,True,False,False,report togo
+U63,Zhen Li,馬偕銅像,False,False,False,False,False,False,False,False,report anywhere
+U63,Zhen Li,淡水遊滬旅遊中心,False,False,False,False,False,False,False,False,report anywhere
+U63,Zhen Li,滬尾偕醫館,False,False,False,False,False,False,False,False,report anywhere
+U63,Zhen Li,老店阿給,False,False,False,False,False,False,False,False,report anywhere
+U63,Zhen Li,陳澄波戶外美術館,False,False,False,False,False,False,False,False,report anywhere
+U63,Zhen Li,福佑宮,False,False,False,False,False,False,False,False,report anywhere
+U63,Zhen Li,老店淡水魚丸,False,False,False,False,False,False,False,False,report anywhere
+U63,Zhen Li,保安藥房,False,False,False,False,False,False,False,False,report anywhere
+U63,Zhen Li,阿婆鐵蛋,True,False,False,False,False,False,False,False,report togo
+U63,Zhen Li,阿媽的酸梅湯,True,False,False,False,False,False,False,False,report togo
+U63,Zhen Li,阿婆鐵蛋,True,False,False,False,False,False,False,False,report togo
+U45,richard,福佑宮,False,False,False,False,False,False,False,False,report anywhere
+U45,richard,金色水岸,False,False,False,False,False,False,False,False,report anywhere
+U45,richard,馬偕銅像,False,False,False,False,False,False,False,False,report anywhere
+U45,richard,淡水渡船頭,False,False,False,False,False,True,False,False,report anywhere
+U45,richard,阿嬤芋圓,False,False,False,False,False,False,False,False,report anywhere
+U45,richard,淡水禮拜堂,False,False,False,False,False,False,False,False,report anywhere
+U45,richard,淡水老街,True,False,False,False,False,False,False,False,report togo
+U45,richard,淡水文化園區-殼牌倉庫,True,False,False,False,False,False,False,False,report togo
+U45,richard,淡水老街,True,False,False,False,False,False,False,False,report togo
+U79,jude,福佑宮,False,False,False,False,False,False,False,False,report anywhere
+U79,jude,馬偕故居(馬偕紀念館),False,False,False,False,False,False,False,False,report anywhere
+U79,jude,阿婆鐵蛋,False,False,False,False,False,False,False,False,report anywhere
+U79,jude,滬尾偕醫館,False,False,False,False,False,False,False,False,report anywhere
+U79,jude,淡水老街,False,False,False,False,False,False,False,False,report anywhere
+U79,jude,淡水渡船頭,False,False,False,False,False,False,False,False,report anywhere
+U79,jude,馬偕銅像,False,False,False,False,False,False,False,False,report anywhere
+U79,jude,淡水捷運站,False,False,False,False,False,False,False,False,report anywhere
+U79,jude,多田榮吉故居,True,False,False,False,False,False,False,False,report togo
+U79,jude,牧師樓,True,False,False,False,False,False,False,False,report togo
+U79,jude,金色水岸,True,False,False,False,False,False,False,False,report togo
+U79,jude,真理大學禮拜堂,True,False,False,False,False,False,False,False,report togo
+U79,jude,紅樓中餐廳,True,False,False,False,False,False,False,False,report togo
+U79,jude,木下靜涯紀念公園,True,False,False,False,False,False,False,False,report togo
+U79,jude,淡水文化園區-殼牌倉庫,True,False,False,False,False,True,False,False,report togo
+U79,jude,紅毛城,True,False,False,False,False,False,False,False,report togo
+U79,jude,清水巖,True,False,False,False,False,False,False,False,report togo
+U79,jude,理學堂大書院,True,False,False,False,False,False,False,False,report togo
+U79,jude,姑娘樓,True,False,False,False,False,False,False,False,report togo
+U79,jude,淡水榕樹道,True,False,False,False,False,False,False,False,report togo
+U79,jude,白樓故事牆,True,False,False,False,False,False,False,False,report togo
+U79,jude,教士會館,True,False,False,False,False,False,False,False,report togo
+U79,jude,淡水禮拜堂,True,False,False,False,False,False,False,False,report togo
+U79,jude,小白宮,True,False,False,False,False,False,False,False,report togo
+U79,jude,清水巖,True,False,False,False,False,False,False,False,report togo
+U79,jude,藝術穿堂,True,False,False,False,False,False,False,False,report togo
+U79,jude,真理大學,True,False,False,False,False,False,False,False,report togo
+U79,jude,藝術工坊,True,False,False,False,False,False,False,False,report togo
+U79,jude,信不信由你搜奇博物館,True,False,False,False,False,False,False,False,report togo
+U79,jude,金色水岸,True,False,False,False,False,False,False,False,report togo
+U30,mumu,日本警官宿舍,False,False,False,False,False,False,False,False,report anywhere
+U30,mumu,3D意象彩繪階梯,False,False,False,False,False,False,False,False,report anywhere
+U30,mumu,馬偕銅像,False,False,False,False,False,False,False,False,report anywhere
+U30,mumu,蒸汽火車BK20,False,False,False,False,False,False,False,False,report anywhere
+U30,mumu,旅學堂,False,False,False,False,False,False,False,False,report anywhere
+U30,mumu,淡水禮拜堂,False,False,False,False,False,True,True,False,report anywhere
+U30,mumu,鄉愁茶坊,False,False,False,False,False,False,False,False,report anywhere
+U30,mumu,多田榮吉冰店,False,False,False,False,False,False,False,False,report anywhere
+U30,mumu,淡水渡船頭,False,False,False,False,False,False,False,False,report anywhere
+U30,mumu,新建成餅店,False,False,False,False,False,True,True,False,report anywhere
+U30,mumu,淡水老街,True,False,False,False,False,False,False,False,report togo
+U30,mumu,淡水文化園區-殼牌倉庫,True,False,False,False,False,True,False,False,report togo
+U30,mumu,滬尾偕醫館,True,False,False,False,True,False,False,False,report togo
+U30,mumu,金色水岸,True,False,False,False,False,True,True,False,report togo
+U30,mumu,金色水岸,True,False,False,False,False,True,True,False,report togo
+U30,mumu,重建街戀愛巷,True,False,False,False,False,False,False,False,report togo
+U30,mumu,多田榮吉故居,True,False,False,False,False,False,False,False,report togo
+U30,mumu,滬尾偕醫館,True,False,False,False,True,False,False,False,report togo
+U34,老布,馬偕上岸處,True,False,False,False,False,False,False,False,report togo
+U34,老布,英國領事館,True,False,False,False,False,False,False,False,report togo
+U34,老布,阿婆鐵蛋,True,False,False,False,False,False,False,False,report togo
+U34,老布,蒸汽火車BK20,True,False,False,False,False,True,False,False,report togo
+U34,老布,淡水捷運站,True,False,False,False,False,True,False,False,report togo
+U34,老布,紅毛城,True,False,False,False,False,False,False,False,report togo
+U34,老布,淡水捷運站,True,False,False,False,False,True,False,False,report togo
+U34,老布,海關碼頭,True,False,False,False,False,False,False,False,report togo
+U34,老布,藝術工坊,True,False,False,False,False,False,False,False,report togo
+U34,老布,藝術穿堂,True,False,False,False,False,False,False,False,report togo
+U34,老布,理學堂大書院,True,False,False,False,False,False,False,False,report togo
+U34,老布,小白宮,True,False,False,False,False,False,False,False,report togo
+U34,老布,金色水岸,True,False,False,False,False,True,False,False,report togo
+U34,老布,文化阿給,True,False,False,False,False,False,False,False,report togo
+U34,老布,淡水老街,True,False,False,False,False,False,False,False,report togo
+U34,老布,牧師樓,True,False,False,False,False,False,False,False,report togo
+U34,老布,教士會館,True,False,False,False,False,False,False,False,report togo
+U34,老布,海風餐廳,True,False,False,False,False,False,False,False,report togo
+U34,老布,英專夜市,True,False,False,False,False,False,False,False,report togo
+U34,老布,淡水榕樹道,True,False,False,False,False,False,False,False,report togo
+U34,老布,姑娘樓,True,False,False,False,False,False,False,False,report togo
+U34,老布,淡水渡船頭,True,False,False,False,False,False,False,False,report togo
+U02,k,福佑宮,False,False,False,False,False,False,False,False,report anywhere
+U02,k,藝術工坊,False,False,False,False,False,True,False,False,report anywhere
+U02,k,海關碼頭,False,False,False,False,False,False,False,False,report anywhere
+U02,k,淡水禮拜堂,False,False,False,False,False,False,False,False,report anywhere
+U02,k,原領事船屋遺址,False,False,False,False,False,False,False,False,report anywhere
+U02,k,源味本舖現烤蛋糕,False,False,False,False,False,False,False,False,report anywhere
+U02,k,淡水榕樹道,False,False,False,False,False,False,False,False,report anywhere
+U02,k,馬偕上岸處,False,False,False,False,False,False,False,False,report anywhere
+U02,k,齊柏林空間,False,False,False,False,False,False,False,False,report anywhere
+U02,k,金色水岸,False,False,False,False,False,False,False,False,report anywhere
+U02,k,馬借租屋處,False,False,False,False,False,False,False,False,report anywhere
+U02,k,金色水岸,False,False,False,False,False,True,False,False,report anywhere
+U02,k,百葉溫州大餛飩,True,False,False,False,False,False,False,False,report togo
+U02,k,阿媽的酸梅湯,True,False,False,False,False,False,False,False,report togo
+U02,k,淡水文化園區-殼牌倉庫,True,False,False,False,False,False,False,False,report togo
+U02,k,得忌利士洋行,True,False,False,False,False,False,False,False,report togo
+U02,k,真理大學禮拜堂,True,False,False,False,False,True,False,False,report togo
+U02,k,淡水文化園區-殼牌倉庫,True,False,False,False,False,False,False,False,report togo
+U02,k,多田榮吉故居,True,False,False,False,False,True,False,False,report togo
+U53,Chien Hung Kao,淡水捷運站,False,False,False,False,False,True,False,False,report anywhere
+U53,Chien Hung Kao,阿婆鐵蛋,False,False,False,False,False,False,False,False,report anywhere
+U53,Chien Hung Kao,得忌利士洋行,False,False,False,False,False,True,False,False,report anywhere
+U53,Chien Hung Kao,文化阿給,False,False,False,False,False,False,False,False,report anywhere
+U53,Chien Hung Kao,淡水老街,False,False,False,False,False,False,False,False,report anywhere
+U53,Chien Hung Kao,福佑宮,False,False,False,False,False,False,False,False,report anywhere
+U53,Chien Hung Kao,源味本舖現烤蛋糕,False,False,False,False,False,False,False,False,report anywhere
+U53,Chien Hung Kao,紅毛城,False,False,False,False,False,False,False,False,report anywhere
+U53,Chien Hung Kao,淡水渡船頭,False,False,False,False,False,False,False,False,report anywhere
+U53,Chien Hung Kao,馬偕上岸處,False,False,False,False,False,False,False,False,report anywhere
+U53,Chien Hung Kao,金色水岸,False,False,False,False,False,True,False,False,report anywhere
+U53,Chien Hung Kao,淡水圖書館,False,False,False,False,False,False,False,False,report anywhere
+U53,Chien Hung Kao,淡江高中,False,False,False,False,False,True,False,False,report anywhere
+U53,Chien Hung Kao,海關碼頭,False,False,False,False,False,False,False,False,report anywhere
+U53,Chien Hung Kao,小白宮,True,False,False,False,False,False,False,False,report togo
+U53,Chien Hung Kao,滬尾偕醫館,True,False,False,False,False,False,False,False,report togo
+U53,Chien Hung Kao,淡水禮拜堂,True,False,False,False,False,False,False,False,report togo
+U53,Chien Hung Kao,真理大學,True,False,False,False,False,False,False,False,report togo
+U53,Chien Hung Kao,真理大學,True,False,False,False,False,False,False,False,report togo
+U53,Chien Hung Kao,真理大學禮拜堂,True,False,False,False,False,False,False,False,report togo
+U64,AMO,淡水紅樓,False,False,False,False,False,False,False,False,report anywhere
+U64,AMO,滬尾偕醫館,False,False,False,False,False,False,False,False,report anywhere
+U64,AMO,百葉溫州大餛飩 冰店,False,False,False,False,False,False,False,False,report anywhere
+U64,AMO,保安藥房,False,False,False,False,False,False,False,False,report anywhere
+U64,AMO,鹹酸甜,False,False,False,False,False,False,False,False,report anywhere
+U64,AMO,花枝的燒,False,False,False,False,False,False,False,False,report anywhere
+U64,AMO,陳澄波戶外美術館,False,False,False,False,False,False,False,False,report anywhere
+U64,AMO,老店淡水魚丸,False,False,False,False,False,False,False,False,report anywhere
+U64,AMO,小房子,False,False,False,False,False,False,False,False,report anywhere
+U64,AMO,福佑宮,False,False,False,False,False,False,False,False,report anywhere
+U64,AMO,淡水遊滬旅遊中心,False,False,False,False,False,False,False,False,report anywhere
+U64,AMO,金色水岸,False,False,False,False,False,False,False,False,report anywhere
+U64,AMO,淡水老街,False,False,False,False,False,False,False,False,report anywhere
+U64,AMO,淡水禮拜堂,False,False,False,False,False,False,False,False,report anywhere
+U64,AMO,金色水岸,False,False,False,False,False,False,False,False,report anywhere
+U64,AMO,阿媽的酸梅湯,True,False,False,False,False,False,False,False,report togo
+U64,AMO,馬偕銅像,True,False,False,False,False,False,False,False,report togo
+U64,AMO,阿婆鐵蛋,True,False,False,False,False,False,False,False,report togo
+U64,AMO,可口魚丸,True,False,False,False,False,False,False,False,report togo
+U64,AMO,馬偕銅像,True,False,False,False,False,False,False,False,report togo
+U64,AMO,馬偕銅像,True,False,False,False,False,False,False,False,report togo
