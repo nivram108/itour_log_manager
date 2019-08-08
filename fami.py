@@ -8,7 +8,7 @@ while line:
     line = line.replace("\n", "")
     l = line.split(",")
     uid_map[l[1]] = l[0]
-    line = uid_file.readline()
+    line = name_uid_file.readline()
 
 line = fami_file.readline()
 
@@ -18,8 +18,8 @@ while line:
     uid = ""
     if l[0] in uid_map:
         uid = uid_map[l[0]]
-    else if l[1] in uid_map:
-        uid = uid_map[l[0]]
+    elif l[1] in uid_map:
+        uid = uid_map[l[1]]
     else:
         uid = "INVALID"
     fami_uid_output.write(line.replace(l[1], uid))
