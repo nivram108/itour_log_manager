@@ -3,8 +3,8 @@ from time import gmtime, strftime
 import json
 import collections
 
-version = "community"
-#version = "google"
+#version = "community"
+version = "google"
 output_file_name = version + ".csv"
 # output_file_name = "output_" + strftime("%m%d_%H_%M_%S", gmtime()) + ".csv"
 checkin_location_dict = {}
