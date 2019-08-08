@@ -19,7 +19,7 @@ while line:
     if l[0] in uid_map:
         uid = uid_map[l[0]]
     elif l[1] in uid_map:
-        uid = uid_map[l[1]]
+        uid = "_" + uid_map[l[1]]
     else:
         uid = l[1]
     fami_uid_output.write(line.replace(l[1], uid) + "\n")
