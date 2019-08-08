@@ -21,6 +21,6 @@ while line:
     elif l[1] in uid_map:
         uid = uid_map[l[1]]
     else:
-        uid = "INVALID"
-    fami_uid_output.write(line.replace(l[1], uid))
+        uid = l[1]
+    fami_uid_output.write(line.replace(l[1], uid) + "\n")
     line = fami_file.readline()
