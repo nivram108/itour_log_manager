@@ -106,6 +106,29 @@ class User():
             if uid != "INVALID":
                 self.write_reported(uid + "," + name + "," + location + "," + is_togo_result + "," + is_viewed_notification_hot_checkin + "," + is_viewed_news_hot_checkin + "," + is_viewed_notification_hot_spot + "," + is_viewed_news_hot_spot + ","  + is_viewed_from_checkin_result + "," + liked_result + "," + saved_result + "," + "report anywhere" + "," + str(log.timestamp))
 
+        # write new view checkin file
+        for log in self.viewed_checkin:
+            uid = self.get_id()
+            name = self.name
+            location = log.location
+            is_togo_result = self.get_result_by_location(log, self.togo_list)
+            is_viewed_notification_hot_checkin = self.get_result_by_checkin_id(log, self.viewed_notification_hot_checkin)
+            is_viewed_news_hot_checkin = self.get_result_by_checkin_id(log, self.viewed_news_hot_checkin)
+            is_viewed_notification_hot_spot = self.get_result_by_location(log, self.viewed_notification_hot_spot)
+            is_viewed_news_hot_spot = self.get_result_by_location(log, self.viewed_news_hot_spot)
+            is_viewed_from_checkin_result = self.get_result_by_checkin_id(log, self.viewed_checkin)
+            liked_result = self.get_result_by_checkin_id(log, self.liked_checkin)
+            saved_result = self.get_result_by_checkin_id(log, self.collected_checkin)
+            isvisited_result = False
+            report_togo_result = self.get_result_by_location(log, self.report_togo)
+            report_anywhere_result = self.get_result_by_location(log, self.report_anywhere)
+            report_saved_result = self.get_result_by_location(log, self.report_checkin)
+            add_checkin_result = self.get_result_by_location(log, self.add_checkin)
+            isvisited_result = report_togo_result or report_anywhere_result or report_saved_result or add_checkin_result
+            if uid != "INVALID":
+                self.write_viewed(uid + "," + name + "," + location + "," + is_togo_result + "," + is_viewed_notification_hot_checkin + "," + is_viewed_news_hot_checkin + "," + is_viewed_notification_hot_spot + "," + is_viewed_news_hot_spot + ","  + is_viewed_from_checkin_result + "," + liked_result + "," + saved_result + "," + isvisited_result + "," + report_togo_result + "," + report_anywhere_result + "," + report_saved_result + "," + add_checkin_result + "," + str(log.timestamp))
+        # EOF write viewed data
+
         for log in self.report_checkin:
             uid = self.get_id()
             name = self.name
@@ -213,6 +236,9 @@ class User():
         return True
     def write_reported(self, data):
         reported_file = open("reported_" + self.file_name, "a+")
+        reported_file.write(data + "\n")
+    def write_viewed(self, data):
+        reported_file = open("viewed_" + self.file_name, "a+")
         reported_file.write(data + "\n")
     def write_unvisited(self, data):
         unvisited_file = open("unvisited_" + self.file_name, "a+")
