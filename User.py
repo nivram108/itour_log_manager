@@ -235,13 +235,13 @@ class User():
                 return False
         return True
     def write_reported(self, data):
-        reported_file = open("reported_" + self.file_name, "a+")
+        reported_file = open("reported_" + self.file_name, "w")
         reported_file.write(data + "\n")
     def write_viewed(self, data):
-        reported_file = open("viewed_" + self.file_name, "a+")
+        reported_file = open("viewed_" + self.file_name, "w")
         reported_file.write(data + "\n")
     def write_unvisited(self, data):
-        unvisited_file = open("unvisited_" + self.file_name, "a+")
+        unvisited_file = open("unvisited_" + self.file_name, "w")
         unvisited_file.write(data + "\n")
     def load_init_togo(self):
         uid = self.uid
