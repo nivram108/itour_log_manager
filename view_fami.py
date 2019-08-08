@@ -13,7 +13,7 @@ while line:
     uid = l[1]
     if uid == "INVALID":
         line = line
-    elif "_" in uid == False:
+    elif not "_" in uid:
         for x in range(len(spots)):
             key = uid + spots[x]
             uid_fami_map_exclusive[key] = l[x + 2]
@@ -32,6 +32,7 @@ while line:
     key = l[0] + l[2]
     fami_exclusive = "INVALID"
     fami_inclusive = "INVALID"
+    print("find key:" + key)
     if key in uid_fami_map_exclusive:
         fami_exclusive = uid_fami_map_exclusive[key]
     if key in uid_fami_map_inclusive:
