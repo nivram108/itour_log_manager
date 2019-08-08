@@ -1,4 +1,4 @@
-log_file = open("report_strange_output_detail.csv", "r")
+log_file = open("report_summary.csv", "r")
 spot_file = open("spot.txt", "r")
 
 report_including_ONLYPOI = open("report_including_ONLYPOI.csv", "w")
