@@ -1,3 +1,4 @@
-uid = "_U20"
-
-print("_" in uid)
+a = True
+b = False
+c = False
+print(a or b or c)
