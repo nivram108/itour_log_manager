@@ -124,9 +124,9 @@ class User():
             report_anywhere_result = self.get_result_by_location(log, self.report_anywhere)
             report_saved_result = self.get_result_by_location(log, self.report_checkin)
             add_checkin_result = self.get_result_by_location(log, self.add_checkin)
-            isvisited_result = report_togo_result or report_anywhere_result or report_saved_result or add_checkin_result
+            isvisited_result = report_togo_result == "True" or report_anywhere_result == "True" or report_saved_result == "True" or add_checkin_result == "True"
             if uid != "INVALID":
-                self.write_viewed(uid + "," + name + "," + location + "," + is_togo_result + "," + is_viewed_notification_hot_checkin + "," + is_viewed_news_hot_checkin + "," + is_viewed_notification_hot_spot + "," + is_viewed_news_hot_spot + ","  + is_viewed_from_checkin_result + "," + liked_result + "," + saved_result + "," + isvisited_result + "," + report_togo_result + "," + report_anywhere_result + "," + report_saved_result + "," + add_checkin_result + "," + str(log.timestamp))
+                self.write_viewed(uid + "," + name + "," + location + "," + is_togo_result + "," + is_viewed_notification_hot_checkin + "," + is_viewed_news_hot_checkin + "," + is_viewed_notification_hot_spot + "," + is_viewed_news_hot_spot + ","  + is_viewed_from_checkin_result + "," + liked_result + "," + saved_result + "," + str(isvisited_result) + "," + report_togo_result + "," + report_anywhere_result + "," + report_saved_result + "," + add_checkin_result + "," + str(log.timestamp))
         # EOF write viewed data
 
         for log in self.report_checkin:
