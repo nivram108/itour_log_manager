@@ -27,10 +27,10 @@ while line:
             uid = uid.replace("_", "")
             key = uid + spots[x]
             if key in uid_fami_map_companies :
-                uid_fami_map_companies[key].add(l[x + 2])
+                uid_fami_map_companies[key].append(l[x + 2])
             else:
                 ls = []
-                ls.add(l[x + 2])
+                ls.append(l[x + 2])
                 uid_fami_map_companies[key] = ls
     #        print("IN:" + key)
     line = fami_uid.readline().replace("\n", "")
