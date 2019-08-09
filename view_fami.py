@@ -22,7 +22,7 @@ while line:
             key = uid + spots[x]
             uid_fami_map_exclusive[key] = l[x + 2]
             uid_fami_map_inclusive[key] = l[x + 2]
-            print("EX:" + key)
+     #       print("EX:" + key)
     else:
         for x in range(len(spots)):
             key = uid + spots[x]
@@ -31,7 +31,7 @@ while line:
                     uid_fami_map_inclusive[key] = l[x + 2]
             else:
                 uid_fami_map_inclusive[key] = l[x + 2]
-            print("IN:" + key)
+    #        print("IN:" + key)
     line = fami_uid.readline().replace("\n", "")
 
 line = viewed_checkin.readline().replace("\n", "")
@@ -40,12 +40,12 @@ while line:
     key = l[0] + l[2]
     fami_exclusive = "INVALID"
     fami_inclusive = "INVALID"
-    print("find key:" + key)
+   # print("find key:" + key)
     if key in uid_fami_map_exclusive:
         fami_exclusive = uid_fami_map_exclusive[key]
     if key in uid_fami_map_inclusive:
         fami_inclusive = uid_fami_map_inclusive[key]
     is_poi = l[2] in spots
-    view_exclusive.write(line + "," + fami_exclusive + "," + is_poi + "\n")
-    view_inclusive.write(line + "," + fami_inclusive + "," + is_poi + "\n")
+    view_exclusive.write(line + "," + fami_exclusive + "," + str(is_poi) + "\n")
+    view_inclusive.write(line + "," + fami_inclusive + "," + str(is_poi) + "\n")
     line = viewed_checkin.readline().replace("\n", "")
