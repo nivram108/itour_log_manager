@@ -45,10 +45,14 @@ while line:
         fami_exclusive = uid_fami_map_exclusive[key]
     is_poi = l[2] in spots
     companies_fami = ""
-    for key, fami_list in uid_fami_map_companies.items():
+    if key in uid_fami_map_companies:
+        fami_list = uid_fami_map_companies[key]
         for fami in fami_list:
             companies_fami += fami + ","
         for x in range(len(fami_list), 4):
+            companies_fami += "INVALID,"
+    else:
+        for x in range(0, 4):
             companies_fami += "INVALID,"
     view_exclusive.write(line + "," + fami_exclusive + "," + str(is_poi) + "\n")
     view_inclusive.write(line + "," + fami_exclusive + ","  + companies_fami + str(is_poi) + "\n")
