@@ -1,1 +1,3 @@
-f = open(fami_spot
+uid = "_U20"
+
+print("_" in uid)
