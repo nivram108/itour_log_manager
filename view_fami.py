@@ -39,7 +39,7 @@ line = viewed_checkin.readline().replace("\n", "")
 while line:
     l = line.split(",")
     key = l[0] + l[2]
-    fami_inclusive = "INVALID"
+    fami_exclusive = "INVALID"
    # print("find key:" + key)
     if key in uid_fami_map_exclusive:
         fami_exclusive = uid_fami_map_exclusive[key]
