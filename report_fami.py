@@ -1,9 +1,9 @@
 fami_uid = open("fami_uid.csv", "r")
 fami_spot = open("fami_spot.txt", "r")
 # data_name = "report_including_ALL_uniq_location"
-data_name = "report_including_ONLYPOI_uniq_location"
+data_name = "report_summary"
 report_data = open(data_name + ".csv", "r")
-report_output = open(data_name + "_fami.csv", "w")
+report_output = open("your_checkin_data.csv", "w")
 spots = fami_spot.readline().replace("\n", "").split(",")
 uid_fami_map_companies = {}
 uid_fami_map_exclusive = {}
@@ -44,7 +44,7 @@ while line:
    # print("find key:" + key)
     if key in uid_fami_map_exclusive:
         fami_exclusive = uid_fami_map_exclusive[key]
-    is_poi = l[2] in spots
+    is_poi = l[4] in spots
     companies_fami = ""
     if key in uid_fami_map_companies:
         fami_list = uid_fami_map_companies[key]
